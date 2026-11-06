@@ -1,0 +1,3509 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "WZN2hy-7Gwxe0Jvv_texe02YatE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Y0a8rvj1T0V-Ws9fmnpQiUIygRU",
+      "id": "3gSJshXZYlg",
+      "snippet": {
+        "publishedAt": "2026-05-09T09:00:08Z",
+        "channelId": "UCDGZfGTkigxxbUk7AL10OtQ",
+        "title": "Relaxing Day Trip from Tokyo|A peaceful day trip to Kawagoe|JAPAN TRAVEL VLOG",
+        "description": "Hi, I'm Daisuke😊\n\nI took a trip to Kawagoe, a town that retains the atmosphere of the Edo period and is only a 40-minute train ride from Tokyo! ✨\nIt’s the perfect place for a relaxing day off, and I had a wonderful time👍\n\nHere on Daisuke's Travels Japan, I share unique travel experiences and hidden gems across Japan!\nIf you enjoyed this video, please give it a thumbs up and subscribe to the channel for more!🌸\n→ https://www.youtube.com/channel/UCDGZfGTkigxxbUk7AL10OtQ\n\nThanks for watching! 😉\n\n[Timestamps]\n0:00 Intro\n0:45 Heading to Kawagoe Station by train\n1:51 Walking to the historic Edo district\n3:36 Starbucks Coffee - Kawagoe Kanetsuki-dori\n4:34 Kawagoe Hikawa Shrine\n7:24 Exploring the historic Kurazukuri (Warehouse) district\n11:58 Shimano Coffee Taishokan\n\n\n🎵Music provided by BGM President\n🎵Track : Walking In Spring - https://www.youtube.com/watch?v=aejb9ieCx2U\n🎵Track : Proud - https://www.youtube.com/watch?v=gYZ5w4C7xCE\n🎵Track : On The Flower Path - https://www.youtube.com/watch?v=l-oe8t91CnA&t=1s\n🎵Track : Maple Waltz - https://www.youtube.com/watch?v=B-zojrh6vAQ\n🎵Track : Loving You - https://www.youtube.com/watch?v=1rwWbtLvgAc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Daisuke's Travels Japan",
+        "tags": [
+          "japan travel",
+          "tokyo travel",
+          "tokyo vlog",
+          "japan vlog",
+          "vlog japan",
+          "tokyo cafe",
+          "travel japan",
+          "tokyo travel guide",
+          "yt:cc=on",
+          "japan food",
+          "kawagoe",
+          "train trip"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Relaxing Day Trip from Tokyo|A peaceful day trip to Kawagoe|JAPAN TRAVEL VLOG",
+          "description": "Hi, I'm Daisuke😊\n\nI took a trip to Kawagoe, a town that retains the atmosphere of the Edo period and is only a 40-minute train ride from Tokyo! ✨\nIt’s the perfect place for a relaxing day off, and I had a wonderful time👍\n\nHere on Daisuke's Travels Japan, I share unique travel experiences and hidden gems across Japan!\nIf you enjoyed this video, please give it a thumbs up and subscribe to the channel for more!🌸\n→ https://www.youtube.com/channel/UCDGZfGTkigxxbUk7AL10OtQ\n\nThanks for watching! 😉\n\n[Timestamps]\n0:00 Intro\n0:45 Heading to Kawagoe Station by train\n1:51 Walking to the historic Edo district\n3:36 Starbucks Coffee - Kawagoe Kanetsuki-dori\n4:34 Kawagoe Hikawa Shrine\n7:24 Exploring the historic Kurazukuri (Warehouse) district\n11:58 Shimano Coffee Taishokan\n\n\n🎵Music provided by BGM President\n🎵Track : Walking In Spring - https://www.youtube.com/watch?v=aejb9ieCx2U\n🎵Track : Proud - https://www.youtube.com/watch?v=gYZ5w4C7xCE\n🎵Track : On The Flower Path - https://www.youtube.com/watch?v=l-oe8t91CnA&t=1s\n🎵Track : Maple Waltz - https://www.youtube.com/watch?v=B-zojrh6vAQ\n🎵Track : Loving You - https://www.youtube.com/watch?v=1rwWbtLvgAc"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15119",
+        "likeCount": "279",
+        "favoriteCount": "0",
+        "commentCount": "35"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YHLNe_K6-vn2gMZTK2vJEhzlYlc",
+      "id": "3hYpI5T7sNE",
+      "snippet": {
+        "publishedAt": "2026-02-20T10:40:56Z",
+        "channelId": "UC9rYKmvuh4xVgIRTJwNyejA",
+        "title": "Kawagoe Saitama Night Walking Tour 川越 | Historic Little Edo • Tokyo Suburbs Night Walk • 4K HDR ASMR",
+        "description": "Experience a peaceful night walk through Kawagoe,\nthe historic “Little Edo” town in Saitama near Tokyo.\n\nThis 4K HDR ASMR walking tour captures traditional\nwarehouse streets, warm lantern lighting, and the\nquiet nighttime atmosphere of this preserved Edo-era district.\n\n東京近郊・埼玉県川越市の「小江戸」を歩く\n4K HDR ASMR夜散歩です。\n\n蔵造りの街並みや提灯の灯り、\nそして歴史ある落ち着いた夜の雰囲気を\n自然な環境音とともに記録しています。\n\n• Location: Kawagoe (川越), Saitama  \n• Area: Kurazukuri Warehouse District 蔵造りの街並み  \n• Theme: Historic Town | Little Edo | Lantern Streets  \n• Format: Walking Tour | 4K HDR | ASMR Natural Ambient Sounds  \n\n#tokyowalk \n#4khdr \n#kawagoe  \n#川越  \n#LittleEdo  \n#TokyoSuburbs   \n#ASMR  \n#JapanTravel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hYpI5T7sNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hYpI5T7sNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hYpI5T7sNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3hYpI5T7sNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3hYpI5T7sNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/3hYpI5T7sNE/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "City Stride | HDR Tokyo Walk",
+        "tags": [
+          "japan walking tour 4k hdr",
+          "explore tokyo hdr",
+          "japan hdr walking video",
+          "japan hdr city walk",
+          "sightseeing tokyo hdr video",
+          "walking tour",
+          "immersive walking tour",
+          "relaxing walking video hdr",
+          "asmr walking video",
+          "hdr walking video japan",
+          "tokyo walking video hdr",
+          "japan street walk 4k",
+          "pov walking tour hdr",
+          "asmr street walking tour",
+          "edo town night japan",
+          "historic japan night walk",
+          "traditional street night japan",
+          "old town walking tour japan",
+          "lantern street japan night"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kawagoe Saitama Night Walking Tour 川越 | Historic Little Edo • Tokyo Suburbs Night Walk • 4K HDR ASMR",
+          "description": "Experience a peaceful night walk through Kawagoe,\nthe historic “Little Edo” town in Saitama near Tokyo.\n\nThis 4K HDR ASMR walking tour captures traditional\nwarehouse streets, warm lantern lighting, and the\nquiet nighttime atmosphere of this preserved Edo-era district.\n\n東京近郊・埼玉県川越市の「小江戸」を歩く\n4K HDR ASMR夜散歩です。\n\n蔵造りの街並みや提灯の灯り、\nそして歴史ある落ち着いた夜の雰囲気を\n自然な環境音とともに記録しています。\n\n• Location: Kawagoe (川越), Saitama  \n• Area: Kurazukuri Warehouse District 蔵造りの街並み  \n• Theme: Historic Town | Little Edo | Lantern Streets  \n• Format: Walking Tour | 4K HDR | ASMR Natural Ambient Sounds  \n\n#tokyowalk \n#4khdr \n#kawagoe  \n#川越  \n#LittleEdo  \n#TokyoSuburbs   \n#ASMR  \n#JapanTravel"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H19M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "735",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1T8-VXS9Ijddv2fquaB4Z6WM_gk",
+      "id": "3s6iAJpFcKw",
+      "snippet": {
+        "publishedAt": "2023-11-02T08:03:18Z",
+        "channelId": "UC9S9UQYQfc5nmAt-TipYx4g",
+        "title": "Kawagoe City, Saitama Prefecture | 埼玉県川越市 | 사이타마현 가와고에시 | 도쿄근교여행 | 일본여행",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3s6iAJpFcKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3s6iAJpFcKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3s6iAJpFcKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3s6iAJpFcKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3s6iAJpFcKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "워니워니",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Kawagoe City, Saitama Prefecture | 埼玉県川越市 | 사이타마현 가와고에시 | 도쿄근교여행 | 일본여행",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "629",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XsSL0krjVdX9MtSruTM243WuWJ0",
+      "id": "40TB6x0j8dc",
+      "snippet": {
+        "publishedAt": "2025-06-29T03:21:36Z",
+        "channelId": "UClFILVL9bUCldbELSxXOfWg",
+        "title": "Kawagoe feels like old Japan—Edo-style streets still perfectly preserved. #shorts  #japan  #travel",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/40TB6x0j8dc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/40TB6x0j8dc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/40TB6x0j8dc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/40TB6x0j8dc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/40TB6x0j8dc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "O-Vision",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kawagoe feels like old Japan—Edo-style streets still perfectly preserved. #shorts  #japan  #travel",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1300",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RxSZTnxZq6EzrHXlpZhUCx72758",
+      "id": "40msreVwczo",
+      "snippet": {
+        "publishedAt": "2024-10-30T12:00:12Z",
+        "channelId": "UCAcsAE1tpLuP3y7UhxUoWpQ",
+        "title": "Kawagoe festival, Japan 2024・4K HDR",
+        "description": "No talking or faces, natural surround sound only.\nI don't like big festivals but some viewers asked me to visit Kawagoe festival. So, I started from Kawagoe bell tower around sunset. Then I walked towards the JR station through hordes of people, dashi towers and food stalls. After JR station I tried to get to Hon-Kawagoe station through the main markets street but stuck for 40 minutes in the crowd. The was no police traffic control at all, people jammed themself by trying to walk against the flow in the narrowest places from both ends. I've cut it from the video.\n\n🕒 2024 Oct 20 17:15 🌡️ +16℃ 🚶‍♂️5km \n🗺️ https://rambalac.com/wmap?ll=35.91526183609072%2C139.4864066818152&z=15\n\nGreen tea Ayataka: https://amzn.to/3UtpQgd\nCamera: Sony FX3 https://amzn.to/3yRBsRI\nSettings: 4K 60p HLG3, 1/100, MF and AF\nLens: Sony PZ 1635G https://amzn.to/3wVfEDp\nStabilizer: DJI RS4 https://amzn.to/49C5MPh\nMic: Sony ECM-M1 https://amzn.to/44LKqfG\nePay&GPS: Garmin Epix Gen 2 https://amzn.to/3srZhMv\n* Links above are affiliated. Prices won't change for you, but I'll receive a percentage from the purchase.\n\nChapters by @ozy_o \n0:00 Bell tower\n1:22 Street full of people\n3:17 Stage performance #1\n5:51 Dashi (float) #1\n8:14 Dashi (float) #2\n11:03 Koi fish\n14:16 Celebrity 2nd floor?\n14:46 Back to bell tower\n15:53 Dashi (float) #3\n16:58 Lion dance\n19:53 Stage performance #2\n22:16 Green light district\n25:44 Crows?\n26:47 Feet massage area\n30:29 Feet massage time\n34:31 \"Killing\" sibling\n35:11 Dashi (float) #4\n38:32 Dashi (float) #5\n41:46 Lamp shop\n43:07 Dashi (float) #6\n44:15 Dashi (float) #7\n45:04 Dashi (float) #8\n46:42 Mikoshi carrying\n50:28 Near Mikoshi\n54:12 Stage no performance\n55:08 Peace to camera #1\n56:49 Train #1\n57:32 Train #2\n58:56 Train #3\n59:45 Train #4\n1:01:33 Tea time\n1:03:00 Train #5\n1:05:50 Crowded shopping street\n1:13:51 Wave at camera?\n1:14:47 Cake truck\n1:15:11 Crowd stuck\n1:19:19 Peace to camera #2\n1:20:57 Dashi (float) #9\n1:22:22 Dashi (float) move!\n1:24:09 Stage performance #3\n1:25:29 Dashi (float) #10\n1:26:22 Floats gathering\n1:28:42 Intensified\n1:36:04 Dashi (float) #12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/40msreVwczo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/40msreVwczo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/40msreVwczo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/40msreVwczo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/40msreVwczo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rambalac",
+        "tags": [
+          "Japan",
+          "Япония",
+          "日本",
+          "slow tv",
+          "Sony FX3",
+          "walk",
+          "4K",
+          "HDR",
+          "60fps",
+          "60p",
+          "DJI",
+          "RS4",
+          "Japan walk"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kawagoe festival, Japan 2024・4K HDR",
+          "description": "No talking or faces, natural surround sound only.\nI don't like big festivals but some viewers asked me to visit Kawagoe festival. So, I started from Kawagoe bell tower around sunset. Then I walked towards the JR station through hordes of people, dashi towers and food stalls. After JR station I tried to get to Hon-Kawagoe station through the main markets street but stuck for 40 minutes in the crowd. The was no police traffic control at all, people jammed themself by trying to walk against the flow in the narrowest places from both ends. I've cut it from the video.\n\n🕒 2024 Oct 20 17:15 🌡️ +16℃ 🚶‍♂️5km \n🗺️ https://rambalac.com/wmap?ll=35.91526183609072%2C139.4864066818152&z=15\n\nGreen tea Ayataka: https://amzn.to/3UtpQgd\nCamera: Sony FX3 https://amzn.to/3yRBsRI\nSettings: 4K 60p HLG3, 1/100, MF and AF\nLens: Sony PZ 1635G https://amzn.to/3wVfEDp\nStabilizer: DJI RS4 https://amzn.to/49C5MPh\nMic: Sony ECM-M1 https://amzn.to/44LKqfG\nePay&GPS: Garmin Epix Gen 2 https://amzn.to/3srZhMv\n* Links above are affiliated. Prices won't change for you, but I'll receive a percentage from the purchase.\n\nChapters by @ozy_o \n0:00 Bell tower\n1:22 Street full of people\n3:17 Stage performance #1\n5:51 Dashi (float) #1\n8:14 Dashi (float) #2\n11:03 Koi fish\n14:16 Celebrity 2nd floor?\n14:46 Back to bell tower\n15:53 Dashi (float) #3\n16:58 Lion dance\n19:53 Stage performance #2\n22:16 Green light district\n25:44 Crows?\n26:47 Feet massage area\n30:29 Feet massage time\n34:31 \"Killing\" sibling\n35:11 Dashi (float) #4\n38:32 Dashi (float) #5\n41:46 Lamp shop\n43:07 Dashi (float) #6\n44:15 Dashi (float) #7\n45:04 Dashi (float) #8\n46:42 Mikoshi carrying\n50:28 Near Mikoshi\n54:12 Stage no performance\n55:08 Peace to camera #1\n56:49 Train #1\n57:32 Train #2\n58:56 Train #3\n59:45 Train #4\n1:01:33 Tea time\n1:03:00 Train #5\n1:05:50 Crowded shopping street\n1:13:51 Wave at camera?\n1:14:47 Cake truck\n1:15:11 Crowd stuck\n1:19:19 Peace to camera #2\n1:20:57 Dashi (float) #9\n1:22:22 Dashi (float) move!\n1:24:09 Stage performance #3\n1:25:29 Dashi (float) #10\n1:26:22 Floats gathering\n1:28:42 Intensified\n1:36:04 Dashi (float) #12"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H39M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11838",
+        "likeCount": "563",
+        "favoriteCount": "0",
+        "commentCount": "25"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dRXRuWJ4wKCfYdzU8gWv8mCas6c",
+      "id": "43aR7203e6k",
+      "snippet": {
+        "publishedAt": "2023-06-06T14:22:16Z",
+        "channelId": "UCAqFMf-3IP0Nz45jV0A-Yiw",
+        "title": "[열흘간의 도쿄여행] 🇯🇵 도쿄 #2 - 가와고에, 신주쿠(도쿄도청 전망대)",
+        "description": "도쿄여행 3일차 도쿄 근교 “가와고에(Kawagoe)” 관광, \n4일차 신주쿠(도쿄도청전망대) 일정입니다!! \n#도쿄여행 #가와고에 #도쿄도청전망대 \n\n- 3일차 일정(2023.5.25) 가와고에, 신주쿠\n00:00 인트로\n00:31 세이부 가와고에 패스 구입 : 세이부신주쿠 역 : https://goo.gl/maps/MdHjGJLijpZYw3daA\n01:00 구마노신사 : https://goo.gl/maps/7gHJZRpS2zauTqRz9\n01:33 十一屋肉店(멘치카츠 가게) : https://goo.gl/maps/tDpcPZvGmMKiG1so8\n02:16 Coedo Ohana : https://goo.gl/maps/bZNpArRDRteazsxW9\n02:53 토키노카네(時の鐘) : https://goo.gl/maps/cm6s8RH7EP2JqmuW8\n03:08 Masuya Liquor Store (COEDO 생맥주 판매) : https://goo.gl/maps/rbDnzfYQ7sJephu59\n03:32 Starbucks Coffee - Kawagoe Kanetsuki-dori Street : https://goo.gl/maps/dyfJHv4uA3nkL93R7 \n04:08 히카와신사 : https://goo.gl/maps/yezEUWGzdJJYdxHWA\n05:19 야마자키가문 별저(旧山崎家別邸) : https://goo.gl/maps/UhfxiBiQvgMVPLB29\n05:59 Renkeiji Temple : https://goo.gl/maps/amk7oRr9jTFPSSN18\n06:21 타츠키치 신주쿠(Shinjuku Tatsukichi) : https://goo.gl/maps/nvQwiBcqFzCcLLty6\n\n- 4일차 일정(2023.5.26) 신주쿠(도쿄도청전망대) \n06:56 신파치 식당 신주쿠(Shinpachi Shokudo Shinjuku) : https://goo.gl/maps/XtyY9cNobPFtVMLB6\n07:53 도쿄도청 전망대 : https://goo.gl/maps/WvMDYdjjD6FQ1NWV7\n08:12 신주쿠 중앙공원 & 스타벅스 : https://goo.gl/maps/mMM3ZyyQgHmrcwS68\n08:28  우동신(うどん 慎) : https://goo.gl/maps/MkuX4UfEktP3RgWw7\n09:04 도쿄도청 전망대(야경)\n09:28 오모이데요코초 : https://goo.gl/maps/Wn39dMbsg4VaCgot7\n10:00 하나조노신사(야시장) : https://goo.gl/maps/6HU3iS33ZRNHVxmx9\n\n감사합니다!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/43aR7203e6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/43aR7203e6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/43aR7203e6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/43aR7203e6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/43aR7203e6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "인생미정 TBDlife",
+        "tags": [
+          "도쿄",
+          "도쿄여행",
+          "도쿄브이로그",
+          "도쿄 여행",
+          "가와고에",
+          "도쿄 근교",
+          "신주쿠",
+          "도쿄도청",
+          "도쿄도청 전망대",
+          "도쿄 무료전망대",
+          "우동신",
+          "신파치식당",
+          "우동 신",
+          "타츠키치",
+          "가와고에패스",
+          "가와고에 세이부 패스",
+          "세이부 가와고에 패스",
+          "세이부 패스",
+          "세이부 가와고에",
+          "세이부",
+          "가와고에 세이부",
+          "신파치",
+          "신파치 식당"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[열흘간의 도쿄여행] 🇯🇵 도쿄 #2 - 가와고에, 신주쿠(도쿄도청 전망대)",
+          "description": "도쿄여행 3일차 도쿄 근교 “가와고에(Kawagoe)” 관광, \n4일차 신주쿠(도쿄도청전망대) 일정입니다!! \n#도쿄여행 #가와고에 #도쿄도청전망대 \n\n- 3일차 일정(2023.5.25) 가와고에, 신주쿠\n00:00 인트로\n00:31 세이부 가와고에 패스 구입 : 세이부신주쿠 역 : https://goo.gl/maps/MdHjGJLijpZYw3daA\n01:00 구마노신사 : https://goo.gl/maps/7gHJZRpS2zauTqRz9\n01:33 十一屋肉店(멘치카츠 가게) : https://goo.gl/maps/tDpcPZvGmMKiG1so8\n02:16 Coedo Ohana : https://goo.gl/maps/bZNpArRDRteazsxW9\n02:53 토키노카네(時の鐘) : https://goo.gl/maps/cm6s8RH7EP2JqmuW8\n03:08 Masuya Liquor Store (COEDO 생맥주 판매) : https://goo.gl/maps/rbDnzfYQ7sJephu59\n03:32 Starbucks Coffee - Kawagoe Kanetsuki-dori Street : https://goo.gl/maps/dyfJHv4uA3nkL93R7 \n04:08 히카와신사 : https://goo.gl/maps/yezEUWGzdJJYdxHWA\n05:19 야마자키가문 별저(旧山崎家別邸) : https://goo.gl/maps/UhfxiBiQvgMVPLB29\n05:59 Renkeiji Temple : https://goo.gl/maps/amk7oRr9jTFPSSN18\n06:21 타츠키치 신주쿠(Shinjuku Tatsukichi) : https://goo.gl/maps/nvQwiBcqFzCcLLty6\n\n- 4일차 일정(2023.5.26) 신주쿠(도쿄도청전망대) \n06:56 신파치 식당 신주쿠(Shinpachi Shokudo Shinjuku) : https://goo.gl/maps/XtyY9cNobPFtVMLB6\n07:53 도쿄도청 전망대 : https://goo.gl/maps/WvMDYdjjD6FQ1NWV7\n08:12 신주쿠 중앙공원 & 스타벅스 : https://goo.gl/maps/mMM3ZyyQgHmrcwS68\n08:28  우동신(うどん 慎) : https://goo.gl/maps/MkuX4UfEktP3RgWw7\n09:04 도쿄도청 전망대(야경)\n09:28 오모이데요코초 : https://goo.gl/maps/Wn39dMbsg4VaCgot7\n10:00 하나조노신사(야시장) : https://goo.gl/maps/6HU3iS33ZRNHVxmx9\n\n감사합니다!!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1864",
+        "likeCount": "46",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x22JEOp0Mf2WvSMYXCR9aZ4ggnA",
+      "id": "47yqNhUY-ps",
+      "snippet": {
+        "publishedAt": "2026-05-17T09:00:05Z",
+        "channelId": "UChJoyDzwsxvpWEGqnLUWe6A",
+        "title": "[4K] JR동일본 사이쿄선 통근쾌속 카와고에행 2169S 이타바시역 진입,출발(E233계 7000번대 137편성)",
+        "description": "2026년 4월 14일 촬영\n\nJR동일본 사이쿄선 통근쾌속 카와고에행 열차 이타바시역 진입,출발\n\nJR East Saikyō Line\nThe Commuter Rapid train for Kawagoe, approaching,departing Itabashi Station\n\nJR東日本 埼京線\n通勤快速、川越行きの列車が板橋駅の1番線に到着と発車します。\n\n1:32 JRE-IKST-006-02",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "KTX-1",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[4K] JR동일본 사이쿄선 통근쾌속 카와고에행 2169S 이타바시역 진입,출발(E233계 7000번대 137편성)",
+          "description": "2026년 4월 14일 촬영\n\nJR동일본 사이쿄선 통근쾌속 카와고에행 열차 이타바시역 진입,출발\n\nJR East Saikyō Line\nThe Commuter Rapid train for Kawagoe, approaching,departing Itabashi Station\n\nJR東日本 埼京線\n通勤快速、川越行きの列車が板橋駅の1番線に到着と発車します。\n\n1:32 JRE-IKST-006-02"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT4M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "870",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "940phSc8YVuooW9uk575ZrYlseo",
+      "id": "4AwOcCxHBSI",
+      "snippet": {
+        "publishedAt": "2026-10-29T08:01:23Z",
+        "channelId": "UC9hfHyDG2Cbp2mjB0S1i8AQ",
+        "title": "【川越まつり】ユネスコ無形文化遺産の山車が街を練り歩く!10月の絶景祭り|小江戸川越川越まつり 完全ガイド|山車の曳っかわせ・見どころ・混雑回避のコツ",
+        "description": "埼玉県川越市で毎年10月中旬に開催される「川越まつり」をご紹介します。\n\n川越まつり(川越氷川祭の山車行事)は、江戸時代から350年以上受け継がれてきた小江戸川越の秋の大祭です。国の重要無形民俗文化財に指定され、2016年にはユネスコ無形文化遺産にも登録されました。\n\n▼この動画でわかること\n・川越まつりの歴史と由来\n・豪華な山車(だし)と囃子(はやし)の魅力\n・見どころの「曳っかわせ」とは\n・開催時期(毎年10月の第3土曜・日曜)\n・蔵造りの町並み「一番街」と一緒に楽しむ観光のポイント\n\n日本の古い祭りや伝統文化を、これからも紹介していきます。\nチャンネル登録・高評価・コメントもぜひお願いします!\n\n#川越まつり #川越 #小江戸川越 #日本の祭り #山車 #伝統文化 #埼玉観光\n#川越まつり #日本の祭り #小江戸川越",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4AwOcCxHBSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4AwOcCxHBSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4AwOcCxHBSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4AwOcCxHBSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4AwOcCxHBSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "素敵な日本",
+        "tags": [
+          "川越まつり",
+          "川越祭り",
+          "川越氷川祭",
+          "川越まつり 2026",
+          "川越まつり 山車",
+          "川越まつり 曳っかわせ",
+          "川越まつり 見どころ",
+          "川越まつり 混雑",
+          "川越まつり 日程",
+          "川越まつり 10月",
+          "川越観光",
+          "小江戸川越",
+          "川越 蔵造り",
+          "一番街",
+          "埼玉 祭り",
+          "日本の祭り",
+          "日本の伝統文化",
+          "山車祭り",
+          "ユネスコ無形文化遺産",
+          "重要無形民俗文化財",
+          "秋祭り",
+          "10月 イベント",
+          "関東 祭り",
+          "日本 観光",
+          "Kawagoe Festival",
+          "Kawagoe Matsuri",
+          "Japanese festival",
+          "Lovely Japan"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【川越まつり】ユネスコ無形文化遺産の山車が街を練り歩く!10月の絶景祭り|小江戸川越川越まつり 完全ガイド|山車の曳っかわせ・見どころ・混雑回避のコツ",
+          "description": "埼玉県川越市で毎年10月中旬に開催される「川越まつり」をご紹介します。\n\n川越まつり(川越氷川祭の山車行事)は、江戸時代から350年以上受け継がれてきた小江戸川越の秋の大祭です。国の重要無形民俗文化財に指定され、2016年にはユネスコ無形文化遺産にも登録されました。\n\n▼この動画でわかること\n・川越まつりの歴史と由来\n・豪華な山車(だし)と囃子(はやし)の魅力\n・見どころの「曳っかわせ」とは\n・開催時期(毎年10月の第3土曜・日曜)\n・蔵造りの町並み「一番街」と一緒に楽しむ観光のポイント\n\n日本の古い祭りや伝統文化を、これからも紹介していきます。\nチャンネル登録・高評価・コメントもぜひお願いします!\n\n#川越まつり #川越 #小江戸川越 #日本の祭り #山車 #伝統文化 #埼玉観光\n#川越まつり #日本の祭り #小江戸川越"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT4M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "76",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qa5ofwxznprF0UZuUtsZgz_k-UU",
+      "id": "4CnUxxV7kHo",
+      "snippet": {
+        "publishedAt": "2020-10-09T12:00:03Z",
+        "channelId": "UCmnYqpdH2481NMnO1SJVbCQ",
+        "title": "【川越グルメ】地元民おすすめ食べ歩きグルメ10選【vlog】",
+        "description": "小江戸・川越の食べ歩きグルメ10店舖を地元民がご紹介。超ド定番のあれとかこれとかを外したので、意外な発見があるかも？川越は行く度に美味しいお店との出会いがあります。\n\n【目次】\n0:00　オープニング\n0:42　ミオ・カザロ\n2:16　狭山茶カフェ和芳庵\n4:18　醤遊王国 川越時の鐘店\n4:47　COEDO Jam3281 川越店\n5:29　川越ベーカリー楽楽\n6:31　サンドイッチパーラー楽楽 \n7:33　菓匠右門 菓子屋横丁店\n8:01　LEMONADE by Lemonica 川越店\n8:50　菓匠右門 川越けんぴ工房直売店\n9:53　シマノコーヒー大正館\n\n\n【お店の詳細】\n※新型コロナの影響でお店の営業時間や定休日が記載と異なる場合があります\n現在の営業状況については各店舗にご確認ください\n\n■Mio Casalo（ミオ・カザロ） 川越 蔵のまち店 \n小江戸黒豚のお店\n・蔵造りの街並み 札の辻交差点近く\n・営業時間：10：00～18：00\n・定休日：水曜日\n・公式サイト　https://www.miocasalo.co.jp/\n\n■狭山茶カフェ和芳庵\nお茶屋さんの長峰園の2階にあるカフェ\n・蔵造りの街並み 札の辻交差点の角\n・営業時間：10：00～17：00（L.O.16：30）\n・定休日：無休\n公式サイト　https://www.nagamine-en.jp/wahouan/information.html\n\n■醤遊王国 川越時の鐘店 \n醤油屋さんが作る団子が食べられるお店\n・鐘付通り\n・営業時間：10：00～17：00\n・定休日：火曜日\n公式サイト　https://www.nagamine-en.jp/wahouan/information.html\n\n■COEDO Jam3281 川越店\nおしゃれなカレー屋さん\n・​時の鐘の裏道り\n・営業時間：平日 10：00～15：00　祝祭日 10：00～18：00（売り切れ次第）\n・定休日：不定休\n公式サイト　https://www.jam3281.com/coedo-kawagoe\n\n■川越ベーカリー楽楽\n人気のパン屋さん\n・菓子屋横丁\n・営業時間：平日8：00～17：00 土日祝7：30～17：00（売り切れ次第）\n・定休日：不定休\n公式サイト　http://www.bakery-rakuraku.com/\n\n■サンドイッチパーラー楽楽 \n楽楽の2号店　サンドイッチ専門店\n・菓子屋横丁\n・営業時間：7：30～17：00\n・定休日：不定休\n\n■菓匠右門 菓子屋横丁店\nいも恋が有名な和菓子屋さん\n・菓子屋横丁\n・営業時間：10：00～17：00\n・定休日：年末年始\n公式サイト　https://imokoi.com/\n\n■LEMONADE by Lemonica 川越店\nおしゃれなレモネード専門店\n・菓子屋横丁\n・営業時間：10：00～18：00\n・定休日：無休\n\n■菓匠右門 川越けんぴ工房直売店\n揚げたてけんぴが食べられるお店\n・菓子屋横丁\n・営業時間：10：00～17：00\n・定休日：年末年始\n公式サイト　https://imokoi.com/\n\n■シマノコーヒー大正館\nレトロかわいい喫茶店\n・大正浪漫夢通り\n・営業時間：8：00～19：00\n・定休日：無休\n公式サイト　https://www.koedo.com/taisyoukan/\n\n\n\n【チャンネル登録＆高評価よろしくお願いします！！】\n\nーーーーーーーーNAGAO VLOGとは？ーーーーーーーー\n\n旅行をもっと楽しくする。行っておきたいスポットやグルメ、宿を紹介する情報系VLOGを投稿しています！\n\n泊まってみたけどビミョーな宿だった…\n有名なお店に入ってみたけどそこまで美味しくなかった…\nそんな経験はありませんか？\n私たちも旅行が好きだからわかります！！　失敗するのもいい体験だけど、どうせなら美味しいものだけ食べて、いい宿に泊まりたいですよね。\n\nそんなあなたのために、旅行先のグルメや宿のリアルな感想や情報を発信しています。\nながぶろ。を見れば行きたい場所がきっと見つかる！\nそう思われるように日々頑張ってます！\n\nそして、ながぶろ。を見てくれているあなたにお願いがあります。\n旅行やキャンプなど、あなたしか知らない情報をお気軽にコメントで教えてください。\nお気に入りの旅行先、美味しかったお店、オススメのキャンプ場など教えてもらえると、\n今後の活動の参考になるのでとても嬉しいです！\n\n\nネットショップ運営の会社で2年間勤務し、2019年に自由を求めて独立。現在は夫婦2人でネットショップを運営しています。\n\n自由な時間を利用して、もともと好きだった旅行によく行きます。今は日本国内がメインですが、いつかは海外を転々としたいという夢を持っています。\n基本的には旅行会社に頼らず、自分たちですべてを予約しています。少しでも無駄なお金を使わずに、その分美味しいものを食べたり、楽しい体験をしたりする旅が好きです。\n\n■ゆー\n30歳。東京都東村山市出身\n肉があれば生きていける。\nでもお気に入りのタオルケットがないと眠れない（笑）\nテニスとサッカー観戦が好き\n最近シャドウバースとPUBGにハマってる\n虫がめっちゃ苦手。神経質。\n\n■さゆ\n29歳。新潟県長岡市出身\nエビLOVE\n閉所恐怖症。寝袋で眠れない\nテニス、スポーツ観戦が好き\n猫と耳かき動画は見ちゃう\n車酔い、映像酔いに悩まされている\n\nーーーーーーーーーーーーーーーーーーーーーーーーー\n\nSNSで最新情報をUPしてます。\nお気軽にフォローよろしくお願いします！\nInstagram、Twitter、TikTok共通\n@nagaovlog で検索\n下のリンクからどうぞ！！\n\n【ながぶろ。 SNS】\n＜Instagram＞\nhttps://www.instagram.com/nagaovlog/ [@nagaovlog]\n\n＜Tik Tok＞\nhttps://www.tiktok.com/@nagaovlog [@nagaovlog]\n\n＜Twitter＞\nhttps://twitter.com/nagaovlog [@nagaovlog]\n\n【お問い合わせ先】\nyurugurutabi@gmail.com\n\n【BGM・効果音 著作者様】\n※動画によっては使用していない場合がございます。\n効果音ラボ 様\nhttps://soundeffect-lab.info/\n\nSong: Alban Chela - So Insane (feat. Mike Watson)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/NDN3AzokwmQ\n\nSong: Sainntset - Visions\nMusic provided by Vlog No Copyright Music.\nCreative Commons - Attribution-NoDerivs 3.0 Unported\nVideo Link: https://youtu.be/jSF64clRrJM\n\nSong: Seum Dero - Tell Me (feat. Ellen Louise) (feat. Malia Rogers)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/pJNZ6hK_6Ts\n\nSong: Xad - Feel Good\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/sd0PxqKnQsQ\n\n#川越#小江戸#食べ歩き#グルメ#観光#カフェ#蔵造り#菓子屋横丁#レトロ#人気店#時の鐘",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CnUxxV7kHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CnUxxV7kHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CnUxxV7kHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4CnUxxV7kHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4CnUxxV7kHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ながぶろ。‐NAGAO VLOG‐",
+        "tags": [
+          "川越",
+          "小江戸",
+          "食べ歩き",
+          "グルメ",
+          "人気店",
+          "蔵造り",
+          "レトロ",
+          "時の鐘",
+          "菓子屋横丁",
+          "カフェ"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【川越グルメ】地元民おすすめ食べ歩きグルメ10選【vlog】",
+          "description": "小江戸・川越の食べ歩きグルメ10店舖を地元民がご紹介。超ド定番のあれとかこれとかを外したので、意外な発見があるかも？川越は行く度に美味しいお店との出会いがあります。\n\n【目次】\n0:00　オープニング\n0:42　ミオ・カザロ\n2:16　狭山茶カフェ和芳庵\n4:18　醤遊王国 川越時の鐘店\n4:47　COEDO Jam3281 川越店\n5:29　川越ベーカリー楽楽\n6:31　サンドイッチパーラー楽楽 \n7:33　菓匠右門 菓子屋横丁店\n8:01　LEMONADE by Lemonica 川越店\n8:50　菓匠右門 川越けんぴ工房直売店\n9:53　シマノコーヒー大正館\n\n\n【お店の詳細】\n※新型コロナの影響でお店の営業時間や定休日が記載と異なる場合があります\n現在の営業状況については各店舗にご確認ください\n\n■Mio Casalo（ミオ・カザロ） 川越 蔵のまち店 \n小江戸黒豚のお店\n・蔵造りの街並み 札の辻交差点近く\n・営業時間：10：00～18：00\n・定休日：水曜日\n・公式サイト　https://www.miocasalo.co.jp/\n\n■狭山茶カフェ和芳庵\nお茶屋さんの長峰園の2階にあるカフェ\n・蔵造りの街並み 札の辻交差点の角\n・営業時間：10：00～17：00（L.O.16：30）\n・定休日：無休\n公式サイト　https://www.nagamine-en.jp/wahouan/information.html\n\n■醤遊王国 川越時の鐘店 \n醤油屋さんが作る団子が食べられるお店\n・鐘付通り\n・営業時間：10：00～17：00\n・定休日：火曜日\n公式サイト　https://www.nagamine-en.jp/wahouan/information.html\n\n■COEDO Jam3281 川越店\nおしゃれなカレー屋さん\n・​時の鐘の裏道り\n・営業時間：平日 10：00～15：00　祝祭日 10：00～18：00（売り切れ次第）\n・定休日：不定休\n公式サイト　https://www.jam3281.com/coedo-kawagoe\n\n■川越ベーカリー楽楽\n人気のパン屋さん\n・菓子屋横丁\n・営業時間：平日8：00～17：00 土日祝7：30～17：00（売り切れ次第）\n・定休日：不定休\n公式サイト　http://www.bakery-rakuraku.com/\n\n■サンドイッチパーラー楽楽 \n楽楽の2号店　サンドイッチ専門店\n・菓子屋横丁\n・営業時間：7：30～17：00\n・定休日：不定休\n\n■菓匠右門 菓子屋横丁店\nいも恋が有名な和菓子屋さん\n・菓子屋横丁\n・営業時間：10：00～17：00\n・定休日：年末年始\n公式サイト　https://imokoi.com/\n\n■LEMONADE by Lemonica 川越店\nおしゃれなレモネード専門店\n・菓子屋横丁\n・営業時間：10：00～18：00\n・定休日：無休\n\n■菓匠右門 川越けんぴ工房直売店\n揚げたてけんぴが食べられるお店\n・菓子屋横丁\n・営業時間：10：00～17：00\n・定休日：年末年始\n公式サイト　https://imokoi.com/\n\n■シマノコーヒー大正館\nレトロかわいい喫茶店\n・大正浪漫夢通り\n・営業時間：8：00～19：00\n・定休日：無休\n公式サイト　https://www.koedo.com/taisyoukan/\n\n\n\n【チャンネル登録＆高評価よろしくお願いします！！】\n\nーーーーーーーーNAGAO VLOGとは？ーーーーーーーー\n\n旅行をもっと楽しくする。行っておきたいスポットやグルメ、宿を紹介する情報系VLOGを投稿しています！\n\n泊まってみたけどビミョーな宿だった…\n有名なお店に入ってみたけどそこまで美味しくなかった…\nそんな経験はありませんか？\n私たちも旅行が好きだからわかります！！　失敗するのもいい体験だけど、どうせなら美味しいものだけ食べて、いい宿に泊まりたいですよね。\n\nそんなあなたのために、旅行先のグルメや宿のリアルな感想や情報を発信しています。\nながぶろ。を見れば行きたい場所がきっと見つかる！\nそう思われるように日々頑張ってます！\n\nそして、ながぶろ。を見てくれているあなたにお願いがあります。\n旅行やキャンプなど、あなたしか知らない情報をお気軽にコメントで教えてください。\nお気に入りの旅行先、美味しかったお店、オススメのキャンプ場など教えてもらえると、\n今後の活動の参考になるのでとても嬉しいです！\n\n\nネットショップ運営の会社で2年間勤務し、2019年に自由を求めて独立。現在は夫婦2人でネットショップを運営しています。\n\n自由な時間を利用して、もともと好きだった旅行によく行きます。今は日本国内がメインですが、いつかは海外を転々としたいという夢を持っています。\n基本的には旅行会社に頼らず、自分たちですべてを予約しています。少しでも無駄なお金を使わずに、その分美味しいものを食べたり、楽しい体験をしたりする旅が好きです。\n\n■ゆー\n30歳。東京都東村山市出身\n肉があれば生きていける。\nでもお気に入りのタオルケットがないと眠れない（笑）\nテニスとサッカー観戦が好き\n最近シャドウバースとPUBGにハマってる\n虫がめっちゃ苦手。神経質。\n\n■さゆ\n29歳。新潟県長岡市出身\nエビLOVE\n閉所恐怖症。寝袋で眠れない\nテニス、スポーツ観戦が好き\n猫と耳かき動画は見ちゃう\n車酔い、映像酔いに悩まされている\n\nーーーーーーーーーーーーーーーーーーーーーーーーー\n\nSNSで最新情報をUPしてます。\nお気軽にフォローよろしくお願いします！\nInstagram、Twitter、TikTok共通\n@nagaovlog で検索\n下のリンクからどうぞ！！\n\n【ながぶろ。 SNS】\n＜Instagram＞\nhttps://www.instagram.com/nagaovlog/ [@nagaovlog]\n\n＜Tik Tok＞\nhttps://www.tiktok.com/@nagaovlog [@nagaovlog]\n\n＜Twitter＞\nhttps://twitter.com/nagaovlog [@nagaovlog]\n\n【お問い合わせ先】\nyurugurutabi@gmail.com\n\n【BGM・効果音 著作者様】\n※動画によっては使用していない場合がございます。\n効果音ラボ 様\nhttps://soundeffect-lab.info/\n\nSong: Alban Chela - So Insane (feat. Mike Watson)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/NDN3AzokwmQ\n\nSong: Sainntset - Visions\nMusic provided by Vlog No Copyright Music.\nCreative Commons - Attribution-NoDerivs 3.0 Unported\nVideo Link: https://youtu.be/jSF64clRrJM\n\nSong: Seum Dero - Tell Me (feat. Ellen Louise) (feat. Malia Rogers)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/pJNZ6hK_6Ts\n\nSong: Xad - Feel Good\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/sd0PxqKnQsQ\n\n#川越#小江戸#食べ歩き#グルメ#観光#カフェ#蔵造り#菓子屋横丁#レトロ#人気店#時の鐘"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT11M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "18754",
+        "likeCount": "176",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4ifs-U-_FK45BpFAGZy8XP-Fk1A",
+      "id": "4CpKvRmq32U",
+      "snippet": {
+        "publishedAt": "2025-06-18T12:00:14Z",
+        "channelId": "UCVgFLIJveclBEcpEBNCpDqA",
+        "title": "【下班ほ七逃】【2025東京自由行】川越時之鐘 埼玉川越市景點推推🔥川越重要地標❤️ #日本 #崎玉 #川越 #japan #tokyo #saitama #kawagoe #時之鐘 #小江戶",
+        "description": "時之鐘\n日本〒350-0063 Saitama, Kawagoe, Saiwaicho, １５−7\n電話號碼： +81 49-224-6097\n----------------------------------------\n成為這個頻道的會員並獲得福利：\nhttps://www.youtube.com/channel/UCVgFLIJveclBEcpEBNCpDqA/join\n----------------------------------------\n【關於我們的更多資訊】\nFIND US ON\nFacebook : 下班ほlife\nYoutube : 下班ほlife\nInstagram : offworklife666\nTikTok : offworklife666\n----------------------------------------\n【商業合作請洽】\nGmail : offworklife666@gmail.com\n----------------------------------------\n喜歡我們的影片，記得按讚訂閱+分享，還有開啟小鈴鐺~\n我們下部影片見~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CpKvRmq32U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CpKvRmq32U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CpKvRmq32U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4CpKvRmq32U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4CpKvRmq32U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "下班 Whole Life",
+        "tags": [
+          "下班ほlife",
+          "Vlog",
+          "旅遊",
+          "travel",
+          "traveling",
+          "開箱",
+          "unboxing",
+          "日本",
+          "東京",
+          "Japan",
+          "Tokyo",
+          "觀光",
+          "旅行",
+          "崎玉",
+          "川越",
+          "saitama",
+          "kawagoe",
+          "小江戶",
+          "時之鐘"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "zh-Hant",
+        "localized": {
+          "title": "【下班ほ七逃】【2025東京自由行】川越時之鐘 埼玉川越市景點推推🔥川越重要地標❤️ #日本 #崎玉 #川越 #japan #tokyo #saitama #kawagoe #時之鐘 #小江戶",
+          "description": "時之鐘\n日本〒350-0063 Saitama, Kawagoe, Saiwaicho, １５−7\n電話號碼： +81 49-224-6097\n----------------------------------------\n成為這個頻道的會員並獲得福利：\nhttps://www.youtube.com/channel/UCVgFLIJveclBEcpEBNCpDqA/join\n----------------------------------------\n【關於我們的更多資訊】\nFIND US ON\nFacebook : 下班ほlife\nYoutube : 下班ほlife\nInstagram : offworklife666\nTikTok : offworklife666\n----------------------------------------\n【商業合作請洽】\nGmail : offworklife666@gmail.com\n----------------------------------------\n喜歡我們的影片，記得按讚訂閱+分享，還有開啟小鈴鐺~\n我們下部影片見~"
+        },
+        "defaultAudioLanguage": "zh-TW"
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1402",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DnW-d5y_nFktkTJFwKrp010RKrI",
+      "id": "4DJ09N_mHxY",
+      "snippet": {
+        "publishedAt": "2019-12-08T11:30:00Z",
+        "channelId": "UCcOSfFvLNiCCXPB0iEUEo0g",
+        "title": "【ママの休日】バースデーサプライズin川越【VLOG】",
+        "description": "いつも柳橋唯チャンネルをご覧いただきまして、ありがとうございます！\r\n\n今回は33歳のお誕生日祝いに川越に連れてっていただいた日のVLOGです。素敵な33歳の幕開けになりました。少しでも気に入っていただけたら高評価ボタン、チャンネル登録もよろしくお願いいたします。\r\n\n【撮影協力】\n・川越着物レンタル 美々庵\n　埼玉県川越市幸町14-5\n　http://www.coedovivian.com/\n\n・川越いちのや\n　埼玉県川越市松江町1-18-10\n　http://www.unagi-ichinoya.jp/\n\n・小江戸coffee mame蔵\n　埼玉県川越市元町 2-1-2\n　http://abri.boo.jp/mamezou.html\n\n・STARBUCKS 川越鐘つき通り店\n　埼玉県川越市幸町15-18\n　https://store.starbucks.co.jp/detail-1554/\n\n▼チャンネル登録お待ちしています▼\r\nhttps://www.youtube.com/channel/UCcOSfFvLNiCCXPB0iEUEo0g?sub_confirmation=1\r\n\n▼二宮こずえさんのSNSはこちらから▼\n【Instagram】https://www.instagram.com/cozue_n/\r\n【OFFICIAL BLOG】https://ameblo.jp/cozue-ninomiya/\r\n【Tik Tok】https://www.tiktok.com/@cozue_ninomiya\r\n\r\n▼こちらもぜひフォローお願いします！▼\r\n【Instagram】https://www.instagram.com/yui.yanagihashi/\r\n【OFFICIAL BLOG】https://ameblo.jp/minima-1528/\r\n【Tik Tok】https://www.tiktok.com/@yui_yanagihashi\r\n\r\n▼お問い合わせはこちらから▼\r\n株式会社エムオン・エンタテインメント\r\n〒106-8531東京都港区六本木3-16-33青葉六本木ビル5F\r\nkiraramodel@sonymusic.co.jp\r\n\n\n#川越 #サプライズ #誕生日 #ドッキリ #どっきり #着物 #KIMONO #KAWAGOE #小江戸 #小江戸川越 #埼玉県川越市 #うなぎ #氷川神社 #川越氷川神社 #鯛みくじ #レンタル着物 #美々庵 #川越いちのや #いちのや #スターバックス #スタバ #STARBUCKS #おみくじ #鐘つき通り #スタバ鐘つき通り #誕生日 #バースデー #鰻 #食べ歩き #いも恋 #おさつチップ #おさつチップス  #ママたちの休日 #ママの休日 #ママライフ #日帰り旅行 #時の鐘 #川越一番街 #菓子屋横丁 #japantrip #japan #daytrip #KOEDO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4DJ09N_mHxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4DJ09N_mHxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4DJ09N_mHxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4DJ09N_mHxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4DJ09N_mHxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "柳橋唯チャンネル",
+        "tags": [
+          "UCcOSfFvLNiCCXPB0iEUEo0g",
+          "ママ",
+          "川越",
+          "KAWAGOE",
+          "氷川神社",
+          "食べ歩き",
+          "着物",
+          "KIMONO",
+          "神社",
+          "ママの休日",
+          "VLOG",
+          "二宮こずえ",
+          "柳橋唯",
+          "mamagirl",
+          "ママガール"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【ママの休日】バースデーサプライズin川越【VLOG】",
+          "description": "いつも柳橋唯チャンネルをご覧いただきまして、ありがとうございます！\r\n\n今回は33歳のお誕生日祝いに川越に連れてっていただいた日のVLOGです。素敵な33歳の幕開けになりました。少しでも気に入っていただけたら高評価ボタン、チャンネル登録もよろしくお願いいたします。\r\n\n【撮影協力】\n・川越着物レンタル 美々庵\n　埼玉県川越市幸町14-5\n　http://www.coedovivian.com/\n\n・川越いちのや\n　埼玉県川越市松江町1-18-10\n　http://www.unagi-ichinoya.jp/\n\n・小江戸coffee mame蔵\n　埼玉県川越市元町 2-1-2\n　http://abri.boo.jp/mamezou.html\n\n・STARBUCKS 川越鐘つき通り店\n　埼玉県川越市幸町15-18\n　https://store.starbucks.co.jp/detail-1554/\n\n▼チャンネル登録お待ちしています▼\r\nhttps://www.youtube.com/channel/UCcOSfFvLNiCCXPB0iEUEo0g?sub_confirmation=1\r\n\n▼二宮こずえさんのSNSはこちらから▼\n【Instagram】https://www.instagram.com/cozue_n/\r\n【OFFICIAL BLOG】https://ameblo.jp/cozue-ninomiya/\r\n【Tik Tok】https://www.tiktok.com/@cozue_ninomiya\r\n\r\n▼こちらもぜひフォローお願いします！▼\r\n【Instagram】https://www.instagram.com/yui.yanagihashi/\r\n【OFFICIAL BLOG】https://ameblo.jp/minima-1528/\r\n【Tik Tok】https://www.tiktok.com/@yui_yanagihashi\r\n\r\n▼お問い合わせはこちらから▼\r\n株式会社エムオン・エンタテインメント\r\n〒106-8531東京都港区六本木3-16-33青葉六本木ビル5F\r\nkiraramodel@sonymusic.co.jp\r\n\n\n#川越 #サプライズ #誕生日 #ドッキリ #どっきり #着物 #KIMONO #KAWAGOE #小江戸 #小江戸川越 #埼玉県川越市 #うなぎ #氷川神社 #川越氷川神社 #鯛みくじ #レンタル着物 #美々庵 #川越いちのや #いちのや #スターバックス #スタバ #STARBUCKS #おみくじ #鐘つき通り #スタバ鐘つき通り #誕生日 #バースデー #鰻 #食べ歩き #いも恋 #おさつチップ #おさつチップス  #ママたちの休日 #ママの休日 #ママライフ #日帰り旅行 #時の鐘 #川越一番街 #菓子屋横丁 #japantrip #japan #daytrip #KOEDO"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT15M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "36443",
+        "likeCount": "332",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2N25digKCV2COqOWNob2Vugma0s",
+      "id": "4HAbMiFhHT0",
+      "snippet": {
+        "publishedAt": "2026-10-29T03:00:27Z",
+        "channelId": "UCS7WJpZlcHRKcO4kzimDmlg",
+        "title": "川越市駅｜六軒町の駅前と川越女子高校、踏切の向こうの東田町 — 帰り道を思い出す",
+        "description": "東武東上線・川越市駅（川越市）を、東側だけにある出入口から六軒町の駅前のくらづくり本舗とファミリーマート、川越女子高校、本川越への乗り換えへ、踏切を渡って東田町のベルクと富士見中学校へたどり、2026年8月に市が策定した川越市駅周辺まちづくりビジョンを紹介します。写真は使わず、市・学校・事業者の公表資料から作った地図・年表で、帰り道の「これまで」と「これから」を整理しました。\n\nわたしの地元 — 暮らした街は、ずっと地元。\n\n▼この動画で歩く町\n六軒町・田町・野田町・三光町・東田町・上野田町・月吉町・末広町・中原町・新富町\n\n▼チャプター\n0:00 オープニング\n0:11 川越市駅の輪郭\n1:12 六軒町の駅前と川越女子高校\n2:09 踏切の向こうの東田町\n3:12 これからの川越市駅\n3:50 まとめ\n4:16 出典\n\n▼コメント欄で、川越市の話を聞かせてください\nよく寄った店、通った道や学校、いまの街の様子など、同じ街を知る人どうしで教え合えたらうれしいです。\n昔の話も最近の話も歓迎です。個人が特定される情報（住所・お名前など）は書かないでください。\n\n▼この動画で扱う範囲の主な学校・施設（すべてではありません）\n【駅前（東側）】くらづくり本舗 川越市駅前店（六軒町1-1-2）・ファミリーマート 川越市駅前店（六軒町1-1-2）・埼玉県立川越女子高等学校（六軒町1-23）\n【線路の西側（踏切を渡る）】ベルク 川越東田町店（東田町4-26）・店内に ゴトークリーニング・川越市立富士見中学校（東田町17-1）\n\n▼出典・素材\n■ 写真\n・Tobu-Kawagoeshi-STA（2021-08-31撮影） 作者：MaedaAkihiko／CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Tobu-Kawagoeshi-STA.jpg／加工：トリミング・字幕追加\n・Tobu-railway-tojo-main-line-Kawagoe-shi-station-entrance（2009-08-13撮影） 作者：LERK／CC BY 3.0 https://creativecommons.org/licenses/by/3.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Tobu-railway-tojo-main-line-Kawagoe-shi-station-entrance.jpg／加工：トリミング・字幕追加\n・Kawagoeshi Station Entrance 1（2012-10-16撮影） 作者：京浜にけ／CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Kawagoeshi_Station_Entrance_1.JPG／加工：トリミング・字幕追加\n・Kawagoeshi-STA Gate（2021-08-31撮影） 作者：MaedaAkihiko／CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Kawagoeshi-STA_Gate.jpg／加工：トリミング・字幕追加\n・Honkawagoe Station - Nov 15 2020（2020-11-15撮影） 作者：Nesnad／CC BY 4.0 https://creativecommons.org/licenses/by/4.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Honkawagoe_Station_-_Nov_15_2020.jpeg／加工：トリミング・字幕追加\n※本動画中の「川越市駅の駅舎・2021年」場面の写真加工・字幕・映像編集に関する当チャンネルの寄与も CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/deed.ja）で提供します。\n※本動画中の「川越市駅の駅舎・2012年」場面の写真加工・字幕・映像編集に関する当チャンネルの寄与も CC BY-SA 3.0（https://creativecommons.org/licenses/by-sa/3.0/deed.ja）で提供します。\n※本動画中の「川越市駅改札口・2021年」場面の写真加工・字幕・映像編集に関する当チャンネルの寄与も CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/deed.ja）で提供します。\n■ 地図・データ\n・「国土数値情報（鉄道データ）」（国土交通省）を加工して作成（CC BY 4.0）\n・「令和2年国勢調査 小地域（町丁・字等）境界データ」（総務省統計局、e-Stat）を加工して作成（e-Stat 利用規約（CC BY 4.0 互換））\n・「国土数値情報（学校データ）」（国土交通省）を加工して作成（CC BY 4.0）\n・© OpenStreetMap contributors https://www.openstreetmap.org/copyright（ODbL 1.0）\n■ 資料\n東武鉄道 2025年度 駅別乗降人員（13ページ）／川越市駅\n川越市 川越市駅周辺まちづくりビジョンを策定しました（2026年8月31日） https://www.city.kawagoe.saitama.jp/shisei/toshikei/1010554/1022681/1022682.html ／ビジョン本編 https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/682/kawagoeshieki_vision.pdf\n川越市 本川越駅西口の整備 https://www.city.kawagoe.saitama.jp/shisei/toshikei/1010554/1010725/1010726/1010737.html\n埼玉県立川越女子高等学校 川女とは（沿革） https://kawagoejoshi-h.spec.ed.jp/学校案内/川女とは ／アクセス https://kawagoejoshi-h.spec.ed.jp/学校案内/アクセス\n川越市 富士見中学校の沿革 https://www.city.kawagoe.saitama.jp/kosodate/shugaku/1005360/1005505/1005508.html\nくらづくり本舗 川越市駅前店 https://www.kuradukuri.jp/f/shop/kawagoeshieki ／ファミリーマート 川越市駅前店 https://store.family.co.jp/points/23551 ／ベルク 川越東田町店 https://www.belc.jp/shop/0045 ／ゴトークリーニング https://goto-cleaning.jp/store/\n※東武鉄道の資料は、サイトの決まりによりリンクをトップページ https://www.tobu.co.jp/ にしています（ページ名は上に記載）\n\n▼注記\n・資料の確認日は2026年10月6〜7日。店舗は確認時の公式掲載に基づく店名・所在地で、当日の営業を保証するものではありません\n・本川越への乗り換え時間（約11分→約5分）は、市が整備の目的として説明している数字です\n・川越市駅周辺まちづくりビジョンは方向性を示す指針で、新しい出口などの完成時期を示すものではありません\n・踏切を渡るときは、遮断機と警報に従ってください。地図に踏切の位置は描いていません\n・町名は国勢調査の町丁・字等境界に基づく概略で、生活圏や通学区域を示すものではありません。地図の線と点は徒歩ナビではありません\n\n▼音声・制作\n音声：Google Gemini TTS（ナレーター：Charon）による合成音声です。\n図解・アニメーション・BGM・効果音：本動画のためのオリジナル制作。\n\n#川越市駅 #東武東上線 #川越市 #わたしの地元",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4HAbMiFhHT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4HAbMiFhHT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4HAbMiFhHT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4HAbMiFhHT0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4HAbMiFhHT0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "わたしの地元",
+        "tags": [
+          "わたしの地元",
+          "川越市",
+          "川越市駅",
+          "東武東上線"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "川越市駅｜六軒町の駅前と川越女子高校、踏切の向こうの東田町 — 帰り道を思い出す",
+          "description": "東武東上線・川越市駅（川越市）を、東側だけにある出入口から六軒町の駅前のくらづくり本舗とファミリーマート、川越女子高校、本川越への乗り換えへ、踏切を渡って東田町のベルクと富士見中学校へたどり、2026年8月に市が策定した川越市駅周辺まちづくりビジョンを紹介します。写真は使わず、市・学校・事業者の公表資料から作った地図・年表で、帰り道の「これまで」と「これから」を整理しました。\n\nわたしの地元 — 暮らした街は、ずっと地元。\n\n▼この動画で歩く町\n六軒町・田町・野田町・三光町・東田町・上野田町・月吉町・末広町・中原町・新富町\n\n▼チャプター\n0:00 オープニング\n0:11 川越市駅の輪郭\n1:12 六軒町の駅前と川越女子高校\n2:09 踏切の向こうの東田町\n3:12 これからの川越市駅\n3:50 まとめ\n4:16 出典\n\n▼コメント欄で、川越市の話を聞かせてください\nよく寄った店、通った道や学校、いまの街の様子など、同じ街を知る人どうしで教え合えたらうれしいです。\n昔の話も最近の話も歓迎です。個人が特定される情報（住所・お名前など）は書かないでください。\n\n▼この動画で扱う範囲の主な学校・施設（すべてではありません）\n【駅前（東側）】くらづくり本舗 川越市駅前店（六軒町1-1-2）・ファミリーマート 川越市駅前店（六軒町1-1-2）・埼玉県立川越女子高等学校（六軒町1-23）\n【線路の西側（踏切を渡る）】ベルク 川越東田町店（東田町4-26）・店内に ゴトークリーニング・川越市立富士見中学校（東田町17-1）\n\n▼出典・素材\n■ 写真\n・Tobu-Kawagoeshi-STA（2021-08-31撮影） 作者：MaedaAkihiko／CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Tobu-Kawagoeshi-STA.jpg／加工：トリミング・字幕追加\n・Tobu-railway-tojo-main-line-Kawagoe-shi-station-entrance（2009-08-13撮影） 作者：LERK／CC BY 3.0 https://creativecommons.org/licenses/by/3.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Tobu-railway-tojo-main-line-Kawagoe-shi-station-entrance.jpg／加工：トリミング・字幕追加\n・Kawagoeshi Station Entrance 1（2012-10-16撮影） 作者：京浜にけ／CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Kawagoeshi_Station_Entrance_1.JPG／加工：トリミング・字幕追加\n・Kawagoeshi-STA Gate（2021-08-31撮影） 作者：MaedaAkihiko／CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Kawagoeshi-STA_Gate.jpg／加工：トリミング・字幕追加\n・Honkawagoe Station - Nov 15 2020（2020-11-15撮影） 作者：Nesnad／CC BY 4.0 https://creativecommons.org/licenses/by/4.0／Wikimedia Commons https://commons.wikimedia.org/wiki/File:Honkawagoe_Station_-_Nov_15_2020.jpeg／加工：トリミング・字幕追加\n※本動画中の「川越市駅の駅舎・2021年」場面の写真加工・字幕・映像編集に関する当チャンネルの寄与も CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/deed.ja）で提供します。\n※本動画中の「川越市駅の駅舎・2012年」場面の写真加工・字幕・映像編集に関する当チャンネルの寄与も CC BY-SA 3.0（https://creativecommons.org/licenses/by-sa/3.0/deed.ja）で提供します。\n※本動画中の「川越市駅改札口・2021年」場面の写真加工・字幕・映像編集に関する当チャンネルの寄与も CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/deed.ja）で提供します。\n■ 地図・データ\n・「国土数値情報（鉄道データ）」（国土交通省）を加工して作成（CC BY 4.0）\n・「令和2年国勢調査 小地域（町丁・字等）境界データ」（総務省統計局、e-Stat）を加工して作成（e-Stat 利用規約（CC BY 4.0 互換））\n・「国土数値情報（学校データ）」（国土交通省）を加工して作成（CC BY 4.0）\n・© OpenStreetMap contributors https://www.openstreetmap.org/copyright（ODbL 1.0）\n■ 資料\n東武鉄道 2025年度 駅別乗降人員（13ページ）／川越市駅\n川越市 川越市駅周辺まちづくりビジョンを策定しました（2026年8月31日） https://www.city.kawagoe.saitama.jp/shisei/toshikei/1010554/1022681/1022682.html ／ビジョン本編 https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/682/kawagoeshieki_vision.pdf\n川越市 本川越駅西口の整備 https://www.city.kawagoe.saitama.jp/shisei/toshikei/1010554/1010725/1010726/1010737.html\n埼玉県立川越女子高等学校 川女とは（沿革） https://kawagoejoshi-h.spec.ed.jp/学校案内/川女とは ／アクセス https://kawagoejoshi-h.spec.ed.jp/学校案内/アクセス\n川越市 富士見中学校の沿革 https://www.city.kawagoe.saitama.jp/kosodate/shugaku/1005360/1005505/1005508.html\nくらづくり本舗 川越市駅前店 https://www.kuradukuri.jp/f/shop/kawagoeshieki ／ファミリーマート 川越市駅前店 https://store.family.co.jp/points/23551 ／ベルク 川越東田町店 https://www.belc.jp/shop/0045 ／ゴトークリーニング https://goto-cleaning.jp/store/\n※東武鉄道の資料は、サイトの決まりによりリンクをトップページ https://www.tobu.co.jp/ にしています（ページ名は上に記載）\n\n▼注記\n・資料の確認日は2026年10月6〜7日。店舗は確認時の公式掲載に基づく店名・所在地で、当日の営業を保証するものではありません\n・本川越への乗り換え時間（約11分→約5分）は、市が整備の目的として説明している数字です\n・川越市駅周辺まちづくりビジョンは方向性を示す指針で、新しい出口などの完成時期を示すものではありません\n・踏切を渡るときは、遮断機と警報に従ってください。地図に踏切の位置は描いていません\n・町名は国勢調査の町丁・字等境界に基づく概略で、生活圏や通学区域を示すものではありません。地図の線と点は徒歩ナビではありません\n\n▼音声・制作\n音声：Google Gemini TTS（ナレーター：Charon）による合成音声です。\n図解・アニメーション・BGM・効果音：本動画のためのオリジナル制作。\n\n#川越市駅 #東武東上線 #川越市 #わたしの地元"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT4M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "96",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RHtieGvgPB2cySztecSTdybPyyQ",
+      "id": "4Jn7kGzf9wk",
+      "snippet": {
+        "publishedAt": "2024-10-19T06:07:52Z",
+        "channelId": "UCDi6LoWWKEcuHeNh1BXTzZw",
+        "title": "西小仙波町！【川越まつり2024】 #shorts #travel #埼玉県 #祭り #festival #祭り #japan #川越まつり",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Jn7kGzf9wk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Jn7kGzf9wk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Jn7kGzf9wk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Jn7kGzf9wk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Jn7kGzf9wk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Walker Japan",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "西小仙波町！【川越まつり2024】 #shorts #travel #埼玉県 #祭り #festival #祭り #japan #川越まつり",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5924",
+        "likeCount": "32",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "btsuP1GbtKXJMvA1djyrPD8tzag",
+      "id": "4KkoFTbiNgE",
+      "snippet": {
+        "publishedAt": "2026-06-13T05:08:31Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【川越イベント】彩の国カレーまつり開催！カレーの名店が大集結 #川越 #埼玉カレー #カレー",
+        "description": "川越で開催中の「彩の国カレーまつり」に行ってきました🍛✨\n\nカレーの名店が大集結！会場はスパイスの香りに包まれ、多くの来場者で賑わっていました🙌\n定番から個性派まで、さまざまなカレーを楽しめるのもこのイベントの魅力😳\nカレー好きにはたまらない、熱気あふれる1日となっています🔥\n今日明日で開催しているので、ぜひ保存して行ってみくださいね📹✨\n\n📌 川越の観光情報や地域イベントも随時発信中\n📌 チャンネル登録して、川越の魅力をもっと深掘りしよう！\n________________________________\n📍 彩の国カレーまつり\n開催日：2026年6月13.14日\n開催時間：11:00~17:30\n会場：ウェスタ川越交流広場、ウニクス川越にぎわい広場\nWEB：https://saitama-curry.com\n_________________________________\n\n🗣ローカルメディア「川越TV」では、\n川越に住む人・働く人・学ぶ人・旅する人に向けて\nオススメのお店や企業、人、イベントなど\n「川越を、もっと好きになる。」情報を発信しています📣\n\n《毎週金曜日18:00～配信📡✨》\nぜひGOODボタン・コメント・チャンネル登録お願いします！\n\n🔗最新情報はSNSでも発信中\nInstagram ☛【https://www.instagram.com/kawagoe.tv/】 \nX ☛ 【https://x.com/kawagoe_tv 】\n\n▼取材のご依頼もお待ちしております！\n📍川越TV 運営会社（株）エコーステーション\n℡：049-221-7700（ガイダンス⑨その他）\n✉：kawagoe-tv@eco-station.co.jp\n\n#川越TV  #川越  #小江戸川越 #川越イベント #彩の国カレーフェス #カレー #カレーフェス #埼玉グルメ #川越イベント #kawagoe #shorts  #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4KkoFTbiNgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4KkoFTbiNgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4KkoFTbiNgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4KkoFTbiNgE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4KkoFTbiNgE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "tags": [
+          "カレーフェス",
+          "カレー",
+          "カレーの名店",
+          "埼玉イベント",
+          "川越カレー",
+          "埼玉カレー",
+          "地域情報",
+          "川越イベント",
+          "川越グルメ",
+          "埼玉グルメ",
+          "kawagoe"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【川越イベント】彩の国カレーまつり開催！カレーの名店が大集結 #川越 #埼玉カレー #カレー",
+          "description": "川越で開催中の「彩の国カレーまつり」に行ってきました🍛✨\n\nカレーの名店が大集結！会場はスパイスの香りに包まれ、多くの来場者で賑わっていました🙌\n定番から個性派まで、さまざまなカレーを楽しめるのもこのイベントの魅力😳\nカレー好きにはたまらない、熱気あふれる1日となっています🔥\n今日明日で開催しているので、ぜひ保存して行ってみくださいね📹✨\n\n📌 川越の観光情報や地域イベントも随時発信中\n📌 チャンネル登録して、川越の魅力をもっと深掘りしよう！\n________________________________\n📍 彩の国カレーまつり\n開催日：2026年6月13.14日\n開催時間：11:00~17:30\n会場：ウェスタ川越交流広場、ウニクス川越にぎわい広場\nWEB：https://saitama-curry.com\n_________________________________\n\n🗣ローカルメディア「川越TV」では、\n川越に住む人・働く人・学ぶ人・旅する人に向けて\nオススメのお店や企業、人、イベントなど\n「川越を、もっと好きになる。」情報を発信しています📣\n\n《毎週金曜日18:00～配信📡✨》\nぜひGOODボタン・コメント・チャンネル登録お願いします！\n\n🔗最新情報はSNSでも発信中\nInstagram ☛【https://www.instagram.com/kawagoe.tv/】 \nX ☛ 【https://x.com/kawagoe_tv 】\n\n▼取材のご依頼もお待ちしております！\n📍川越TV 運営会社（株）エコーステーション\n℡：049-221-7700（ガイダンス⑨その他）\n✉：kawagoe-tv@eco-station.co.jp\n\n#川越TV  #川越  #小江戸川越 #川越イベント #彩の国カレーフェス #カレー #カレーフェス #埼玉グルメ #川越イベント #kawagoe #shorts  #shorts"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2321",
+        "likeCount": "19",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mqRG7FfVI9K29eANWkVU0jpUrKw",
+      "id": "4WLcg-3SGPM",
+      "snippet": {
+        "publishedAt": "2021-02-21T11:37:52Z",
+        "channelId": "UC5hOTrNCTUKqG2zv5FUapxQ",
+        "title": "Day trip in Kawagoe",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4WLcg-3SGPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4WLcg-3SGPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4WLcg-3SGPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4WLcg-3SGPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4WLcg-3SGPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kiyoko K.",
+        "tags": [
+          "Kawagoe",
+          "Day in my life",
+          "Life in Japan",
+          "Japan",
+          "Tokyo",
+          "Day trip"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Day trip in Kawagoe",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "73",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XPt13qXKq1eu3gm0l87hQ476LqI",
+      "id": "4YXfybPjOu4",
+      "snippet": {
+        "publishedAt": "2025-05-04T12:02:19Z",
+        "channelId": "UCEIioU4oTE32ne5J8_o6msw",
+        "title": "東京近郊川越新開幕🍠吉伊卡哇もぐもぐ本舖【5/12起免抽選】最完整限定商品一次看🍡吉伊卡哇粉必朝聖推薦 | ちいかわもぐもぐ本舖川越店 | freya c. diary",
+        "description": "00:00 opening\n00:30 ちいかわもぐもぐ本舖 川越店\n\n感謝收看，歡迎訂閱按讚留言分享♡\nThank you for watching :)\nご視聴いただきありがとうございます\n\n#日本 #東京近郊 #埼玉 #川越 #吉伊卡哇 #ちいかわ #ちいかわもぐもぐ本舖 #ちいかわグッズ #japanvlog #tokyo #tokyovlog #tokyotravel #chiikawa #freyacdiary\n\n♪Music by 茶葉のぎか - Sunny spot\n♪Music by さりい bgm - afternoon melody / モコロコロ / ハルカゼはモデラート\n♪Music by Stream Cafe\nshopping spree - https://www.youtube.com/watch?v=Vqf8nyYNm68\n\n✎ 影片中英文與日文字幕使用ChatGPT翻譯",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4YXfybPjOu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4YXfybPjOu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4YXfybPjOu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4YXfybPjOu4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4YXfybPjOu4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "freya c. diary",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "zh-Hant",
+        "localized": {
+          "title": "東京近郊川越新開幕🍠吉伊卡哇もぐもぐ本舖【5/12起免抽選】最完整限定商品一次看🍡吉伊卡哇粉必朝聖推薦 | ちいかわもぐもぐ本舖川越店 | freya c. diary",
+          "description": "00:00 opening\n00:30 ちいかわもぐもぐ本舖 川越店\n\n感謝收看，歡迎訂閱按讚留言分享♡\nThank you for watching :)\nご視聴いただきありがとうございます\n\n#日本 #東京近郊 #埼玉 #川越 #吉伊卡哇 #ちいかわ #ちいかわもぐもぐ本舖 #ちいかわグッズ #japanvlog #tokyo #tokyovlog #tokyotravel #chiikawa #freyacdiary\n\n♪Music by 茶葉のぎか - Sunny spot\n♪Music by さりい bgm - afternoon melody / モコロコロ / ハルカゼはモデラート\n♪Music by Stream Cafe\nshopping spree - https://www.youtube.com/watch?v=Vqf8nyYNm68\n\n✎ 影片中英文與日文字幕使用ChatGPT翻譯"
+        },
+        "defaultAudioLanguage": "zh-Hant"
+      },
+      "contentDetails": {
+        "duration": "PT11M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "33488",
+        "likeCount": "368",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MS5N7q6h3j9eSSckoOMM8-R302w",
+      "id": "4_UX8O2wPtU",
+      "snippet": {
+        "publishedAt": "2026-05-15T11:00:06Z",
+        "channelId": "UCmGn4rk7yEBRR-bi9Fo2ypw",
+        "title": "東京近郊一日遊！川越小江戶鰻魚吃爆｜福岡女孩東京近郊旅",
+        "description": "久違的東京近郊旅遊，想到川越會聯想到這的古蹟\n還有一條長長的老街美食\n\n上一次來已經是幾年前，這的美食都讓我念念不忘的\n跟著我們的腳步走 分享在川越必吃的美食\n\nKlook https://www.klook.com/zh-TW/?aid=29898\nkkday https://reurl.cc/GXxDaD\n\n住宿預訂Agoda\nhttps://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1910281\n\n成為這個頻道的會員並獲得福利：\nhttps://www.youtube.com/channel/UCmGn4rk7yEBRR-bi9Fo2ypw/join\n\nLP：體驗川越頂級鰻魚的旅程｜歷史與美食的奢華時刻\nhttps://ext-fed.com/unagi/zh-hant/\nKlook：鰻魚與現磨山葵體驗（埼玉・川越）｜Klook\nhttps://affiliate.klook.com/sl/lzm4BEW\nViator：東京近郊的在地日式美食體驗 2026－川越\nhttps://reurl.cc/np4p1n\nGetyourguide：在東京近郊，與熟練主廚一起享受正宗的鰻魚料理體驗。 \nhttps://reurl.cc/YDRDv4\n\n#川越 \n#川越観光 \n#川越老街\n#小江戸川越\n#埼玉観光\n#日本旅行\n#JapanTravel\n#JapanVlog\n#東京近郊\n#日本自由行\n#冰川神社\n#菓子屋横丁\n#時の鐘\n#蔵造りの町並み\n#東京近郊景點\n#日本旅遊\n#Kawagoe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4_UX8O2wPtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4_UX8O2wPtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4_UX8O2wPtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4_UX8O2wPtU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4_UX8O2wPtU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "日本福岡女孩Yumeko Japan Travel",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "zh-Hant",
+        "localized": {
+          "title": "東京近郊一日遊！川越小江戶鰻魚吃爆｜福岡女孩東京近郊旅",
+          "description": "久違的東京近郊旅遊，想到川越會聯想到這的古蹟\n還有一條長長的老街美食\n\n上一次來已經是幾年前，這的美食都讓我念念不忘的\n跟著我們的腳步走 分享在川越必吃的美食\n\nKlook https://www.klook.com/zh-TW/?aid=29898\nkkday https://reurl.cc/GXxDaD\n\n住宿預訂Agoda\nhttps://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1910281\n\n成為這個頻道的會員並獲得福利：\nhttps://www.youtube.com/channel/UCmGn4rk7yEBRR-bi9Fo2ypw/join\n\nLP：體驗川越頂級鰻魚的旅程｜歷史與美食的奢華時刻\nhttps://ext-fed.com/unagi/zh-hant/\nKlook：鰻魚與現磨山葵體驗（埼玉・川越）｜Klook\nhttps://affiliate.klook.com/sl/lzm4BEW\nViator：東京近郊的在地日式美食體驗 2026－川越\nhttps://reurl.cc/np4p1n\nGetyourguide：在東京近郊，與熟練主廚一起享受正宗的鰻魚料理體驗。 \nhttps://reurl.cc/YDRDv4\n\n#川越 \n#川越観光 \n#川越老街\n#小江戸川越\n#埼玉観光\n#日本旅行\n#JapanTravel\n#JapanVlog\n#東京近郊\n#日本自由行\n#冰川神社\n#菓子屋横丁\n#時の鐘\n#蔵造りの町並み\n#東京近郊景點\n#日本旅遊\n#Kawagoe"
+        },
+        "defaultAudioLanguage": "zh-Hant"
+      },
+      "contentDetails": {
+        "duration": "PT17M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9683",
+        "likeCount": "260",
+        "favoriteCount": "0",
+        "commentCount": "25"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IWysQ5TCZv5VHdo52gjgNKaXZ1M",
+      "id": "4_x6NibVHko",
+      "snippet": {
+        "publishedAt": "2026-10-10T08:32:57Z",
+        "channelId": "UCExASDN78i5BDDgHWoy9QRQ",
+        "title": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "description": "川越市は、埼玉県の北西部に位置し、歴史と伝統、そして現代が見事に融合する、まさに唯一無二の景観が広がる都市です。\n\nこの地域の景色は、江戸時代の町並みと現代の都市機能、豊かな自然環境が織りなす、他では見られない特別な風景を生み出しています。\n\n \n\n四季の変化が鮮明に表現される川越の景色は、まさに日本の歴史と自然の芸術作品と言えるでしょう\n\n。春には、川越城址公園の桜並木が淡いピンクの花を咲かせ、伝統的な蔵造りの町並みと見事に調和します。\n\n特に、小江戸と呼ばれる川越の歴史的町並みに咲く桜は、まさに川越にしか存在しない唯一無二の風景です。\n\n \n\n夏は、伝統的な蔵造りの町並みと近代的な都市景観が融合した景色が広がります。\n\n川越の中心市街地では、歴史的な建造物と現代の建築が共存し、まるで絵はがきのような美しさを醸し出します。\n\n特に夕暮れ時の蔵造りの街並みは、他では見られない独特の魅力を放っています。\n\n \n\n秋になると、川越市内の寺社や公園が鮮やかな紅葉に染まります。\n\n特に、喜多院や川越城址公園の紅葉は、まるで自然が描いた絵画のようで、歴史的な建造物と紅葉のコントラストは息をのむほどの美しさです。\n\n \n\n冬は、伝統的な町並みと雪景色が、静寂と美しさを演出します。\n\n蔵造りの町並みに雪が積もる様子は、まさに川越にしか存在しない、唯一無二の景観を作り出します。\n\n \n\n歴史と伝統、そして現代が見事に融合する川越景観をお楽しみください。\n\n \n \n\n※撮影された映像は、個人情報保護の観点から、解像度を落として配信しています。\n\nまた、システムの不具合や混雑による電波状況の悪化により、配信が一時停止することがあります。\n\n概ね数時間で配信が復旧しますので、しばらく時間を空けてアクセスしてください。\n\nお問い合わせについては、 info@livecamera24.jp　　までメールをしてください。\n\nできる限り早急に対応するよういたします。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4_x6NibVHko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4_x6NibVHko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4_x6NibVHko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4_x6NibVHko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4_x6NibVHko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "埼玉県川越市大正浪漫夢通りライブカメラ",
+          "description": "川越市は、埼玉県の北西部に位置し、歴史と伝統、そして現代が見事に融合する、まさに唯一無二の景観が広がる都市です。\n\nこの地域の景色は、江戸時代の町並みと現代の都市機能、豊かな自然環境が織りなす、他では見られない特別な風景を生み出しています。\n\n \n\n四季の変化が鮮明に表現される川越の景色は、まさに日本の歴史と自然の芸術作品と言えるでしょう\n\n。春には、川越城址公園の桜並木が淡いピンクの花を咲かせ、伝統的な蔵造りの町並みと見事に調和します。\n\n特に、小江戸と呼ばれる川越の歴史的町並みに咲く桜は、まさに川越にしか存在しない唯一無二の風景です。\n\n \n\n夏は、伝統的な蔵造りの町並みと近代的な都市景観が融合した景色が広がります。\n\n川越の中心市街地では、歴史的な建造物と現代の建築が共存し、まるで絵はがきのような美しさを醸し出します。\n\n特に夕暮れ時の蔵造りの街並みは、他では見られない独特の魅力を放っています。\n\n \n\n秋になると、川越市内の寺社や公園が鮮やかな紅葉に染まります。\n\n特に、喜多院や川越城址公園の紅葉は、まるで自然が描いた絵画のようで、歴史的な建造物と紅葉のコントラストは息をのむほどの美しさです。\n\n \n\n冬は、伝統的な町並みと雪景色が、静寂と美しさを演出します。\n\n蔵造りの町並みに雪が積もる様子は、まさに川越にしか存在しない、唯一無二の景観を作り出します。\n\n \n\n歴史と伝統、そして現代が見事に融合する川越景観をお楽しみください。\n\n \n \n\n※撮影された映像は、個人情報保護の観点から、解像度を落として配信しています。\n\nまた、システムの不具合や混雑による電波状況の悪化により、配信が一時停止することがあります。\n\n概ね数時間で配信が復旧しますので、しばらく時間を空けてアクセスしてください。\n\nお問い合わせについては、 info@livecamera24.jp　　までメールをしてください。\n\nできる限り早急に対応するよういたします。"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT11H52M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1572",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zoTfw5eHHWXVnuLi2bSQFDzlf7g",
+      "id": "4dh6J4k9YnE",
+      "snippet": {
+        "publishedAt": "2022-10-17T15:00:04Z",
+        "channelId": "UC3xwGqPP6B3b_GdK139uw4w",
+        "title": "【川越市市制施行100周年】川越まつり 令和4年10月16日 Kawagoe Festival October 16, 2022",
+        "description": "チャンネル登録していただけると撮影の励みになります。\n是非よろしくお願いいたします。\nhttps://www.youtube.com/@matsurinoato?sub_confirmation=1\n\n\n絢爛豪華な山車がゆく祭礼絵巻　国指定重要無形民俗文化財\nユネスコ無形文化遺産登録　川越氷川祭の山車行事\n\n川越まつり（川越氷川祭の山車行事）は、10月14日に氷川神社が執行する「例大祭」を根源として、直後に行われる「神幸祭」や「山車行事（祭礼）」から成り立っている。\n「神幸祭」は、慶安元年（1648）に、当時の川越藩主、松平伊豆守信綱が氷川神社に神輿・獅子頭・太鼓等を寄進し、祭礼を奨励したことが始まり。\n\n川越まつりは江戸の天下祭（神田明神、赤坂日枝神社の各祭礼の総称）の影響を強く受けて発展し、祭で曳き出される山車の形も天下祭の流行を敏感に感じ取りながら変化していった。\n精巧な人形を乗せた絢爛豪華な山車が、小江戸川越の象徴である蔵造りの町並みを中心に、町中を曳行（えいこう）される。\n何台もの山車が辻で相対し、すれ違うさまは、そのスケールの大きさに、見物客を圧倒する。\n\n川越まつり最大のみどころは「曳っかわせ（ひっかわせ)」。\n向かい合う数台の山車が、囃子（笛、太鼓、鉦、踊り）で競演し、\nまつり人たちは提灯を高々と振り上げ、歓声を上げる。\nとくに夜の「曳っかわせ」は最高潮の盛り上がりを見せる。\n\n川越まつりは、江戸「天下祭」の様式や風流を今に伝える貴重な都市型祭礼として370年の時代を超えて守り、 川越独特の特色を加えながら発展してきた。\n\n平成17年（2005）、｢川越氷川祭の山車行事｣として 国指定重要無形民俗文化財となった。\n\nまた、平成28年（2016）には、「川越氷川祭の山車行事」として、ユネスコ無形文化遺産「山・鉾・屋台行事」に登録された。\n\n川越まつり\nhttps://www.kawagoematsuri.jp/index.html\n\nKawagoe Hikawa Festival Float Event (Registered as a UNESCO Intangible Cultural Heritage)\n\nThe Kawagoe Festival (Kawagoe Hikawa Matsuri float event) is based on the \"regular festival\" held on October 14 at Hikawa Shrine, and consists of the \"Shinkosai\" and \"float events (rites)\" that take place immediately after the festival.\nThe Shinko Matsuri began in 1648, when Matsudaira Izumori Nobutsuna, then lord of the Kawagoe domain, donated a portable shrine, lion's head, drums, etc. to Hikawa Shrine and encouraged the festival.\n\nThe Kawagoe Festival developed under the strong influence of the Tenka Matsuri in Edo (the collective name for the festivals of Kanda Myojin and Akasaka Hie Shrine), and the shapes of the floats pulled at the festival changed as the festival became more sensitive to the trends of the Tenka Matsuri.\nGorgeous floats with elaborate dolls on them are pulled through the town, centering on the warehouse-zukuri townscape that is the symbol of Koedo-Kawagoe.\nThe sheer scale of the festival overwhelms onlookers as the floats pass each other at street corners.\n\nThe highlight of the Kawagoe Festival is the \"Hikkawase.\nSeveral floats facing each other compete with each other with musical accompaniment (flutes, drums, gongs, and dances).\nThe festival goers raise their lanterns high in the air and shout with delight.\nThe nighttime \"Hikikkawase\" is especially exciting.\n\nKawagoe Matsuri has developed over the past 370 years as a valuable urban festival that conveys the style and customs of the \"Tenka Matsuri\" of Edo, while adding unique Kawagoe characteristics.\n\nIn 2005, the festival was designated a nationally important intangible folk cultural property as \"Kawagoe Hikawa Festival Float Event.\n\nIn 2016, the festival was registered as a UNESCO Intangible Cultural Heritage \"Yama, Hoko, Yatai Event\" as \"Kawagoe Hikawa Matsuri no Yama Yatai Event\".\n\n#川越まつり ＃山車祭り ＃unesco\n\n問い合わせ\nInstagram\nhttps://www.instagram.com/takayasu_nobuhiro/\ntwitter\nhttps://twitter.com/maturi_grapher",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4dh6J4k9YnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4dh6J4k9YnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4dh6J4k9YnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4dh6J4k9YnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4dh6J4k9YnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "マツリノアト",
+        "tags": [
+          "祭り",
+          "夏まつり",
+          "夏祭り",
+          "花火",
+          "花火大会",
+          "御輿",
+          "神輿",
+          "山車",
+          "屋台",
+          "お囃子",
+          "祇園",
+          "無形文化遺産",
+          "奇祭",
+          "日本の祭り",
+          "踊り",
+          "東京",
+          "埼玉",
+          "神奈川",
+          "群馬",
+          "関東",
+          "川越まつり",
+          "川越",
+          "unesco",
+          "ユネスコ無形文化遺産",
+          "100周年"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【川越市市制施行100周年】川越まつり 令和4年10月16日 Kawagoe Festival October 16, 2022",
+          "description": "チャンネル登録していただけると撮影の励みになります。\n是非よろしくお願いいたします。\nhttps://www.youtube.com/@matsurinoato?sub_confirmation=1\n\n\n絢爛豪華な山車がゆく祭礼絵巻　国指定重要無形民俗文化財\nユネスコ無形文化遺産登録　川越氷川祭の山車行事\n\n川越まつり（川越氷川祭の山車行事）は、10月14日に氷川神社が執行する「例大祭」を根源として、直後に行われる「神幸祭」や「山車行事（祭礼）」から成り立っている。\n「神幸祭」は、慶安元年（1648）に、当時の川越藩主、松平伊豆守信綱が氷川神社に神輿・獅子頭・太鼓等を寄進し、祭礼を奨励したことが始まり。\n\n川越まつりは江戸の天下祭（神田明神、赤坂日枝神社の各祭礼の総称）の影響を強く受けて発展し、祭で曳き出される山車の形も天下祭の流行を敏感に感じ取りながら変化していった。\n精巧な人形を乗せた絢爛豪華な山車が、小江戸川越の象徴である蔵造りの町並みを中心に、町中を曳行（えいこう）される。\n何台もの山車が辻で相対し、すれ違うさまは、そのスケールの大きさに、見物客を圧倒する。\n\n川越まつり最大のみどころは「曳っかわせ（ひっかわせ)」。\n向かい合う数台の山車が、囃子（笛、太鼓、鉦、踊り）で競演し、\nまつり人たちは提灯を高々と振り上げ、歓声を上げる。\nとくに夜の「曳っかわせ」は最高潮の盛り上がりを見せる。\n\n川越まつりは、江戸「天下祭」の様式や風流を今に伝える貴重な都市型祭礼として370年の時代を超えて守り、 川越独特の特色を加えながら発展してきた。\n\n平成17年（2005）、｢川越氷川祭の山車行事｣として 国指定重要無形民俗文化財となった。\n\nまた、平成28年（2016）には、「川越氷川祭の山車行事」として、ユネスコ無形文化遺産「山・鉾・屋台行事」に登録された。\n\n川越まつり\nhttps://www.kawagoematsuri.jp/index.html\n\nKawagoe Hikawa Festival Float Event (Registered as a UNESCO Intangible Cultural Heritage)\n\nThe Kawagoe Festival (Kawagoe Hikawa Matsuri float event) is based on the \"regular festival\" held on October 14 at Hikawa Shrine, and consists of the \"Shinkosai\" and \"float events (rites)\" that take place immediately after the festival.\nThe Shinko Matsuri began in 1648, when Matsudaira Izumori Nobutsuna, then lord of the Kawagoe domain, donated a portable shrine, lion's head, drums, etc. to Hikawa Shrine and encouraged the festival.\n\nThe Kawagoe Festival developed under the strong influence of the Tenka Matsuri in Edo (the collective name for the festivals of Kanda Myojin and Akasaka Hie Shrine), and the shapes of the floats pulled at the festival changed as the festival became more sensitive to the trends of the Tenka Matsuri.\nGorgeous floats with elaborate dolls on them are pulled through the town, centering on the warehouse-zukuri townscape that is the symbol of Koedo-Kawagoe.\nThe sheer scale of the festival overwhelms onlookers as the floats pass each other at street corners.\n\nThe highlight of the Kawagoe Festival is the \"Hikkawase.\nSeveral floats facing each other compete with each other with musical accompaniment (flutes, drums, gongs, and dances).\nThe festival goers raise their lanterns high in the air and shout with delight.\nThe nighttime \"Hikikkawase\" is especially exciting.\n\nKawagoe Matsuri has developed over the past 370 years as a valuable urban festival that conveys the style and customs of the \"Tenka Matsuri\" of Edo, while adding unique Kawagoe characteristics.\n\nIn 2005, the festival was designated a nationally important intangible folk cultural property as \"Kawagoe Hikawa Festival Float Event.\n\nIn 2016, the festival was registered as a UNESCO Intangible Cultural Heritage \"Yama, Hoko, Yatai Event\" as \"Kawagoe Hikawa Matsuri no Yama Yatai Event\".\n\n#川越まつり ＃山車祭り ＃unesco\n\n問い合わせ\nInstagram\nhttps://www.instagram.com/takayasu_nobuhiro/\ntwitter\nhttps://twitter.com/maturi_grapher"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT58M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13430",
+        "likeCount": "97",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lrGaTtAqv1VvJHHx5-frRc5mP7I",
+      "id": "4fT6cNzAiKs",
+      "snippet": {
+        "publishedAt": "2021-01-18T10:01:14Z",
+        "channelId": "UCcF4CYNoH6fFawId1LnMCsA",
+        "title": "후지이미나X너의여행은 EP.01 미나의 도쿄On&Off | 도쿄,가와고에",
+        "description": "[후지이미나 X 너의여행은 EP.01] 미나의 도쿄일상&가와고에\n\n누군가에겐 새로운 자극제, 누군가에겐 달달한 휴식...\n잔잔한 삶에 들어오는 신선한 바람이자\n추억으로 가득한 보물상자, 바로 “여행”\n\n누가 만드냐에 따라 어떤 여행이냐가 만들어지죠\n그래서 물어봅니다, 너의 여행은?\n\n후지이미나 유튜브채널 https://www.youtube.com/channel/UCgsbJfHa3TCmki1x_ZwugEw\n\n[EP.01]\n삶의 ON&OFF는 확실하게!!\n미나의 도쿄일상 엿보기 \n\n여러분, 보고 싶었어요~~~ \n\n오랜만에 한국팬들에게 \n자신의 근황을 알려 온 후지이 미나.\n평범한 일상을 보내는 미나의 모습이 공개된다. \n\n\n도부철도 https://www.tobu.co.jp/kr/\n\n君の旅はx藤井美菜\nYourTripIs@FujiiMina\n\n#너의여행은 #후지이미나 #정주행 \n#겨울여행 #君の旅は #藤井美菜 #너여",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4fT6cNzAiKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4fT6cNzAiKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4fT6cNzAiKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4fT6cNzAiKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4fT6cNzAiKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "주식회사_용준(스튜디오여행썰)",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "후지이미나X너의여행은 EP.01 미나의 도쿄On&Off | 도쿄,가와고에",
+          "description": "[후지이미나 X 너의여행은 EP.01] 미나의 도쿄일상&가와고에\n\n누군가에겐 새로운 자극제, 누군가에겐 달달한 휴식...\n잔잔한 삶에 들어오는 신선한 바람이자\n추억으로 가득한 보물상자, 바로 “여행”\n\n누가 만드냐에 따라 어떤 여행이냐가 만들어지죠\n그래서 물어봅니다, 너의 여행은?\n\n후지이미나 유튜브채널 https://www.youtube.com/channel/UCgsbJfHa3TCmki1x_ZwugEw\n\n[EP.01]\n삶의 ON&OFF는 확실하게!!\n미나의 도쿄일상 엿보기 \n\n여러분, 보고 싶었어요~~~ \n\n오랜만에 한국팬들에게 \n자신의 근황을 알려 온 후지이 미나.\n평범한 일상을 보내는 미나의 모습이 공개된다. \n\n\n도부철도 https://www.tobu.co.jp/kr/\n\n君の旅はx藤井美菜\nYourTripIs@FujiiMina\n\n#너의여행은 #후지이미나 #정주행 \n#겨울여행 #君の旅は #藤井美菜 #너여"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT13M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "201321",
+        "likeCount": "1216",
+        "favoriteCount": "0",
+        "commentCount": "76"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-qr-XbRbzwr2tWzLNAhal9BM_po",
+      "id": "4ieaLHCEt1g",
+      "snippet": {
+        "publishedAt": "2023-08-04T08:00:03Z",
+        "channelId": "UCABhkt8pd25FOiXfY643zEQ",
+        "title": "【川越水上公園】真夏は公共のプールが安定【持ち物紹介】",
+        "description": "#川越水上公園 #埼玉県  #プール \n\n川越水上公園プールへ行ってきました。\n良く晴れた真夏の平日。\nちょっと遅めに入場したので、渋滞ストレスはありませんでした。\n\n平日ですがプールは子どもたちで賑わっていて、\n夏を満喫できました。\n\n参考までに持ち物紹介もしておりますので、\n参考になれば幸いです。\n\n川越水上公園\nhttps://www.parks.or.jp/kawagoesuijo/\n\nしらこばと水上公園\nhttps://www.parks.or.jp/shirakobatosuijo/\n\n加須はなさき水上公園\nhttps://www.parks.or.jp/kazohanasaki/\n\nチケット購入（アソビュー！）\nhttps://www.asoview.com/channel/tickets/aywxbuUiwx/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ieaLHCEt1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ieaLHCEt1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ieaLHCEt1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4ieaLHCEt1g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4ieaLHCEt1g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dashi ch. : レビューな日常",
+        "tags": [
+          "プール",
+          "夏休み",
+          "川越水上公園プール",
+          "川越水上公園",
+          "プール　平日",
+          "埼玉　プール",
+          "川越　プール",
+          "水上公園",
+          "水上公園　プール",
+          "夏　プール",
+          "夏",
+          "埼玉",
+          "関東　プール",
+          "プール　持ち物",
+          "プール　グッズ"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【川越水上公園】真夏は公共のプールが安定【持ち物紹介】",
+          "description": "#川越水上公園 #埼玉県  #プール \n\n川越水上公園プールへ行ってきました。\n良く晴れた真夏の平日。\nちょっと遅めに入場したので、渋滞ストレスはありませんでした。\n\n平日ですがプールは子どもたちで賑わっていて、\n夏を満喫できました。\n\n参考までに持ち物紹介もしておりますので、\n参考になれば幸いです。\n\n川越水上公園\nhttps://www.parks.or.jp/kawagoesuijo/\n\nしらこばと水上公園\nhttps://www.parks.or.jp/shirakobatosuijo/\n\n加須はなさき水上公園\nhttps://www.parks.or.jp/kazohanasaki/\n\nチケット購入（アソビュー！）\nhttps://www.asoview.com/channel/tickets/aywxbuUiwx/"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT8M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "29360",
+        "likeCount": "133",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "p7V54196dVvUxhZdMT8SzuXuCRg",
+      "id": "4jW5cCnheVs",
+      "snippet": {
+        "publishedAt": "2025-11-29T06:31:21Z",
+        "channelId": "UC5-PnC1k1Sm1YPavnA4ZGLQ",
+        "title": "Kawagoe | The Samurai Old Town Near Tokyo (1h from Tokyo)",
+        "description": "🇯🇵 Welcome to** Kawagoe** \n— Tokyo’s Samurai Old Town.Just one hour from Tokyo, Kawagoe (also called Little Edo) is one of Japan’s best-preserved historic towns, filled with wooden warehouses, retro alleys, traditional snacks, shrines, and samurai-era heritage.\n\n🚶**This cinematic walk takes you through the full area**\n– Kawagoe’s iconic Bell Tower “Toki no Kane”\n– Candy Alley with old-fashioned sweets\n– Taisho Roman Street with retro architecture\n– Kawagoe Kumano Shrine (good luck & love shrine)\n– Nakacho Street historic townscape\n– Kawagoe Castle \n— an important base in the Kanto region and a site related to the Hojo clan\n– Many local shops, cafes, and street food you can’t find anywhere else\n\n✨ **Why Kawagoe is special**\n✓ One of the best-preserved Edo-period townscapes\n✓ Mix of Edo, Meiji, and Taisho-era architecture\n✓ Traditional snacks & crafts\n✓ Perfect day trip: only 1 hour from Tokyo\n✓ A peaceful escape with real Japanese culture\n\n📍 **Locations you’ll see in this video**\n– Nakacho Street\n– Toki no Kane (Bell Tower)\n– Kawagoe Castle\n– Hikawa Shrine\n– Kashiya Yokocho (Candy Alley)\n– Ogakiku (Eel Restaurant)\n– Local ramen shops, cafes, wagashi, Edo-style stores\n– Many street-food spots along the retro alleys\n\n🔔 **Subtitles available**\nEnglish / Japanese / Spanish / Portuguese / Chinese / Korean / more\n\nIf you enjoyed the walk, please like, comment, and subscribe.More Japan city walks, samurai towns, and cultural journeys are coming soon.\n\n🕐 **Timeline of full video** \n00:00 – Kawagoe overview\n00:30 – Hon-Kawagoe Station\n00:36 – Kumano Shrine\n01:15 – Renkei-ji Temple\n01:32 – KIRAKU Medaka Shop\n02:06 – Old Style Ramen (Ichi no Aji)\n02:22 – Taisho Roman Street\n02:32 – Nakacho Street\n03:06 – Unagi Denbei\n03:14 – Stone shop(Iwaza)\n03:39 – MATCHA SPOT\n04:31 – Choki-in Temple\n04:50 – Saiwacho Roman\n05:19 – Bell Tower Street\n05:40 – Bell Tower (Toki no Kane）\n05:49 – Yakushi Shrine\n06:15 – Specialty shops\n06:35 – Nakacho Street\n07:19 – Edoya Sweets\n07:39 – Shooting Gallery\n07:52 – Candy Alley\n09:00 – Dōkan Ōta\n09:11 – Kawagoe Castle\n10:48 – Hikawa Shrine\n11:43 – Eel (Ogakiku)\n\n#Kawagoe #JapanWalk #TokyoDayTrip #SamuraiTown #LittleEdo #JapanTravel #CinematicWalk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4jW5cCnheVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4jW5cCnheVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4jW5cCnheVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4jW5cCnheVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4jW5cCnheVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FREE DAYS | FIREしたらやりたい100のこと",
+        "tags": [
+          "Japan travel",
+          "Japanese culture",
+          "Japan 4K",
+          "Japan walking tour",
+          "Japanese history",
+          "Japanese traditions",
+          "Japanese food",
+          "Japan nature",
+          "Shrines in Japan",
+          "Samurai history",
+          "Japanese lifestyle",
+          "Tokyo travel",
+          "Japan hidden gems",
+          "Cinematic travel",
+          "Japan vlog",
+          "Japan culture guide",
+          "Japanese festivals",
+          "Local Japan",
+          "Japan countryside",
+          "Traditional Japan",
+          "Japanese spirituality",
+          "Historical Japan",
+          "Japan scenery",
+          "Japan tourism",
+          "Travel Japan guide",
+          "Creative Nomad"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kawagoe | The Samurai Old Town Near Tokyo (1h from Tokyo)",
+          "description": "🇯🇵 Welcome to** Kawagoe** \n— Tokyo’s Samurai Old Town.Just one hour from Tokyo, Kawagoe (also called Little Edo) is one of Japan’s best-preserved historic towns, filled with wooden warehouses, retro alleys, traditional snacks, shrines, and samurai-era heritage.\n\n🚶**This cinematic walk takes you through the full area**\n– Kawagoe’s iconic Bell Tower “Toki no Kane”\n– Candy Alley with old-fashioned sweets\n– Taisho Roman Street with retro architecture\n– Kawagoe Kumano Shrine (good luck & love shrine)\n– Nakacho Street historic townscape\n– Kawagoe Castle \n— an important base in the Kanto region and a site related to the Hojo clan\n– Many local shops, cafes, and street food you can’t find anywhere else\n\n✨ **Why Kawagoe is special**\n✓ One of the best-preserved Edo-period townscapes\n✓ Mix of Edo, Meiji, and Taisho-era architecture\n✓ Traditional snacks & crafts\n✓ Perfect day trip: only 1 hour from Tokyo\n✓ A peaceful escape with real Japanese culture\n\n📍 **Locations you’ll see in this video**\n– Nakacho Street\n– Toki no Kane (Bell Tower)\n– Kawagoe Castle\n– Hikawa Shrine\n– Kashiya Yokocho (Candy Alley)\n– Ogakiku (Eel Restaurant)\n– Local ramen shops, cafes, wagashi, Edo-style stores\n– Many street-food spots along the retro alleys\n\n🔔 **Subtitles available**\nEnglish / Japanese / Spanish / Portuguese / Chinese / Korean / more\n\nIf you enjoyed the walk, please like, comment, and subscribe.More Japan city walks, samurai towns, and cultural journeys are coming soon.\n\n🕐 **Timeline of full video** \n00:00 – Kawagoe overview\n00:30 – Hon-Kawagoe Station\n00:36 – Kumano Shrine\n01:15 – Renkei-ji Temple\n01:32 – KIRAKU Medaka Shop\n02:06 – Old Style Ramen (Ichi no Aji)\n02:22 – Taisho Roman Street\n02:32 – Nakacho Street\n03:06 – Unagi Denbei\n03:14 – Stone shop(Iwaza)\n03:39 – MATCHA SPOT\n04:31 – Choki-in Temple\n04:50 – Saiwacho Roman\n05:19 – Bell Tower Street\n05:40 – Bell Tower (Toki no Kane）\n05:49 – Yakushi Shrine\n06:15 – Specialty shops\n06:35 – Nakacho Street\n07:19 – Edoya Sweets\n07:39 – Shooting Gallery\n07:52 – Candy Alley\n09:00 – Dōkan Ōta\n09:11 – Kawagoe Castle\n10:48 – Hikawa Shrine\n11:43 – Eel (Ogakiku)\n\n#Kawagoe #JapanWalk #TokyoDayTrip #SamuraiTown #LittleEdo #JapanTravel #CinematicWalk"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "34456",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "skOpeTAPvopll-YnyMBDgboCxlI",
+      "id": "4qiVrB3-Eto",
+      "snippet": {
+        "publishedAt": "2025-05-21T10:20:34Z",
+        "channelId": "UCdbgxyb0lVhE5l7sly8SFDQ",
+        "title": "#kawagoe #川越 #가와고에",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "maeum ganeundero",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "#kawagoe #川越 #가와고에",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "194",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "m0fyv733vVYz6bOuG_KPF2on8BM",
+      "id": "4rLjV7khAds",
+      "snippet": {
+        "publishedAt": "2026-11-03T10:30:39Z",
+        "channelId": "UC5eXBnFCqZEl1p-SV1ERRXg",
+        "title": "【速報】20261103入間航空祭、ブルーインパルスとYS-11EBの勇姿に感動",
+        "description": "↓「チャンネル登録」よろしくお願いします！\n@青森単身赴任 \nhttps://youtube.com/@tsunagitaiCH\n\n【関連動画】\nhttps://youtu.be/0SW8qHoBShY\nhttps://youtu.be/WynvkS5KBvc\nhttps://youtu.be/GB3X_kcZUX8\n\n#祭り #旅行 #飛行機\n#festival #travel #airplane",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4rLjV7khAds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4rLjV7khAds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4rLjV7khAds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4rLjV7khAds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4rLjV7khAds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "青森単身赴任",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【速報】20261103入間航空祭、ブルーインパルスとYS-11EBの勇姿に感動",
+          "description": "↓「チャンネル登録」よろしくお願いします！\n@青森単身赴任 \nhttps://youtube.com/@tsunagitaiCH\n\n【関連動画】\nhttps://youtu.be/0SW8qHoBShY\nhttps://youtu.be/WynvkS5KBvc\nhttps://youtu.be/GB3X_kcZUX8\n\n#祭り #旅行 #飛行機\n#festival #travel #airplane"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT20M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "29918",
+        "likeCount": "185",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LJ8BJIMc03BBvtamE6AU-BMGdVU",
+      "id": "4tStux_8BzY",
+      "snippet": {
+        "publishedAt": "2021-06-06T03:43:12Z",
+        "channelId": "UCc40bnT3582fYNpy75FJzzQ",
+        "title": "Stunning Traditional Sushi Restaurant (since 1913) | Kawagoe",
+        "description": "Located on the main street of the popular and touristic Kurazukuri area in Kawagoe, few people notice the small entrance of this traditional restaurant build in 1913.\n\nIt is a really beautiful place that takes you away from the craziness of the city. \nNot the best sushi but worth a try if you want to enjoy a beautiful Japanese traditional atmosphere. Just order one of the cheapest Omakase and it should be ok! \n\nThis time's Omakase was the dinner time 6.500 yen Omakase. If you want to try one of the 2 most expensive ones, you have to book in advance.\n\nhttps://wasousaitoshikinosushifurin.gorp.jp/\n\nEnjoy!\n\n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *\nYou can support this channel and help me create more content, go on more dates and food hunts by chipping in on PayPal → https://www.paypal.com/paypalme/feedjennifer2021\n\nGet access to exclusive content and support this channel by becoming a patron on Patreon  here:\n \nhttps://www.patreon.com/feedjennifer\n\nFollow me on Instagram and FB:\n\nhttps://www.instagram.com/jenniferjulien/\n\nhttps://www.facebook.com/jennifer.julien.716\n\nMy babies also have their own Instagram!\n\nhttps://www.instagram.com/charlie_boy_connection/\n\nThanks for watching!\n#feedjennifer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4tStux_8BzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4tStux_8BzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4tStux_8BzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4tStux_8BzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4tStux_8BzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jennifer Julien",
+        "tags": [
+          "Sushi",
+          "Kawagoe",
+          "Furin sushi",
+          "Traditional Japanese garden",
+          "Japanese house",
+          "Sashimi",
+          "Wagyu",
+          "Nigiri",
+          "Little Edo"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Stunning Traditional Sushi Restaurant (since 1913) | Kawagoe",
+          "description": "Located on the main street of the popular and touristic Kurazukuri area in Kawagoe, few people notice the small entrance of this traditional restaurant build in 1913.\n\nIt is a really beautiful place that takes you away from the craziness of the city. \nNot the best sushi but worth a try if you want to enjoy a beautiful Japanese traditional atmosphere. Just order one of the cheapest Omakase and it should be ok! \n\nThis time's Omakase was the dinner time 6.500 yen Omakase. If you want to try one of the 2 most expensive ones, you have to book in advance.\n\nhttps://wasousaitoshikinosushifurin.gorp.jp/\n\nEnjoy!\n\n*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *\nYou can support this channel and help me create more content, go on more dates and food hunts by chipping in on PayPal → https://www.paypal.com/paypalme/feedjennifer2021\n\nGet access to exclusive content and support this channel by becoming a patron on Patreon  here:\n \nhttps://www.patreon.com/feedjennifer\n\nFollow me on Instagram and FB:\n\nhttps://www.instagram.com/jenniferjulien/\n\nhttps://www.facebook.com/jennifer.julien.716\n\nMy babies also have their own Instagram!\n\nhttps://www.instagram.com/charlie_boy_connection/\n\nThanks for watching!\n#feedjennifer"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "884",
+        "likeCount": "97",
+        "favoriteCount": "0",
+        "commentCount": "46"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "I8AXSELkk6SZiIEwLbB-Wwz5XOo",
+      "id": "4y7_CVipEtQ",
+      "snippet": {
+        "publishedAt": "2026-06-08T17:00:24Z",
+        "channelId": "UCblGbwUExbZCCFb-n5f1sHg",
+        "title": "tokyo day trip itinerary to kawagoe 🍡 exploring japan’s little edo",
+        "description": "📍 Want my full Kawagoe Google Maps itinerary? Follow me on Instagram @polderexpress and comment \"kawagoe\" on any reel. I’ll DM you all the spots from the video + bonus locations!\n\n#kawagoe #itinerary #japanitinerary #japantravel #visitjapan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Paulina 🦋",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "tokyo day trip itinerary to kawagoe 🍡 exploring japan’s little edo",
+          "description": "📍 Want my full Kawagoe Google Maps itinerary? Follow me on Instagram @polderexpress and comment \"kawagoe\" on any reel. I’ll DM you all the spots from the video + bonus locations!\n\n#kawagoe #itinerary #japanitinerary #japantravel #visitjapan"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1408",
+        "likeCount": "56",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TyQ6eS826Vn-SBiWiZdbZYej86M",
+      "id": "4y9Sjk_G9Ek",
+      "snippet": {
+        "publishedAt": "2024-12-04T09:00:05Z",
+        "channelId": "UC7cyw80mU7CAeDW6FdP-xxw",
+        "title": "Best Dango at Kawagoe #shorts #food #foodie #foodlover #yummy #japan",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4y9Sjk_G9Ek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4y9Sjk_G9Ek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4y9Sjk_G9Ek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4y9Sjk_G9Ek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4y9Sjk_G9Ek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Christy Park",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Best Dango at Kawagoe #shorts #food #foodie #foodlover #yummy #japan",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "424",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zjLGIHng0MVRw86p0LRr9cM3GHE",
+      "id": "55hH0QfIhaQ",
+      "snippet": {
+        "publishedAt": "2026-10-19T22:35:06Z",
+        "channelId": "UCGC5a12VzBi3VbtA_kDeMaQ",
+        "title": "川越まつり　宵宮　今成（鈿女の山車）　新富町一丁目（家光の山車）　2026/10/17 a44",
+        "description": "川越まつり　宵宮　今成（鈿女の山車）　新富町一丁目（家光の山車）　2026/10/17 a44",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/55hH0QfIhaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/55hH0QfIhaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/55hH0QfIhaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/55hH0QfIhaQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/55hH0QfIhaQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoshian yoshi",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "川越まつり　宵宮　今成（鈿女の山車）　新富町一丁目（家光の山車）　2026/10/17 a44",
+          "description": "川越まつり　宵宮　今成（鈿女の山車）　新富町一丁目（家光の山車）　2026/10/17 a44"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "109",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-tdYMr4auid-GBwCkr6GkHg4T3E",
+      "id": "56fBR3AtFIY",
+      "snippet": {
+        "publishedAt": "2026-10-19T12:34:18Z",
+        "channelId": "UCGC5a12VzBi3VbtA_kDeMaQ",
+        "title": "川越まつり　宵宮　菅原町（菅原道真の山車）が通過する　2026/10/17 a32",
+        "description": "川越まつり　宵宮　菅原町（菅原道真の山車）が通過する　2026/10/17 a32",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoshian yoshi",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "川越まつり　宵宮　菅原町（菅原道真の山車）が通過する　2026/10/17 a32",
+          "description": "川越まつり　宵宮　菅原町（菅原道真の山車）が通過する　2026/10/17 a32"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "136",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1puf1edMIun40Yth1W3JS_U7fYY",
+      "id": "58opeKR7QDg",
+      "snippet": {
+        "publishedAt": "2024-03-31T12:54:45Z",
+        "channelId": "UCzAbq-0Hh7rdmzshA6wjhUg",
+        "title": "도쿄 풍경 카와고에 먹거리 tokyo 食べ歩き　#川越市 #たべあるき #tokyo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/58opeKR7QDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/58opeKR7QDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/58opeKR7QDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/58opeKR7QDg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/58opeKR7QDg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "엔도의풍경",
+        "tags": [
+          "食べ歩き",
+          "川越",
+          "Tokyo food"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "도쿄 풍경 카와고에 먹거리 tokyo 食べ歩き　#川越市 #たべあるき #tokyo",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "65",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a_NFA3GgLqcpUd7hcwth7Y3Z0UY",
+      "id": "5E1UKI_P8-U",
+      "snippet": {
+        "publishedAt": "2026-10-17T11:46:24Z",
+        "channelId": "UChWIvbf6ICLt3Wtlin1HvSw",
+        "title": "川越祭り2026",
+        "description": "川越祭り2026開催。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5E1UKI_P8-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5E1UKI_P8-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5E1UKI_P8-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5E1UKI_P8-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5E1UKI_P8-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "伸一(しんちゃん)　チャンネル",
+        "tags": [
+          "埼玉県川越市",
+          "川越祭り2026",
+          "川越祭り",
+          "川越秋祭り"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "川越祭り2026",
+          "description": "川越祭り2026開催。"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1368",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JjHi5r5zgOwi7jDpNqtMNWP8CvQ",
+      "id": "5KjwiiRzByc",
+      "snippet": {
+        "publishedAt": "2026-11-05T21:35:12Z",
+        "channelId": "UCDT76L16yKRCyIkU5nz6fog",
+        "title": "川越市下老袋ライブカメラ",
+        "description": "埼玉県川越市下老袋の現在の様子をお届けするライブカメラです。\n\n下老袋は、埼玉県川越市の東部に位置する地域で、住宅地や田園風景が広がる、自然豊かなエリアです。川越市中心部の歴史ある街並みとはまた違った、のどかで落ち着いた地域の風景が特徴です。周辺には田畑や緑地、地域の生活道路などがあり、都市の利便性と昔ながらの農村風景が共存しています。\n\nこのライブカメラでは、埼玉県川越市下老袋の街並みや天候、周辺の道路や交通の流れ、時間帯ごとの地域の表情をリアルタイムでご覧いただけます。\n\n埼玉県は、都心へのアクセスの良さと豊かな自然、歴史的な観光スポットが魅力の地域です。川越市周辺では、住宅街や田園風景、季節ごとに変化する田畑の様子など、埼玉県ならではの日常の景色を楽しむことができます。\n\nお出かけ前に現地の天気や道路の様子を確認したい方、川越市の街の雰囲気を感じたい方、埼玉県南西部の現在の様子を見たい方にもおすすめです。\n\n※本ライブカメラは、街並み・天候・周辺状況の確認を目的として配信しており、特定の個人や住宅等を対象として撮影するものではありません。\n\n#埼玉県 #川越市 #下老袋 #川越 #埼玉観光 #川越の風景 #田園風景 #埼玉の街並み #川越天気 #埼玉天気 #関東旅行 #関東の風景 #ライブカメラ #日本の風景 #街並みライブカメラ #ライブカメラ24 #Saitama #Kawagoe #Shimooibukuro #LiveCamera\n\n【注意事項】\n\n•  プライバシー保護について\n\no  撮影された映像は、個人情報保護の観点から、解像度を落として配信しています。\n\n•   配信の一時停止について\n\no  システムの不具合や、回線混雑による電波状況の悪化により、配信が一時停止することがあります。\n\no その場合、概ね数時間で配信が復旧しますので、しばらく時間を空けてから再度アクセスしてください。\n\n•  お問い合わせについて\n\no ライブカメラの設置に関するご相談や、配信に関するお問い合わせは、下記メールアドレスまでご連絡ください。できる限り早急に対応するよういたします。\n\no  ✉️ info@livecamera24.jp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5KjwiiRzByc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5KjwiiRzByc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5KjwiiRzByc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5KjwiiRzByc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5KjwiiRzByc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市下老袋ライブカメラ",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "川越市下老袋ライブカメラ",
+          "description": "埼玉県川越市下老袋の現在の様子をお届けするライブカメラです。\n\n下老袋は、埼玉県川越市の東部に位置する地域で、住宅地や田園風景が広がる、自然豊かなエリアです。川越市中心部の歴史ある街並みとはまた違った、のどかで落ち着いた地域の風景が特徴です。周辺には田畑や緑地、地域の生活道路などがあり、都市の利便性と昔ながらの農村風景が共存しています。\n\nこのライブカメラでは、埼玉県川越市下老袋の街並みや天候、周辺の道路や交通の流れ、時間帯ごとの地域の表情をリアルタイムでご覧いただけます。\n\n埼玉県は、都心へのアクセスの良さと豊かな自然、歴史的な観光スポットが魅力の地域です。川越市周辺では、住宅街や田園風景、季節ごとに変化する田畑の様子など、埼玉県ならではの日常の景色を楽しむことができます。\n\nお出かけ前に現地の天気や道路の様子を確認したい方、川越市の街の雰囲気を感じたい方、埼玉県南西部の現在の様子を見たい方にもおすすめです。\n\n※本ライブカメラは、街並み・天候・周辺状況の確認を目的として配信しており、特定の個人や住宅等を対象として撮影するものではありません。\n\n#埼玉県 #川越市 #下老袋 #川越 #埼玉観光 #川越の風景 #田園風景 #埼玉の街並み #川越天気 #埼玉天気 #関東旅行 #関東の風景 #ライブカメラ #日本の風景 #街並みライブカメラ #ライブカメラ24 #Saitama #Kawagoe #Shimooibukuro #LiveCamera\n\n【注意事項】\n\n•  プライバシー保護について\n\no  撮影された映像は、個人情報保護の観点から、解像度を落として配信しています。\n\n•   配信の一時停止について\n\no  システムの不具合や、回線混雑による電波状況の悪化により、配信が一時停止することがあります。\n\no その場合、概ね数時間で配信が復旧しますので、しばらく時間を空けてから再度アクセスしてください。\n\n•  お問い合わせについて\n\no ライブカメラの設置に関するご相談や、配信に関するお問い合わせは、下記メールアドレスまでご連絡ください。できる限り早急に対応するよういたします。\n\no  ✉️ info@livecamera24.jp"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT8H25M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "52",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "He5D2V-7QDiC59eZHxCovbmtlGA",
+      "id": "5NGeIDGCUm8",
+      "snippet": {
+        "publishedAt": "2026-07-21T07:03:24Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "【川越市】風水害の備えについて",
+        "description": "風水害に対する備えについて、準備しておくべき3つのポイントのご案内です。\nいざという時に備えて、日頃から風水害対策に必要な知識を身につけ、「自らの命は自らが守る」という意識のもとで、適切な避難行動をとれるよう準備しておくことが大切です。\n各取組の詳細は、以下のホームページをご確認ください。\n\n＜新しい防災気象情報＞\nhttps://www.city.kawagoe.saitama.jp/kurashi/anshin/1001545/1021766.html\n\n＜水害ハザードマップ＞\nhttps://www.city.kawagoe.saitama.jp/kurashi/anshin/1001545/1001576/1001578.html\n\n＜耳で聴くハザードマップ（埼玉県）＞\nhttps://www.pref.saitama.lg.jp/a0402/20260501.html\n\n＜マイタイムライン＞\nhttps://www.city.kawagoe.saitama.jp/kurashi/anshin/1001545/1001547/1001553.html\r\n\n\r\r\n＜防災ラジオ等防災情報発信＞\nhttps://www.city.kawagoe.saitama.jp/kurashi/anshin/1001545/1001581/index.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5NGeIDGCUm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5NGeIDGCUm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5NGeIDGCUm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "tags": [
+          "防災",
+          "風水害",
+          "災害対策"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【川越市】風水害の備えについて",
+          "description": "風水害に対する備えについて、準備しておくべき3つのポイントのご案内です。\nいざという時に備えて、日頃から風水害対策に必要な知識を身につけ、「自らの命は自らが守る」という意識のもとで、適切な避難行動をとれるよう準備しておくことが大切です。\n各取組の詳細は、以下のホームページをご確認ください。\n\n＜新しい防災気象情報＞\nhttps://www.city.kawagoe.saitama.jp/kurashi/anshin/1001545/1021766.html\n\n＜水害ハザードマップ＞\nhttps://www.city.kawagoe.saitama.jp/kurashi/anshin/1001545/1001576/1001578.html\n\n＜耳で聴くハザードマップ（埼玉県）＞\nhttps://www.pref.saitama.lg.jp/a0402/20260501.html\n\n＜マイタイムライン＞\nhttps://www.city.kawagoe.saitama.jp/kurashi/anshin/1001545/1001547/1001553.html\r\n\n\r\r\n＜防災ラジオ等防災情報発信＞\nhttps://www.city.kawagoe.saitama.jp/kurashi/anshin/1001545/1001581/index.html"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT4M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "310",
+        "favoriteCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DQeBtEgicXHevAKxtbXZjxLeO7E",
+      "id": "5PbZQ26T9_Q",
+      "snippet": {
+        "publishedAt": "2025-10-21T09:00:07Z",
+        "channelId": "UCPJ_JiWG2ASi9fj4aPwQhzA",
+        "title": "川越まつり 宵山 [4K] Kawagoe Festival Yoiyama",
+        "description": "令和7年度の「川越まつり」は10月18(土)～19日（日）に開催。\n令和7年10月18(土)に行われた、宵山・山車巡行・曳っかわせの様子です。\n「曳っかわせ」とは、町内の主要な道路・交差点に山車が集まり、山車同士が向かい合わせになって競演乱舞をすることです。\n\nThe 2025 Kawagoe Festival was held from October 18th (Sat) to October 19th (Sun).\nThis is a video of the Yoiyama, float procession, and Hikkawase on October 18th (Sat), 2025.\n\"Hikkawase\" is when floats gather at major roads and intersections within the town, face each other and perform a fierce dance.\n\n===== 目次（チャプター）Video Chapters =====\n\n00:00  オープニング  Opening\n01:01  野田五町　八幡太郎の山車\n02:01  大塚新田囃子連\n03:03  今成囃子連\n05:09  石田囃子連鈿女\n06:26  幸町　翁の山車\n07:32  大手町　鈿女の山車\n08:51  川越市　猩猩の山車\n10:04  牛若囃子連\n11:04  鴨田囃子連\n12:18  藤間囃子保存会\n14:50  志多町　弁慶の山車\n16:35 「曳っかわせ」大手町　鈿女の山車  /  連雀町　道灌の山車\n17:30  連雀町　道灌の山車\n18:28  連雀町　道灌の山車\n20:02  野田五町　八幡太郎の山車\n21:27  脇田町　家康の山車\n24:09  新富町二丁目　鏡獅子の山車\n26:25  仲町　羅陵王の山車\n28:22 「曳っかわせ」大手町　鈿女の山車  /  新富町一丁目　家光の山車\n30:08  大手町　鈿女の山車\n30:58  新富町一丁目　家光の山車\n\nカメラ　：DJI Osmo Pocket 3\n再生時間：約33:00\n撮影地　：埼玉県川越市\n撮影日　：2025年10月18日\n\n#川越まつり #宵山  #曳っかわせ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5PbZQ26T9_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5PbZQ26T9_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5PbZQ26T9_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5PbZQ26T9_Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5PbZQ26T9_Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tokyo Suburbs Walker",
+        "tags": [
+          "川越まつり",
+          "宵山",
+          "曳っかわせ",
+          "DJI Osmo Pocket 3"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "川越まつり 宵山 [4K] Kawagoe Festival Yoiyama",
+          "description": "令和7年度の「川越まつり」は10月18(土)～19日（日）に開催。\n令和7年10月18(土)に行われた、宵山・山車巡行・曳っかわせの様子です。\n「曳っかわせ」とは、町内の主要な道路・交差点に山車が集まり、山車同士が向かい合わせになって競演乱舞をすることです。\n\nThe 2025 Kawagoe Festival was held from October 18th (Sat) to October 19th (Sun).\nThis is a video of the Yoiyama, float procession, and Hikkawase on October 18th (Sat), 2025.\n\"Hikkawase\" is when floats gather at major roads and intersections within the town, face each other and perform a fierce dance.\n\n===== 目次（チャプター）Video Chapters =====\n\n00:00  オープニング  Opening\n01:01  野田五町　八幡太郎の山車\n02:01  大塚新田囃子連\n03:03  今成囃子連\n05:09  石田囃子連鈿女\n06:26  幸町　翁の山車\n07:32  大手町　鈿女の山車\n08:51  川越市　猩猩の山車\n10:04  牛若囃子連\n11:04  鴨田囃子連\n12:18  藤間囃子保存会\n14:50  志多町　弁慶の山車\n16:35 「曳っかわせ」大手町　鈿女の山車  /  連雀町　道灌の山車\n17:30  連雀町　道灌の山車\n18:28  連雀町　道灌の山車\n20:02  野田五町　八幡太郎の山車\n21:27  脇田町　家康の山車\n24:09  新富町二丁目　鏡獅子の山車\n26:25  仲町　羅陵王の山車\n28:22 「曳っかわせ」大手町　鈿女の山車  /  新富町一丁目　家光の山車\n30:08  大手町　鈿女の山車\n30:58  新富町一丁目　家光の山車\n\nカメラ　：DJI Osmo Pocket 3\n再生時間：約33:00\n撮影地　：埼玉県川越市\n撮影日　：2025年10月18日\n\n#川越まつり #宵山  #曳っかわせ"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT33M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3888",
+        "likeCount": "19",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CCXPKxhNrKs7DlEgUKr0jgxSYlg",
+      "id": "5TnQ3k243Rs",
+      "snippet": {
+        "publishedAt": "2024-04-14T02:00:02Z",
+        "channelId": "UC-km1012mEUQQLGxggmrazw",
+        "title": "【24時間】トラック野郎の聖地の食堂でカレー注文したらデカ盛りすぎた！ #gourmet #グルメ #mukbang #半田屋",
+        "description": "☆フルバージョンの動画はこちら！\nhttps://youtu.be/r2Pc0YdrxqY\n\n☆大衆食堂 半田屋 川越店 様\nhttp://www.handaya.jp/shop/saitama/川越店\n埼玉県川越市大字小仙波反田784-1\n\n#埼玉県 #デカ盛り #はいじぃ #半田屋 #料理番組 #料理 #mukbang #OmO #吉本興業 #foodreview #comparingfoods #gourmet #eatingout #eatingtour #walkandeat #孤独のグルメ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5TnQ3k243Rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5TnQ3k243Rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5TnQ3k243Rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5TnQ3k243Rs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5TnQ3k243Rs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "はいじぃ迷作劇場",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【24時間】トラック野郎の聖地の食堂でカレー注文したらデカ盛りすぎた！ #gourmet #グルメ #mukbang #半田屋",
+          "description": "☆フルバージョンの動画はこちら！\nhttps://youtu.be/r2Pc0YdrxqY\n\n☆大衆食堂 半田屋 川越店 様\nhttp://www.handaya.jp/shop/saitama/川越店\n埼玉県川越市大字小仙波反田784-1\n\n#埼玉県 #デカ盛り #はいじぃ #半田屋 #料理番組 #料理 #mukbang #OmO #吉本興業 #foodreview #comparingfoods #gourmet #eatingout #eatingtour #walkandeat #孤独のグルメ"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1491091",
+        "likeCount": "16185",
+        "favoriteCount": "0",
+        "commentCount": "343"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "P-tWwiv8rhnUmsw9_wrNDB-0dYs",
+      "id": "5YsnIzlE8Hs",
+      "snippet": {
+        "publishedAt": "2019-01-20T06:30:54Z",
+        "channelId": "UCc40bnT3582fYNpy75FJzzQ",
+        "title": "How To Eat Unagi Hitsumabushi | Kawagoe “Little Edo” Visit",
+        "description": "A short introduction to Hitsumabushi which is another way to enjoy Unagi (eel in Japan).\n\nIt is very popular in Japan and always a special meal as it is usually a little bit pricey. 33 dollars for the set I had at Hayashiya:\n\nhttps://tabelog.com/en/saitama/A1103/A110303/11025736/\n\nThe HP in Japanese:\nhttp://www.nasu-hayashiya.co.jp/\n\nGet also a glimpse of Kawagoe city's Kurazukuri area. It is called the Little Edo as it will make you enjoy a time slip to that era.\n\nKawagoe's Bell Tower chimes were designated as one of the \"100 Best Sound Sceneries in Japan\". In Japanese it is called \"Toki no Kane\" = Bell (kane) of Time (toki).\n\nYou can support this channel, help me create more videos and go on food hunts live by becoming a patron on Patreon  here:\n \nhttps://www.patreon.com/feedjennifer\n\nYou will get access to exclusive lives and information about Japan and my favorite secret places.\n\nFollow me on FB:\n\nhttps://www.facebook.com/CreonConsulting/?ref=bookmarks\n\nAnd Instagram!\n\nhttps://www.instagram.com/jenniferjulien/?hl=en\n\nMy babies also have their own Instagram!\n\nhttps://www.instagram.com/charlie_boy_connection/?hl=en\n\nThanks for watching!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5YsnIzlE8Hs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5YsnIzlE8Hs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5YsnIzlE8Hs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5YsnIzlE8Hs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Jennifer Julien",
+        "tags": [
+          "hitsumabushi",
+          "unagi",
+          "eel",
+          "washoku",
+          "japanese food",
+          "kawagoe",
+          "little edo",
+          "little tokyo",
+          "sashimi",
+          "sushi",
+          "tokyo best restaurant",
+          "edo village",
+          "ひつまぶし",
+          "川越"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How To Eat Unagi Hitsumabushi | Kawagoe “Little Edo” Visit",
+          "description": "A short introduction to Hitsumabushi which is another way to enjoy Unagi (eel in Japan).\n\nIt is very popular in Japan and always a special meal as it is usually a little bit pricey. 33 dollars for the set I had at Hayashiya:\n\nhttps://tabelog.com/en/saitama/A1103/A110303/11025736/\n\nThe HP in Japanese:\nhttp://www.nasu-hayashiya.co.jp/\n\nGet also a glimpse of Kawagoe city's Kurazukuri area. It is called the Little Edo as it will make you enjoy a time slip to that era.\n\nKawagoe's Bell Tower chimes were designated as one of the \"100 Best Sound Sceneries in Japan\". In Japanese it is called \"Toki no Kane\" = Bell (kane) of Time (toki).\n\nYou can support this channel, help me create more videos and go on food hunts live by becoming a patron on Patreon  here:\n \nhttps://www.patreon.com/feedjennifer\n\nYou will get access to exclusive lives and information about Japan and my favorite secret places.\n\nFollow me on FB:\n\nhttps://www.facebook.com/CreonConsulting/?ref=bookmarks\n\nAnd Instagram!\n\nhttps://www.instagram.com/jenniferjulien/?hl=en\n\nMy babies also have their own Instagram!\n\nhttps://www.instagram.com/charlie_boy_connection/?hl=en\n\nThanks for watching!"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2484",
+        "likeCount": "120",
+        "favoriteCount": "0",
+        "commentCount": "44"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GY4F035OHDOxcdmCZeFyfjSnsFg",
+      "id": "5d8VRLaCnpA",
+      "snippet": {
+        "publishedAt": "2026-10-21T21:30:23Z",
+        "channelId": "UCZsbyk0h5URPVSi8w2PHuyQ",
+        "title": "【JAPAN 4K】 Kawagoe Festival Highlights Collection! 🏮👘 / #jvt #kawagoe #4k",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5d8VRLaCnpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5d8VRLaCnpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5d8VRLaCnpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5d8VRLaCnpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5d8VRLaCnpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JVT-ch",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "【JAPAN 4K】 Kawagoe Festival Highlights Collection! 🏮👘 / #jvt #kawagoe #4k",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "200",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T6ugaAYHvTzNm7RKrpp_Ipv1CZY",
+      "id": "5eAl2RMexYo",
+      "snippet": {
+        "publishedAt": "2023-06-26T09:52:04Z",
+        "channelId": "UCb-4_emelJXIFO1B-IN5bVA",
+        "title": "川越八幡宮　夕暮れ　あじさい  / Kawagoe Hachimangu Shrine　evening　2023 【4K】",
+        "description": "埼玉県川越市にある「川越八幡宮」の夕暮れ風景です。\n\n境内のあじさいも見頃で花手水も綺麗でした。帰宅帰りの参拝者の姿を見かけると、地域に溶けこんでいる神社なんだとつくづく感じました。\n\n夕暮れ時の神社はノスタルジックな雰囲気がありますね。\n\nIt is the dusk scenery of \"Kawagoe Hachimangu Shrine\" in Kawagoe City, Saitama Prefecture.\n\nThe hydrangeas in the precincts were in full bloom, and \"hanachozu\" was also beautiful. When I saw the worshipers on their way home, I really felt that this is a shrine that has blended into the local community.\n\nThe shrine at dusk has a nostalgic atmosphere.\n\n↓昨年の暑い日に撮影した映像がこちらです。\n\nhttps://www.youtube.com/watch?v=e2FG_dVf3lc&t=127s\n\n撮影カメラは「NIKON Z6Ⅱ」\n\nこの時期の夕暮れは蚊が多いので注意してくださいね。\n\n#cinematicvlog  #川越八幡宮 #花手水 #アジサイ　#4K #z6ⅱ #japan　#埼玉 #川越市",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5eAl2RMexYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5eAl2RMexYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5eAl2RMexYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5eAl2RMexYo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5eAl2RMexYo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "XR_KOMBO | 彩り - Colors of Japan",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "川越八幡宮　夕暮れ　あじさい  / Kawagoe Hachimangu Shrine　evening　2023 【4K】",
+          "description": "埼玉県川越市にある「川越八幡宮」の夕暮れ風景です。\n\n境内のあじさいも見頃で花手水も綺麗でした。帰宅帰りの参拝者の姿を見かけると、地域に溶けこんでいる神社なんだとつくづく感じました。\n\n夕暮れ時の神社はノスタルジックな雰囲気がありますね。\n\nIt is the dusk scenery of \"Kawagoe Hachimangu Shrine\" in Kawagoe City, Saitama Prefecture.\n\nThe hydrangeas in the precincts were in full bloom, and \"hanachozu\" was also beautiful. When I saw the worshipers on their way home, I really felt that this is a shrine that has blended into the local community.\n\nThe shrine at dusk has a nostalgic atmosphere.\n\n↓昨年の暑い日に撮影した映像がこちらです。\n\nhttps://www.youtube.com/watch?v=e2FG_dVf3lc&t=127s\n\n撮影カメラは「NIKON Z6Ⅱ」\n\nこの時期の夕暮れは蚊が多いので注意してくださいね。\n\n#cinematicvlog  #川越八幡宮 #花手水 #アジサイ　#4K #z6ⅱ #japan　#埼玉 #川越市"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "259",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "u9S---ImusdsESC-OLThd4EVXKg",
+      "id": "5i6yy9u6Ap4",
+      "snippet": {
+        "publishedAt": "2020-02-17T01:49:44Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "川越♡キューピット課",
+        "description": "川越市が市内大学（東京国際大学、東邦音楽大学）と協力し制作しました。大学生が、ストーリー設定から撮影スポット選定、監督まで行い、川越の「縁結びのまち」としての魅力をPRする作品となっています。\nまた、「キューピット課」を令和２年３月中旬から、実際にSNS上で開設します！毎月川越市内をめぐるデートプランを提供していきますので、こちらも併せてご覧ください。\n\n下記の映像も併せて制作しましたのでぜひご覧ください。\n「feel kawagoe」→ https://youtu.be/r1gil4A4XRs\n「Kawagoe Festival」→ https://youtu.be/i6tkFsN20WU\n「LIVE KAWAGOE」→ https://youtu.be/TczQKEVXFQc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5i6yy9u6Ap4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5i6yy9u6Ap4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5i6yy9u6Ap4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5i6yy9u6Ap4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5i6yy9u6Ap4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "tags": [
+          "川越",
+          "川越観光",
+          "観光PR映像",
+          "埼玉",
+          "kawagoe",
+          "saitama",
+          "japan"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "川越♡キューピット課",
+          "description": "川越市が市内大学（東京国際大学、東邦音楽大学）と協力し制作しました。大学生が、ストーリー設定から撮影スポット選定、監督まで行い、川越の「縁結びのまち」としての魅力をPRする作品となっています。\nまた、「キューピット課」を令和２年３月中旬から、実際にSNS上で開設します！毎月川越市内をめぐるデートプランを提供していきますので、こちらも併せてご覧ください。\n\n下記の映像も併せて制作しましたのでぜひご覧ください。\n「feel kawagoe」→ https://youtu.be/r1gil4A4XRs\n「Kawagoe Festival」→ https://youtu.be/i6tkFsN20WU\n「LIVE KAWAGOE」→ https://youtu.be/TczQKEVXFQc"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT8M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4393",
+        "likeCount": "39",
+        "favoriteCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2lx_if7NkURXYV3kLgF7ieWKJ2g",
+      "id": "5iBXc4HCucM",
+      "snippet": {
+        "publishedAt": "2026-10-23T21:30:35Z",
+        "channelId": "UCZsbyk0h5URPVSi8w2PHuyQ",
+        "title": "【JAPAN 4K】 Kawagoe Festival Highlights Collection! 🏮👘 / #jvt #kawagoe #4k",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5iBXc4HCucM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5iBXc4HCucM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5iBXc4HCucM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5iBXc4HCucM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5iBXc4HCucM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JVT-ch",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "【JAPAN 4K】 Kawagoe Festival Highlights Collection! 🏮👘 / #jvt #kawagoe #4k",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "907",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jgUNj0W4_jalvm_FlVbn57PKp_o",
+      "id": "5qypfNhLwPM",
+      "snippet": {
+        "publishedAt": "2024-12-30T09:00:09Z",
+        "channelId": "UCIkW6nLF-GdmasyqIq-iSmQ",
+        "title": "【西武と東武の連絡線！】「川越駅連絡線」の廃線跡をたどる",
+        "description": "かつて、西武新宿線（旧西武鉄道川越線）と国鉄川越線、そして東武東上線の間には、連絡線が建設されていました。\n連絡線は「川越駅連絡線」と呼ばれ、川越駅から西に分岐して、西武新宿線と至る路線でした。\n川越駅連絡線は沿線の軍事施設を繋ぐ軍事路線として軍主導で建設されましたが、終戦後すぐに廃線となり、詳しいことはあまりわかりません。\n\n実際に歩いてみました。\n\n\n画像引用：\n・©Google「Googleマップ」\n・国土地理院ウェブサイト　\n（https://www.gsi.go.jp/tizu-kutyu.html）\n\n\n参考：\n・時系列地形図閲覧サイト「今昔マップ on the web」\n（https://ktgis.net/kjmapw/index.html）\n・国土地理院ウェブサイト　\n（https://www.gsi.go.jp/tizu-kutyu.html）\n・西武鉄道ホームページ「歴史・沿革」\n（https://www.seiburailway.jp/company/history/）\n・東武鉄道ホームページ「会社の沿革」\n（https://www.tobu.co.jp/corporation/history/fhistory01.html）\n\n\n#川越駅連絡線 #川越連絡線 #西武東武連絡線 #川越駅 #川越駅廃線跡 #川越線の廃線跡 #川越の廃線跡 #西武鉄道の廃線跡 #東武鉄道の廃線跡 #川越市脇田町の歴史 #本川越駅 #川越町駅 #川越市駅 #埼玉県の廃線跡 #埼玉の廃線跡 #川越鉄道 #西武鉄道川越線 #東上鉄道 #国鉄川越線 #川越駅の統合 #川越駅地下化 #廃線跡  #廃線跡探訪 #脇田信号場 #西武新宿線単線 #廃線跡を歩く #国土地理院 #今昔マップ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5qypfNhLwPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5qypfNhLwPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5qypfNhLwPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5qypfNhLwPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5qypfNhLwPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ちゃりあんぎん/cari angin tokyo",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【西武と東武の連絡線！】「川越駅連絡線」の廃線跡をたどる",
+          "description": "かつて、西武新宿線（旧西武鉄道川越線）と国鉄川越線、そして東武東上線の間には、連絡線が建設されていました。\n連絡線は「川越駅連絡線」と呼ばれ、川越駅から西に分岐して、西武新宿線と至る路線でした。\n川越駅連絡線は沿線の軍事施設を繋ぐ軍事路線として軍主導で建設されましたが、終戦後すぐに廃線となり、詳しいことはあまりわかりません。\n\n実際に歩いてみました。\n\n\n画像引用：\n・©Google「Googleマップ」\n・国土地理院ウェブサイト　\n（https://www.gsi.go.jp/tizu-kutyu.html）\n\n\n参考：\n・時系列地形図閲覧サイト「今昔マップ on the web」\n（https://ktgis.net/kjmapw/index.html）\n・国土地理院ウェブサイト　\n（https://www.gsi.go.jp/tizu-kutyu.html）\n・西武鉄道ホームページ「歴史・沿革」\n（https://www.seiburailway.jp/company/history/）\n・東武鉄道ホームページ「会社の沿革」\n（https://www.tobu.co.jp/corporation/history/fhistory01.html）\n\n\n#川越駅連絡線 #川越連絡線 #西武東武連絡線 #川越駅 #川越駅廃線跡 #川越線の廃線跡 #川越の廃線跡 #西武鉄道の廃線跡 #東武鉄道の廃線跡 #川越市脇田町の歴史 #本川越駅 #川越町駅 #川越市駅 #埼玉県の廃線跡 #埼玉の廃線跡 #川越鉄道 #西武鉄道川越線 #東上鉄道 #国鉄川越線 #川越駅の統合 #川越駅地下化 #廃線跡  #廃線跡探訪 #脇田信号場 #西武新宿線単線 #廃線跡を歩く #国土地理院 #今昔マップ"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT8M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "48670",
+        "likeCount": "468",
+        "favoriteCount": "0",
+        "commentCount": "61"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Gi3cCGXg-GB4XxhNl06saPNYSE0",
+      "id": "6-of-QseNkc",
+      "snippet": {
+        "publishedAt": "2026-02-05T03:30:05Z",
+        "channelId": "UCAzBXaEfln3HIqhNAli8EdA",
+        "title": "A Slow Spring Day in Kawagoe 🌸  Tokyo Day Trip 🌸 (1Hour Away!)",
+        "description": "Back in Kawagoe for a beautiful spring day trip from Tokyo 🌸\n\nIn this vlog, we explore Kawagoe’s famous Old Town streets, traditional Japanese buildings, and local food spots just one hour away from Tokyo.\n\nIf you're planning a Japan trip and looking for easy Tokyo day trips, Kawagoe is a must-visit!\n\n📍 Location: Kawagoe, Saitama, Japan\n🚆 About 1 hour from Tokyo\n\nThanks for spending this slow spring day with us 🤍\n\n🫶🏻🫶🏻🫶🏻\n\nTimestamps:\n0:45 Shingashi River\n2:41 Wagokoro Cafe\n7:52 Taisho Roman Yume Street\n9:09 Kawagoe Pudding\n10:24 Miffy Kitchen and Bakery\n11:12 Donguri Kyowakoku\n\n#japantravel #chillvlog #spring #japanspring  #kawagoe  #miffy #cherryblossom #sakura #hanami #shingashi #wagokoro #donguri #slowtravel #cutevlogs #silentvlog #silent #canolaflowers #canola #ghibli #cafe #quietvlog #daytrip #tokyodaytrip #japan  #koinobori #littleedo #kyoto  #slow \n\nIG: https://instagram.com/veryrevie \nTiktok: https://www.tiktok.com/@veryrevie?_t=ZS-8tYa6Oq0APH&_r=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6-of-QseNkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6-of-QseNkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6-of-QseNkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6-of-QseNkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6-of-QseNkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vie Reyes",
+        "tags": [
+          "#japan",
+          "#slow",
+          "#travel",
+          "#quietvlog",
+          "#silentvlog",
+          "#tokyodaytrip",
+          "#tokyospring",
+          "#cherryblossom",
+          "#sakura",
+          "#hanami",
+          "#cutevlog",
+          "#shingashiriver",
+          "#cafe",
+          "#ghibli",
+          "#miffy",
+          "#japanspring",
+          "#kawagoe",
+          "#spring"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "A Slow Spring Day in Kawagoe 🌸  Tokyo Day Trip 🌸 (1Hour Away!)",
+          "description": "Back in Kawagoe for a beautiful spring day trip from Tokyo 🌸\n\nIn this vlog, we explore Kawagoe’s famous Old Town streets, traditional Japanese buildings, and local food spots just one hour away from Tokyo.\n\nIf you're planning a Japan trip and looking for easy Tokyo day trips, Kawagoe is a must-visit!\n\n📍 Location: Kawagoe, Saitama, Japan\n🚆 About 1 hour from Tokyo\n\nThanks for spending this slow spring day with us 🤍\n\n🫶🏻🫶🏻🫶🏻\n\nTimestamps:\n0:45 Shingashi River\n2:41 Wagokoro Cafe\n7:52 Taisho Roman Yume Street\n9:09 Kawagoe Pudding\n10:24 Miffy Kitchen and Bakery\n11:12 Donguri Kyowakoku\n\n#japantravel #chillvlog #spring #japanspring  #kawagoe  #miffy #cherryblossom #sakura #hanami #shingashi #wagokoro #donguri #slowtravel #cutevlogs #silentvlog #silent #canolaflowers #canola #ghibli #cafe #quietvlog #daytrip #tokyodaytrip #japan  #koinobori #littleedo #kyoto  #slow \n\nIG: https://instagram.com/veryrevie \nTiktok: https://www.tiktok.com/@veryrevie?_t=ZS-8tYa6Oq0APH&_r=1"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3726",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v9Sv144R3u857fGPpxK_fvD8B54",
+      "id": "61VivkJEuzY",
+      "snippet": {
+        "publishedAt": "2020-08-30T06:03:27Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "川越市医師会看護専門学校（川越医師会館内）",
+        "description": "平成24年4月に川越市西小仙波町1丁目から小仙波町2丁目に新築移転して現在の4階建ての川越市医師会館を建設。１階に出入口が3か所あり、北側入口が夜間休日診療所、中央入口の１階奥に訪問看護ステーション、居宅介護支援事業所こすもす、４階に医師会事務局、役員室及び役員会議室、講堂等があり、南側入口からは川越看護専門学校が配置され1階から３階まで事務室、教室、実習室等となっている。\n\n撮影地：川越市小仙波町2丁目53−1\nウェブサイト：www.kawagoe-kango.jp\n周辺情報：建物東側を新河岸川が流れ、その脇を国道254号線バイパスがあり、先にはのどかな田園地帯。建物北側には川越市総合福祉センター（オアシス）がある。駐車場有り。\n備考：料金設定のある設備有り。他のエリアについては都度相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/61VivkJEuzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/61VivkJEuzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/61VivkJEuzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/61VivkJEuzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/61VivkJEuzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "tags": [
+          "川越",
+          "ロケーションライブラリ",
+          "ロケーション",
+          "ロケ地",
+          "撮影",
+          "ロケ",
+          "看護学校"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "川越市医師会看護専門学校（川越医師会館内）",
+          "description": "平成24年4月に川越市西小仙波町1丁目から小仙波町2丁目に新築移転して現在の4階建ての川越市医師会館を建設。１階に出入口が3か所あり、北側入口が夜間休日診療所、中央入口の１階奥に訪問看護ステーション、居宅介護支援事業所こすもす、４階に医師会事務局、役員室及び役員会議室、講堂等があり、南側入口からは川越看護専門学校が配置され1階から３階まで事務室、教室、実習室等となっている。\n\n撮影地：川越市小仙波町2丁目53−1\nウェブサイト：www.kawagoe-kango.jp\n周辺情報：建物東側を新河岸川が流れ、その脇を国道254号線バイパスがあり、先にはのどかな田園地帯。建物北側には川越市総合福祉センター（オアシス）がある。駐車場有り。\n備考：料金設定のある設備有り。他のエリアについては都度相談ください。"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "435",
+        "likeCount": "1",
+        "favoriteCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WWWA2nW_Mq8aXZekTWN63YH-mGQ",
+      "id": "629N3HThX50",
+      "snippet": {
+        "publishedAt": "2026-10-17T12:40:35Z",
+        "channelId": "UC9rYKmvuh4xVgIRTJwNyejA",
+        "title": "2026 Kawagoe Jinkosai 川越氷川神社 神幸祭 | Mikoshi Procession • Kawagoe Festival 川越まつり - 4K HDR ASMR",
+        "description": "Experience the traditional **Jinkosai (神幸祭)**, the sacred mikoshi procession associated with Kawagoe Hikawa Shrine in Saitama, Japan.\n\nThe procession is an important part of Kawagoe’s autumn festival tradition. A portable shrine carrying the enshrined deity is paraded through the community, accompanied by a ceremonial procession that reflects the history and religious traditions of Kawagoe.\n\nFilmed on October 17, 2026, this 4K HDR video captures the atmosphere of the Jinkosai and the traditional Japanese festival procession.\n\nEnjoy the sights, sounds, ceremonial details, and living traditions of one of Kawagoe’s important annual festivals.\n\n🎧 No narration. No background music. Just the natural sounds of the festival in 4K HDR ASMR.\n\n📍 Kawagoe Hikawa Shrine, Kawagoe, Saitama, Japan  \n🏮 Event: Kawagoe Jinkosai (神幸祭)  \n📅 October 17, 2026  \n🎥 4K HDR | Japanese festival | Mikoshi procession | Ambient sound\n\n2026年10月17日に執り行われた、川越氷川神社の神幸祭を4K HDRでお届けします。\n\n神幸祭は、神輿にお遷しした御祭神が氏子区域を巡られる、川越の伝統ある神事です。厳かな神幸行列を通して、川越に受け継がれてきた祭礼の歴史と日本の伝統文化を感じていただけます。\n\n神輿行列の様子や祭礼の雰囲気、現地の音をそのまま収録しました。川越の歴史と伝統が息づく神幸祭をお楽しみください。\n\n🎧 ナレーションなし・BGMなし。祭りの自然な音を4K HDRでお楽しみください。\n\n📍 埼玉県川越市・川越氷川神社  \n🏮 行事：神幸祭  \n📅 2026年10月17日  \n🎥 4K HDR・神輿行列・日本の伝統文化\n\n#mikoshi  #kawagoe #japanwalk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "City Stride | HDR Tokyo Walk",
+        "tags": [
+          "japan walking tour 4k hdr",
+          "japan hdr walking video",
+          "virtual japan walking tour hdr",
+          "japan hdr city walk",
+          "sightseeing tokyo hdr video",
+          "relaxing walking video hdr",
+          "asmr walking video",
+          "hdr walking video japan",
+          "relaxing festival walk",
+          "tokyo walking video hdr",
+          "japan street walk 4k",
+          "hdr city soundscape",
+          "asmr street walking tour",
+          "kawagoe",
+          "mikoshi",
+          "2026"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "2026 Kawagoe Jinkosai 川越氷川神社 神幸祭 | Mikoshi Procession • Kawagoe Festival 川越まつり - 4K HDR ASMR",
+          "description": "Experience the traditional **Jinkosai (神幸祭)**, the sacred mikoshi procession associated with Kawagoe Hikawa Shrine in Saitama, Japan.\n\nThe procession is an important part of Kawagoe’s autumn festival tradition. A portable shrine carrying the enshrined deity is paraded through the community, accompanied by a ceremonial procession that reflects the history and religious traditions of Kawagoe.\n\nFilmed on October 17, 2026, this 4K HDR video captures the atmosphere of the Jinkosai and the traditional Japanese festival procession.\n\nEnjoy the sights, sounds, ceremonial details, and living traditions of one of Kawagoe’s important annual festivals.\n\n🎧 No narration. No background music. Just the natural sounds of the festival in 4K HDR ASMR.\n\n📍 Kawagoe Hikawa Shrine, Kawagoe, Saitama, Japan  \n🏮 Event: Kawagoe Jinkosai (神幸祭)  \n📅 October 17, 2026  \n🎥 4K HDR | Japanese festival | Mikoshi procession | Ambient sound\n\n2026年10月17日に執り行われた、川越氷川神社の神幸祭を4K HDRでお届けします。\n\n神幸祭は、神輿にお遷しした御祭神が氏子区域を巡られる、川越の伝統ある神事です。厳かな神幸行列を通して、川越に受け継がれてきた祭礼の歴史と日本の伝統文化を感じていただけます。\n\n神輿行列の様子や祭礼の雰囲気、現地の音をそのまま収録しました。川越の歴史と伝統が息づく神幸祭をお楽しみください。\n\n🎧 ナレーションなし・BGMなし。祭りの自然な音を4K HDRでお楽しみください。\n\n📍 埼玉県川越市・川越氷川神社  \n🏮 行事：神幸祭  \n📅 2026年10月17日  \n🎥 4K HDR・神輿行列・日本の伝統文化\n\n#mikoshi  #kawagoe #japanwalk"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT19M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2920",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c7ypPnR1ngcL5sm2IFjjpLw9Wvk",
+      "id": "62H4D13SAAM",
+      "snippet": {
+        "publishedAt": "2019-12-02T12:00:00Z",
+        "channelId": "UCz8W22xzIh8yH66A5Zpe4vg",
+        "title": "Introducing Omunomu + Walk With Me: Kawagoe, Japan",
+        "description": "Welcome to Omunomu! My name is Julie and I'm currently living in Japan. Let's walk around Kawagoe (also known as Little Edo) in Saitama, Japan! I'll show you around my neighbourhood and try one of the popular snacks. This is my first video, I'm both nervous + excited to share this with you.\n\nOmunomu comes from the onomatopoeia \"omnom\" (the sound you make when munching on your food), but with the Japanese pronunciation to make it cuter.\n\n==================================================\nFollow me on Instagram: http://instagram.com/juliexjapan\nLike Omunomu on Facebook: http://facebook.com/omunomu\n==================================================\n\nDon't forget to subscribe, like, and share this video if you enjoy watching it. Also comment below on what you'd like to see in the next videos, or if you just want to chat.\n\nPS: Mau subtitle bahasa Indonesia? Bisa klik Settings dan pilih sub Indo yah!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/62H4D13SAAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/62H4D13SAAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/62H4D13SAAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/62H4D13SAAM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/62H4D13SAAM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OMUNOMU Snacks + Daily Life + Travel",
+        "tags": [
+          "japan vlog",
+          "japan",
+          "kawagoe",
+          "travel vlogger",
+          "japan travel",
+          "japan vlogger",
+          "kawagoe food",
+          "kawagoe old town",
+          "kawagoe saitama",
+          "tokyo day trip",
+          "day trip from tokyo",
+          "day trip from tokyo to kawagoe",
+          "japan snacks",
+          "japan travel guide",
+          "japan travel tip",
+          "vlogger indonesia",
+          "vlogger indo di jepang",
+          "wisata kuliner jepang",
+          "japan street food",
+          "makanan jepang",
+          "japanese snacks",
+          "aussie in japan",
+          "living in japan",
+          "tokyo one day trip",
+          "japan travel food",
+          "japan travel vlog",
+          "foreigner in japan"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Introducing Omunomu + Walk With Me: Kawagoe, Japan",
+          "description": "Welcome to Omunomu! My name is Julie and I'm currently living in Japan. Let's walk around Kawagoe (also known as Little Edo) in Saitama, Japan! I'll show you around my neighbourhood and try one of the popular snacks. This is my first video, I'm both nervous + excited to share this with you.\n\nOmunomu comes from the onomatopoeia \"omnom\" (the sound you make when munching on your food), but with the Japanese pronunciation to make it cuter.\n\n==================================================\nFollow me on Instagram: http://instagram.com/juliexjapan\nLike Omunomu on Facebook: http://facebook.com/omunomu\n==================================================\n\nDon't forget to subscribe, like, and share this video if you enjoy watching it. Also comment below on what you'd like to see in the next videos, or if you just want to chat.\n\nPS: Mau subtitle bahasa Indonesia? Bisa klik Settings dan pilih sub Indo yah!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1970",
+        "likeCount": "139",
+        "favoriteCount": "0",
+        "commentCount": "72"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MpQdGY9WgkH6lcUWEuehWMID7M0",
+      "id": "62TnZMYAutc",
+      "snippet": {
+        "publishedAt": "2026-09-12T09:54:17Z",
+        "channelId": "UC1-xbQNCQew7WFB3lHtF4Dg",
+        "title": "埼玉県川越市小ヶ谷ライブカメラ",
+        "description": "【ライブカメラ映像について】\n\n現在の配信は、埼玉県川越市小ヶ谷の定点ライブカメラ映像です。 地域の交通状況や天候、街の様子などの確認にご活用ください。\n\n \n\n📢【ライブカメラ設置をご検討の方へ】📢\n\n「あなたの街やお店にもライブカメラを設置しませんか？」 当社では、ライブカメラの導入・運用をサポートしています。 地域PR、防犯対策、店舗の集客など、様々な用途にご利用いただけます。\n\nライブカメラ設置に関する詳しい情報やお見積もりは、下記の**LP（ランディングページ）**よりお気軽にお問い合わせください。 👉 ライブカメラ設置案内はこちらhttps://lp.livecamera24.jp/\n\n \n\n【注意事項】\n\n• プライバシー保護について\n\no 撮影された映像は、個人情報保護の観点から、解像度を落として配信しています。\n\n•  配信の一時停止について\n\no システムの不具合や、回線混雑による電波状況の悪化により、配信が一時停止することがあります。\n\no その場合、概ね数時間で配信が復旧しますので、しばらく時間を空けてから再度アクセスしてください。\n\n• お問い合わせについて\n\no ライブカメラの設置に関するご相談や、配信に関するお問い合わせは、下記メールアドレスまでご連絡ください。できる限り早急に対応するよういたします。\n\no ✉️ info@livecamera24.jp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市小ヶ谷ライブカメラ",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "埼玉県川越市小ヶ谷ライブカメラ",
+          "description": "【ライブカメラ映像について】\n\n現在の配信は、埼玉県川越市小ヶ谷の定点ライブカメラ映像です。 地域の交通状況や天候、街の様子などの確認にご活用ください。\n\n \n\n📢【ライブカメラ設置をご検討の方へ】📢\n\n「あなたの街やお店にもライブカメラを設置しませんか？」 当社では、ライブカメラの導入・運用をサポートしています。 地域PR、防犯対策、店舗の集客など、様々な用途にご利用いただけます。\n\nライブカメラ設置に関する詳しい情報やお見積もりは、下記の**LP（ランディングページ）**よりお気軽にお問い合わせください。 👉 ライブカメラ設置案内はこちらhttps://lp.livecamera24.jp/\n\n \n\n【注意事項】\n\n• プライバシー保護について\n\no 撮影された映像は、個人情報保護の観点から、解像度を落として配信しています。\n\n•  配信の一時停止について\n\no システムの不具合や、回線混雑による電波状況の悪化により、配信が一時停止することがあります。\n\no その場合、概ね数時間で配信が復旧しますので、しばらく時間を空けてから再度アクセスしてください。\n\n• お問い合わせについて\n\no ライブカメラの設置に関するご相談や、配信に関するお問い合わせは、下記メールアドレスまでご連絡ください。できる限り早急に対応するよういたします。\n\no ✉️ info@livecamera24.jp"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT11H54M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "56",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MWh_JP-9kFbIx75946tXvXdQMBs",
+      "id": "6CINwdyZzqw",
+      "snippet": {
+        "publishedAt": "2026-04-18T02:56:28Z",
+        "channelId": "UCvkQacK4SF2ek_ZnyH_u8mQ",
+        "title": "도쿄에서 1시간 | 200년 된 거리 일본인도 몰려드는 '작은 에도' 가와고에 완벽 가이드",
+        "description": "도쿄 근교 사이타마현에 위치한 가와고에는 ‘작은 에도’라 불리는 일본 소도시입니다. 도쿄에서 열차로 약 1시간 이내에 도착할 수 있어 당일치기 여행지로 많은 사랑을 받고 있습니다.\n\n가와고에의 대표 명소인 쿠라즈쿠리 거리에는 200년이 넘은 전통 가옥들이 지금까지 잘 보존되어 있습니다.\n \n전통 거리와 다양한 간식,\n여유로운 일본 소도시 감성을 느끼고 싶다면\n가와고에 당일치기 여행을 추천드립니다.\n\n도쿄 근교 여행지\n작은 에도 가와고에에서\n여유로운 하루를 만나보세요.\n\n 🎬타임라인 \n\n00:23 가와고에 가는 방법\n00:50 하세누마 수타우동집\n02:31 쿠라즈쿠리 거리\n02:37 구마노신사\n03:52 전통 상점 & 간식\n05:51 시간의 종(도키노카네)\n08:39 신가시강\n09:19  히카와 신사\n10:04 과자거리 소개와 엔딩\n\n📍 가와고에 추천 이유\n\n✔ 에도 시대 감성의 쿠라즈쿠리 거리\n✔ 길거리 먹거리 & 디저트 천국\n✔ 전통 상점가와 감성 골목\n✔ 도쿄에서 당일치기 가능\n\n🚃 도쿄 → 가와고에 가는 방법 \n\n가장 편한 출발역은 이케부쿠로역 입니다.\n\n1️⃣ 세이부 라인 (Seibu Line)\n • 노선: 세이부 이케부쿠로선 → 혼카와고에역\n • 소요시간: 약 50~60분\n • 특징: 관광지(쿠라즈쿠리 거리)와 가장 가까운 역 도착\n👉 초보 여행자에게 가장 추천\n\n\n2️⃣ 도부 라인 (Tobu Line)\n • 노선: 도부 토조선 → 가와고에역\n • 소요시간: 약 30~40분 (급행 기준)\n • 특징: 더 빠르지만 역에서 관광지까지 도보 이동 필요 (약 15~20분)\n\n💡 꿀팁\n • 혼카와고에역 도착 → 바로 관광 시작 (편함)\n • 주말은 오전 일찍 도착해야 제대로 즐길 수 있음",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "방긋수",
+        "tags": [
+          "가와고에",
+          "도쿄 근교 여행",
+          "일본 소도시 여행",
+          "도쿄 당일치기",
+          "가와고에 여행",
+          "일본 여행 추천",
+          "가와고에 당일치기",
+          "도쿄",
+          "일본",
+          "여행",
+          "KAWAGOE"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "도쿄에서 1시간 | 200년 된 거리 일본인도 몰려드는 '작은 에도' 가와고에 완벽 가이드",
+          "description": "도쿄 근교 사이타마현에 위치한 가와고에는 ‘작은 에도’라 불리는 일본 소도시입니다. 도쿄에서 열차로 약 1시간 이내에 도착할 수 있어 당일치기 여행지로 많은 사랑을 받고 있습니다.\n\n가와고에의 대표 명소인 쿠라즈쿠리 거리에는 200년이 넘은 전통 가옥들이 지금까지 잘 보존되어 있습니다.\n \n전통 거리와 다양한 간식,\n여유로운 일본 소도시 감성을 느끼고 싶다면\n가와고에 당일치기 여행을 추천드립니다.\n\n도쿄 근교 여행지\n작은 에도 가와고에에서\n여유로운 하루를 만나보세요.\n\n 🎬타임라인 \n\n00:23 가와고에 가는 방법\n00:50 하세누마 수타우동집\n02:31 쿠라즈쿠리 거리\n02:37 구마노신사\n03:52 전통 상점 & 간식\n05:51 시간의 종(도키노카네)\n08:39 신가시강\n09:19  히카와 신사\n10:04 과자거리 소개와 엔딩\n\n📍 가와고에 추천 이유\n\n✔ 에도 시대 감성의 쿠라즈쿠리 거리\n✔ 길거리 먹거리 & 디저트 천국\n✔ 전통 상점가와 감성 골목\n✔ 도쿄에서 당일치기 가능\n\n🚃 도쿄 → 가와고에 가는 방법 \n\n가장 편한 출발역은 이케부쿠로역 입니다.\n\n1️⃣ 세이부 라인 (Seibu Line)\n • 노선: 세이부 이케부쿠로선 → 혼카와고에역\n • 소요시간: 약 50~60분\n • 특징: 관광지(쿠라즈쿠리 거리)와 가장 가까운 역 도착\n👉 초보 여행자에게 가장 추천\n\n\n2️⃣ 도부 라인 (Tobu Line)\n • 노선: 도부 토조선 → 가와고에역\n • 소요시간: 약 30~40분 (급행 기준)\n • 특징: 더 빠르지만 역에서 관광지까지 도보 이동 필요 (약 15~20분)\n\n💡 꿀팁\n • 혼카와고에역 도착 → 바로 관광 시작 (편함)\n • 주말은 오전 일찍 도착해야 제대로 즐길 수 있음"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "443",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T9Snaz7-P7wTTCyhel88SO-YmW4",
+      "id": "6D5PYslnvt4",
+      "snippet": {
+        "publishedAt": "2025-03-10T02:00:29Z",
+        "channelId": "UCPz-9SLXKKlsUXFfN1_sVtg",
+        "title": "You MUST visit Kawagoe",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Honey Kree",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "You MUST visit Kawagoe",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5773",
+        "likeCount": "250",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_UmpdqACTX6uSSdbyOXfh0e4C1A",
+      "id": "6E1w_nYBc9w",
+      "snippet": {
+        "publishedAt": "2026-05-28T14:51:16Z",
+        "channelId": "UCf9kneMiWCVgc47Wzi3ew6A",
+        "title": "This was the best souvenir so far!! Check them out!! #travel #backpacking #japan #kawagoe #tokyo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6E1w_nYBc9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6E1w_nYBc9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6E1w_nYBc9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6E1w_nYBc9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6E1w_nYBc9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tanner and Sierra",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "This was the best souvenir so far!! Check them out!! #travel #backpacking #japan #kawagoe #tokyo",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2788",
+        "likeCount": "64",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Z2cwQnRkXffeNgLtKxf6rdYpjEQ",
+      "id": "6F_VEhTg8Ro",
+      "snippet": {
+        "publishedAt": "2021-08-21T11:00:12Z",
+        "channelId": "UCuS4Y3Y5qQWauwxmU6Vmw4Q",
+        "title": "Kawagoe Day Trip/ Hikawa Love Shrine",
+        "description": "Title: Kawagoe Day trip/ Hikawa Love Shrine \n\nMusic: Uplifting (No Copyright Background\n\nBy Limujii and Scmandinavianz \n\nSupport Limujii \nhttps://soundcloud.com/limujii \nhttps://www.instagram.com/limujii \nhttp://www.youtube.com/c/Limujii \nhttps://open.spotify.com/artist/5wwtm \n\n\nSupport Scandinavianz\n\nhttps://www.soundcloud.com/scandinavianz\nhttps://www.instagram.com/thescandina \nhttps://open.spotify.com/track/52 FOoQ \n\n\nThe kawagoe Hikawa Shrine is said to be approximately 1500 years old and is where five deities are enshrined: Susanoo Mikoto, Kushimnadahime no Mikoto, Ashinazuchi no Mikoto, Tenazuchi no Mikoto and Oonamuchi no Mikoto \nHikawa Shrine is a shinto shrine in Kawagoe, Saitama Prefecture, Japan. In order to separate it from Hikawa Shrine in Omiya Ward, Saitama City, it is often called Kawagoe Hikawa Shrine. Hikawa Shrine is known for its Reitaisai, or a festival which was registered as a National Important Intangible Folk Cultural Property and listed as a UNESCO Intangible Cultural Heritage. It's also welcome known for its corridor of windchiimes. One of the most popular spot in Kawagoe, a must visit shrine to experience and witness the traditional Japanese culture especially during summer. If your looking for love this year you might want to visit Hikawa Shrine in Kawagoe. Frequently listed as one of nation's top shrines to visit for good luck in love. Hikawa Shrine is conveniently located a short walk from the tourist area of Kawagoe. \n\nThank you so much for the support. Please leave your comments and suggestions down below. I would gladly appreciate it. Godbless always.\n\nEmail: renante.dolendo@gmail.com \n\nFb:Etnaner Dolendo \n\n#KawagoeDaytrip \n#HikawaLoveShrine\n#KawagoeSaitama \n#thingstodoinKawagoe \n#littleEdo \n#Kawagoe \n#Saitamaprefecture \n#windchiimes \n#emaplaques \n#Japaneseculture \n#japantravelguide \n#japantravel \n#thingstodoinJapan\n#amazingjapan \n#Shrines \n#Temples \n# toriigate\n#luckycharms \n#umikuji",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6F_VEhTg8Ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6F_VEhTg8Ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6F_VEhTg8Ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6F_VEhTg8Ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Renante Dolendo (Hiroto Wada)",
+        "tags": [
+          "#DaytripKawagoe",
+          "#HikawaLoveShrine",
+          "#thingstodoinKawagoe",
+          "#KawagoeSaitama",
+          "#Saitamaprefecture",
+          "#amazingjapan",
+          "#japantravelguide",
+          "#japantravel",
+          "#kawagoeHikawa",
+          "#kawagoe",
+          "#Temples",
+          "#Shrines",
+          "#thingstodoinJapan"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kawagoe Day Trip/ Hikawa Love Shrine",
+          "description": "Title: Kawagoe Day trip/ Hikawa Love Shrine \n\nMusic: Uplifting (No Copyright Background\n\nBy Limujii and Scmandinavianz \n\nSupport Limujii \nhttps://soundcloud.com/limujii \nhttps://www.instagram.com/limujii \nhttp://www.youtube.com/c/Limujii \nhttps://open.spotify.com/artist/5wwtm \n\n\nSupport Scandinavianz\n\nhttps://www.soundcloud.com/scandinavianz\nhttps://www.instagram.com/thescandina \nhttps://open.spotify.com/track/52 FOoQ \n\n\nThe kawagoe Hikawa Shrine is said to be approximately 1500 years old and is where five deities are enshrined: Susanoo Mikoto, Kushimnadahime no Mikoto, Ashinazuchi no Mikoto, Tenazuchi no Mikoto and Oonamuchi no Mikoto \nHikawa Shrine is a shinto shrine in Kawagoe, Saitama Prefecture, Japan. In order to separate it from Hikawa Shrine in Omiya Ward, Saitama City, it is often called Kawagoe Hikawa Shrine. Hikawa Shrine is known for its Reitaisai, or a festival which was registered as a National Important Intangible Folk Cultural Property and listed as a UNESCO Intangible Cultural Heritage. It's also welcome known for its corridor of windchiimes. One of the most popular spot in Kawagoe, a must visit shrine to experience and witness the traditional Japanese culture especially during summer. If your looking for love this year you might want to visit Hikawa Shrine in Kawagoe. Frequently listed as one of nation's top shrines to visit for good luck in love. Hikawa Shrine is conveniently located a short walk from the tourist area of Kawagoe. \n\nThank you so much for the support. Please leave your comments and suggestions down below. I would gladly appreciate it. Godbless always.\n\nEmail: renante.dolendo@gmail.com \n\nFb:Etnaner Dolendo \n\n#KawagoeDaytrip \n#HikawaLoveShrine\n#KawagoeSaitama \n#thingstodoinKawagoe \n#littleEdo \n#Kawagoe \n#Saitamaprefecture \n#windchiimes \n#emaplaques \n#Japaneseculture \n#japantravelguide \n#japantravel \n#thingstodoinJapan\n#amazingjapan \n#Shrines \n#Temples \n# toriigate\n#luckycharms \n#umikuji"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1520",
+        "favoriteCount": "0",
+        "commentCount": "86"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}

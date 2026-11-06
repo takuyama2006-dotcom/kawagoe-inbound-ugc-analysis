@@ -1,0 +1,2262 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "epWFRpSp-l7XpQvmHmVD1nehIgM",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 655683,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "STwvxMffEvAwHtFy4pBgLQv1Dco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dOQ-NhseEPQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-16T09:00:38Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【川越まつり2026】いよいよ開幕！あの熱気を再び！昨年のハイライト＆未公開シーンをお届け！ #川越 #川越まつり #お祭り",
+        "description": "2026年の川越まつり、いよいよ開幕！ 埼玉県川越市が一年で最も熱気に包まれる「川越まつり」。 今回は、昨年開催された「 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dOQ-NhseEPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dOQ-NhseEPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dOQ-NhseEPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dOQ-NhseEPQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dOQ-NhseEPQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-16T09:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eCp9Wdarx9cFEjeWmwqP6Fyi9rI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dlRptgEVy-w"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-19T08:25:06Z",
+        "channelId": "UCXg95Toz7XzLXLDUy1s_4eA",
+        "title": "【川越】想像以上に都会だった！川越駅前の賑わいが衝撃…川越の中心市街地を歩く",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dlRptgEVy-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dlRptgEVy-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dlRptgEVy-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dlRptgEVy-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dlRptgEVy-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "お散歩ひまちゃん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-19T08:25:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mEsuReWMKAqARfFmbDyYMZUPJX4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XYU10ug3gAU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-18T04:00:18Z",
+        "channelId": "UCh8c4oCyuJK9RdBQ6atECSQ",
+        "title": "【川越観光_埼玉】小江戸・川越を1日で100%満喫するおすすめ観光プランを紹介！おすすめスポット＆食べ歩きグルメ｜老舗うなぎ店｜りそなコエドテラス｜時の鐘｜川越プリン｜菓子屋横丁",
+        "description": "小江戸と呼ばれる川越は、江戸の風情を感じられる街並みや歴史的スポット、美味しいグルメが満載の観光地です。この動画 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XYU10ug3gAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XYU10ug3gAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XYU10ug3gAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XYU10ug3gAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XYU10ug3gAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ゆゆ旅夫婦 / Japan Travel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-18T04:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SckYE8zHv2X4F5DNEOfXJ3EcjF4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AYBR15bVZ3E"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T03:00:28Z",
+        "channelId": "UCS7WJpZlcHRKcO4kzimDmlg",
+        "title": "JR川越線 駅戦闘力ランキング【全11駅】",
+        "description": "JR川越線・全11駅の「駅戦闘力」ランキング。全11駅の平均は 2886。 ▽駅戦闘力（当チャンネルの独自指標。公的な基準では ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AYBR15bVZ3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AYBR15bVZ3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AYBR15bVZ3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AYBR15bVZ3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AYBR15bVZ3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/AYBR15bVZ3E/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "わたしの地元",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T03:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gCNvBgcamd80nr6Gtp8TD_K4ZNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aEdSMZKWpDg"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T11:09:36Z",
+        "channelId": "UC5nxPBv1Lgcqp6sh42Oalug",
+        "title": "ちいかわもぐもぐ本舗 川越店への行き方｜川越駅から徒歩30分",
+        "description": "ちいかわもぐもぐ本舗 川越店は、埼玉県川越市の観光名所「菓子屋横丁」にある、人気キャラクター「ちいかわ」のグッズ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aEdSMZKWpDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aEdSMZKWpDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aEdSMZKWpDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aEdSMZKWpDg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aEdSMZKWpDg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/aEdSMZKWpDg/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "OnFoot Japan - オンフット",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T11:09:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jxfTNHRYt30210NHucas-_4IPbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tbp5yDmUX2Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-31T06:07:15Z",
+        "channelId": "UCVS5v5xx7kw9JrfIpSAk9ug",
+        "title": "【川越東武ホテル宿泊記】駅直結で超便利！綺麗な客室と絶品朝食ブッフェを大満喫する一人旅",
+        "description": "川越のホテルをまとめて見る（自動で次へ進みます） ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tbp5yDmUX2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tbp5yDmUX2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tbp5yDmUX2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tbp5yDmUX2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tbp5yDmUX2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Your solo trip",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-31T06:07:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "29-hvIjFxHJ8jh3bWSYoTR2X6so",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w7Dj4NVHyng"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-17T00:15:05Z",
+        "channelId": "UCz5YXv97Cj4ioG2ddIftJTQ",
+        "title": "【なぜ人気？】小江戸と呼ばれる川越の観光スポットを散策",
+        "description": "川越は古い土蔵造りが並ぶ一番街の素晴らしい景観や氷川神社などが多くの観光客を惹き付けています。今回は川越の街の ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w7Dj4NVHyng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w7Dj4NVHyng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w7Dj4NVHyng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w7Dj4NVHyng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w7Dj4NVHyng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "旅のヤマネ / Travel Yamane",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-17T00:15:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TPa76L43oc2wBEjckyJeMUOhteA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gOc4FmqKY3c"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-20T09:01:06Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【永久保存版】川越観光はこれで完璧！日帰りモデルコース・おすすめスポット17選 #川越 #観光 #食べ歩き",
+        "description": "今回は、川越観光を満喫できる日帰りモデルコースとしておすすめのスポット17選をご紹介します！ 「小江戸」と呼ばれる歴史 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gOc4FmqKY3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gOc4FmqKY3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gOc4FmqKY3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gOc4FmqKY3c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gOc4FmqKY3c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-20T09:01:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vqv72ulrthl2X5fmTfKEwgklwm4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i8MN2inLrKI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-17T07:15:18Z",
+        "channelId": "UCw_-iHdsxxBlTkj9cspGjnQ",
+        "title": "【川越まつり2026】昼から大混雑でカオス状態！神幸祭＆豪華絢爛な山車巡行！小江戸川越が人で埋め尽くされた！",
+        "description": "埼玉県川越市で開催された「川越まつり2026」！ 今回は昼の部をお届けします！ お目当ては、川越まつりの伝統行事「神幸祭（ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i8MN2inLrKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i8MN2inLrKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i8MN2inLrKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i8MN2inLrKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i8MN2inLrKI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "街ぶらバラエティ 米王チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-17T07:15:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZDiEnbWMZAZS7lHj4yKaLI9rEnM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iwBOf4hj9qQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-17T03:00:06Z",
+        "channelId": "UCXg95Toz7XzLXLDUy1s_4eA",
+        "title": "【川越】埼玉第3の都市、想像以上に都会だった",
+        "description": "埼玉県川越市 川越駅西口を散策。 観光地として有名な川越のメインエリアとは反対側にある西口ですが、 実際に歩いてみると ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwBOf4hj9qQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwBOf4hj9qQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwBOf4hj9qQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iwBOf4hj9qQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iwBOf4hj9qQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "お散歩ひまちゃん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-17T03:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "snDjC8tzVw49pUwaWIiK02cqHVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PcqG8vq5JAM"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-11T12:18:01Z",
+        "channelId": "UCZe6Hv005BBBG0jc8q-24Fg",
+        "title": "【川越】食べ歩きグルメ 14選！小江戸川越を満喫｜最後は 川越氷川神社も！【No015】",
+        "description": "今回は小江戸 川越での食べ歩きグルメ14選と、最後に川越氷川神社のご紹介させて頂こうと思います。 本動画をとおして素敵な ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PcqG8vq5JAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PcqG8vq5JAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PcqG8vq5JAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PcqG8vq5JAM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PcqG8vq5JAM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/PcqG8vq5JAM/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "のほほんうさぎのM旅グルメ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-11T12:18:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N8ica7SRVB34721CUVWNCBFZVuw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yoH9vPraWzc"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-01T02:33:30Z",
+        "channelId": "UCLV1eFiET6svqyaDG-ECUfQ",
+        "title": "【川越ひとり旅】蔵の街、古民家レストランとカフェで癒しの時間｜川越氷川神社｜川越本丸御殿｜SAIWAICHO ROMAN｜松本醤油｜桜舟｜新河岸川",
+        "description": "こんにちは   先日、埼玉県の川越へ日帰り旅をしてきました。 三月中旬の平日でしたが、想像以上に活気があり驚きました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yoH9vPraWzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yoH9vPraWzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yoH9vPraWzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yoH9vPraWzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yoH9vPraWzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/yoH9vPraWzc/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "小さな旅の記録",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-01T02:33:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AhjVVvzv8Ri0btNV7w1HT_wmJuU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S3KhQzHh0jM"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-21T11:00:45Z",
+        "channelId": "UCVP_Fma2_-BEKWYc79JVQDw",
+        "title": "【大食い女の爆食旅に密着】小江戸・川越で1日くいだおれ。食い倒れない大食い女、商店街を食べ尽くしてしまい、デカ盛り和牛バーガーに手を出す。【川越】【大食い】【VLOG】【大食い女の日常】",
+        "description": "撮影協力：東武鉄道株式会社 クオッカトレインにのって川越グルメ食い倒れに来た！ クオッカトレインアンバサダーになっ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S3KhQzHh0jM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S3KhQzHh0jM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S3KhQzHh0jM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S3KhQzHh0jM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S3KhQzHh0jM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ロシアン佐藤『おなかがすいたらMONSTER!』",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-21T11:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "86V-9XKpAsy32vz0n-dxOZKA45Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r9TYBcYtef8"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-07T07:11:00Z",
+        "channelId": "UC-fIgzF0zdpP0PjumF4cwZw",
+        "title": "【栄え方も尊敬】埼玉県「川越駅」周辺を散策！栄え方、観光要素、共にパーフェクトだった！",
+        "description": "埼玉県川越市の中心駅、川越駅（JR、東武）・本川越駅（西武）の周辺を散策した動画でお送りします。 小江戸・蔵の街も大変 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r9TYBcYtef8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r9TYBcYtef8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r9TYBcYtef8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r9TYBcYtef8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r9TYBcYtef8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "よーくん　街ぶら・旅行チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-07T07:11:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "36_5VE1n_Qf1qVRSi1EPPCZE_R8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "daYlXmGc5jc"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T09:01:04Z",
+        "channelId": "UCSEQYy-tvCvl4yywTaIbYSw",
+        "title": "【川越 観光 2026年 おすすめ 15選 最新版】埼玉県川越市旅行完全制覇へ！絶対行くべきグルメから観光名所など 小江戸 川越氷川神社 時の鐘 菓子屋横丁 満寿家 ランチ 食べ歩き Kawagoe",
+        "description": "埼玉県・川越・浦和の観光旅行とグルメを完全ガイド！初めて埼玉に行く人、何度も来ている人にも役立つ2026年最新版・地元民 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/daYlXmGc5jc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/daYlXmGc5jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/daYlXmGc5jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/daYlXmGc5jc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/daYlXmGc5jc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "旅行の達人ヒガキン社長",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T09:01:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AqFFIVGYeZbHSI0iprdOtTdbvZk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FivnEaWaRqY"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-24T11:20:01Z",
+        "channelId": "UCHYa60S50wJ3W-mcTbVQPew",
+        "title": "【日帰り】川越で1人グルメ観光が楽しすぎましたあ",
+        "description": "川越は食べ歩きだけじゃなかった…！ あたたかさに触れた1日でした、もう一回この日やりたい チャンネル登録、その他SNSでも ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FivnEaWaRqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FivnEaWaRqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FivnEaWaRqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FivnEaWaRqY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FivnEaWaRqY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "しおりのなんとなく日常",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-24T11:20:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oLJIdOel1beJpTbJYPin2s79-mU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6z3yKu3UeLg"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T09:30:26Z",
+        "channelId": "UCw_-iHdsxxBlTkj9cspGjnQ",
+        "title": "【川越まつり2026・夜編】夜も大混雑！小江戸川越が熱狂の渦に！名物「曳っかわせ」が大迫力！現地レポート",
+        "description": "埼玉県川越市で開催された「川越まつり2026」！ 今回は夜編をお届けします！ 昼間から大混雑だった川越まつり。 少しでも混雑 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6z3yKu3UeLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6z3yKu3UeLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6z3yKu3UeLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6z3yKu3UeLg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6z3yKu3UeLg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "街ぶらバラエティ 米王チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T09:30:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aGhrBI_SAG072Qk_nvDmYIX7K6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9waQfnM-DfY"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-21T17:05:24Z",
+        "channelId": "UCYcem7tQs5HhHfi0HR8Hsww",
+        "title": "川越・タクシー運転手が選ぶ 絶品グルメ BEST③",
+        "description": "川越での飲食は初めてでしたが、いろんなお店が有り楽しく食事ができました。 また 観光地だけあって、いろんなところを観て ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9waQfnM-DfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9waQfnM-DfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9waQfnM-DfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9waQfnM-DfY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9waQfnM-DfY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "時遊さんぽ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-21T17:05:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-80lz3SX-LH07Z9y2vaIKdjYTqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UOi9-WCdvBg"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-02T09:38:00Z",
+        "channelId": "UCdQlCrGf-6oI4fAsr9bxLeg",
+        "title": "【川越】にぎわいの先にある静かな時間｜食・器・神社をゆるっと巡る一日🍵VLOG",
+        "description": "観光地として知られる川越を、ひとり歩いてきました   道の駅あぐれっしゅ川越から、 川越氷川神社⛩️、蕎麦ランチ、器屋 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UOi9-WCdvBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UOi9-WCdvBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UOi9-WCdvBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UOi9-WCdvBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UOi9-WCdvBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "migのたのしみ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-02T09:38:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5p-hJL6yjORiMElbw1d9S5toGOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bn3XOv0CJgw"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-09T10:46:10Z",
+        "channelId": "UCLkHpWCxck6N_z3OoWATOiw",
+        "title": "【川越ひとり旅】おすすめスポット3選",
+        "description": "【川越ひとり旅】 NEW OPENやあまり知られてない穴場スポットも！ ひとり旅で行ってよかった川越おすすめ3選を紹介します   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bn3XOv0CJgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bn3XOv0CJgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bn3XOv0CJgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bn3XOv0CJgw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bn3XOv0CJgw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hana🌼 | 週末ひとり旅",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-09T10:46:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BB1vHcrWrGZeRy-m9XtS7jQhybQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EbF-nFGmcVQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T13:30:35Z",
+        "channelId": "UCpANDAxmcY-VPdYp6xI4FfA",
+        "title": "[LIVE] 最終日の夜 川越まつり 関東三大祭り!! 埼玉県川越市 2026.10.18",
+        "description": "川越まつり 2026｜小江戸の秋を彩る伝統の祭礼 370年以上の歴史を誇る「川越まつり（川越氷川祭の山車行事）」は、埼玉県川越 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EbF-nFGmcVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EbF-nFGmcVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EbF-nFGmcVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EbF-nFGmcVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EbF-nFGmcVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sawara Festival Japan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T13:30:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m-YVnaWbm4DmTPqUzu3uiQRawFM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JVgXAZSPNvY"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-01T10:00:34Z",
+        "channelId": "UCfUObUWO-8BX05ApsSsQT4Q",
+        "title": "【埼玉・川越散歩🍡】小江戸・川越！観光＆食べ歩きで朝から満喫♪趣ある街並みでタイムトラベルした気分が味わえた！",
+        "description": "お芋、うなぎ、プリン♪歴史ある街並みで食べ歩きを楽しみました♪ 小江戸の街並み、趣があっていいですねぇ・・・タイム ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JVgXAZSPNvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JVgXAZSPNvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JVgXAZSPNvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JVgXAZSPNvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JVgXAZSPNvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "なーこのおひとりさま旅ちゃんねる",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-01T10:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "72Ul8fkER-PSzW2Vj7wFc9s5UoM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ln-c-vQy9Ac"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T11:11:57Z",
+        "channelId": "UCAnstFfYCAjVjjjY0izb7Xw",
+        "title": "川越で食べ歩き！うまんたろうなグルメ5選🔥#埼玉 #川越 #食べ歩き #さいた万太郎 #saitama #kawagoe ",
+        "description": "今回は、埼玉県川越市で食べ歩き！ 小江戸川越の街を歩きながら、 「これは食べたい！」と思ったグルメを5つ厳選して実際に ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ln-c-vQy9Ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ln-c-vQy9Ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ln-c-vQy9Ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ln-c-vQy9Ac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ln-c-vQy9Ac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "さいた万太郎",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T11:11:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1pxlfcMwWHNpKK_qnyBOd5bkKtw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F7mXROXj4zY"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-16T11:38:00Z",
+        "channelId": "UCdQlCrGf-6oI4fAsr9bxLeg",
+        "title": "迷わずここだよ!!!川越行ったら、必ず行きます!!!買います!!!本当におすすめのお土産だけを厳選してご紹介✨おすすめ土産３選🍃  #川越さんぽ",
+        "description": "川越土産🛍️は安心してここで買ってほしい  本当におすすめのお土産だけを厳選してご紹介✨ 少しでも参考になりましたら幸い ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F7mXROXj4zY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F7mXROXj4zY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F7mXROXj4zY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F7mXROXj4zY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F7mXROXj4zY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "migのたのしみ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-16T11:38:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8mTlXlOFPW98aSPl58rhH0wEP5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AStq2Fk5SXs"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-30T13:07:59Z",
+        "channelId": "UCzuqIhhQyGGSYPHmKFPj2bA",
+        "title": "【保存版】川越観光にぴったりのSNS映えするデートコース｜アクティビティジャパンの特集を見ながら街歩き🍡｜ #vlog  #川越  #川越観光",
+        "description": "川越デートを成功させたい方へ  ／ インターネットで見かけた 「川越観光はつまらない？」って言葉、本当に  !? 人気の街歩き ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AStq2Fk5SXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AStq2Fk5SXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AStq2Fk5SXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AStq2Fk5SXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AStq2Fk5SXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "アクティビティジャパン",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-30T13:07:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xv4qCCy8KXkrYGG7mMaMNXebMEE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ws80Vs1oUa8"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-06T10:01:00Z",
+        "channelId": "UCqlS-_VjKVfHmNYzbYVcN7w",
+        "title": "【川越】絶品グルメに出会いすぎた大人の贅沢な1日",
+        "description": "チャンネル登録よろしくお願いします https://www.youtube.com/channel/UCqlS-_VjKVfHmNYzbYVcN7w ▽メンバーシップ登録 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ws80Vs1oUa8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ws80Vs1oUa8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ws80Vs1oUa8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ws80Vs1oUa8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ws80Vs1oUa8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "中尾明慶のきつねさーん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-06T10:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "flBPhqTHDtA9HGelVztwheR9Cng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QXoIGto8Xfg"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T03:06:05Z",
+        "channelId": "UCYgj24Rzi_2HXlNsDrX_Ekw",
+        "title": "令和8年　川越まつり　2026年10月17日",
+        "description": "令和8年 川越まつり 2026年10月17日.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QXoIGto8Xfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QXoIGto8Xfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QXoIGto8Xfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QXoIGto8Xfg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QXoIGto8Xfg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/QXoIGto8Xfg/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "かなめまどか",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T03:06:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wXQpeSsHHla61lOs3ZcBoOtW_T4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zyiZrjapSzE"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-16T09:01:37Z",
+        "channelId": "UC9Ae8fKkQle8lkbcX_F3Z4Q",
+        "title": "客が来すぎて困る小江戸・川越市を２日間徹底的に深掘りしたら濃厚すぎた！【埼玉】",
+        "description": "埼玉県川越市を観光しました。 ▽そうすけ 探検 youtube.com/@sosuke-tanken ▽そうすけ 海外旅行 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "そうすけ 国内旅行",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-16T09:01:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LJrNWd-IBDO4NYP8kxVqlAaXyKo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yJ6k0ppYTgM"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-30T03:00:20Z",
+        "channelId": "UCsxVea_go5nyOA8z-cCzXDw",
+        "title": "埼玉 川越の夜散歩 前編【小江戸のイメージを裏切る？駅前のナイトライフエリア】",
+        "description": "2026年8月29日の19時20分頃から約2時間、埼玉県の川越駅周辺をのんびりと散歩しました。今回はその【前半】の動画です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yJ6k0ppYTgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yJ6k0ppYTgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yJ6k0ppYTgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yJ6k0ppYTgM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yJ6k0ppYTgM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tokyo Night Walk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-30T03:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IDoH0b8HElHXAIqz-MFqlVJVQMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iuSfK4Owua0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-15T09:00:02Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【川越初上陸】本当は秘密にしたい韓国発ドーナツカフェ #川越ドーナツ #川越グルメ #川越カフェ",
+        "description": "本当は秘密にしておきたい…     川越で見つけた大注目の韓国発ドーナツカフェ       韓国伝統の「クァベギ（ねじり ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iuSfK4Owua0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iuSfK4Owua0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iuSfK4Owua0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iuSfK4Owua0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iuSfK4Owua0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/iuSfK4Owua0/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-15T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YKzUmKqDp7vWTa1JkxpXs0_qmlw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IZg7TljEcbM"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-27T09:10:03Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【川越観光】最新スポット巡り！1人でも楽しめる絶品グルメ＆映えスポット #川越 #川越食べ歩き #女子旅",
+        "description": "菓子屋横丁の動画はこちら▶︎https://youtu.be/_rPulnQM09E 2026年最新！川越・最新観光ガイド   ひとり歩きも楽しめる川越は ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZg7TljEcbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZg7TljEcbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZg7TljEcbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IZg7TljEcbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IZg7TljEcbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-27T09:10:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iPmssaSri0atRzgM8GQZ7t4OSSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "629N3HThX50"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-17T12:40:35Z",
+        "channelId": "UC9rYKmvuh4xVgIRTJwNyejA",
+        "title": "2026 Kawagoe Jinkosai 川越氷川神社 神幸祭 | Mikoshi Procession • Kawagoe Festival 川越まつり - 4K HDR ASMR",
+        "description": "Experience the traditional **Jinkosai (神幸祭)**, the sacred mikoshi procession associated with Kawagoe Hikawa Shrine in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/629N3HThX50/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "City Stride | HDR Tokyo Walk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-17T12:40:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CyiwtSEHZG71m6V0dOVj2H2S2ng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KPNWmgyX-Xk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T03:19:20Z",
+        "channelId": "UCpANDAxmcY-VPdYp6xI4FfA",
+        "title": "[LIVE] 最終日の朝 川越まつり 関東三大祭り!! 埼玉県川越市 2026.10.18",
+        "description": "川越まつり 2026｜小江戸の秋を彩る伝統の祭礼 370年以上の歴史を誇る「川越まつり（川越氷川祭の山車行事）」は、埼玉県川越 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KPNWmgyX-Xk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KPNWmgyX-Xk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KPNWmgyX-Xk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KPNWmgyX-Xk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KPNWmgyX-Xk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sawara Festival Japan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T03:19:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V6RYtcDSjCiplESylk6c6WIjDNY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fo_rXQd5ap4"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-24T10:01:04Z",
+        "channelId": "UCw_-iHdsxxBlTkj9cspGjnQ",
+        "title": "【ぶらり.埼玉】埼玉屈指の繁華街！川越クレアモールをぶらり散策",
+        "description": "埼玉屈指の繁華街川越クレアモールをぶらり散策！ 川越駅東口からスタート！かなり久々に来ました。 果たして2026年の川越 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fo_rXQd5ap4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fo_rXQd5ap4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fo_rXQd5ap4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fo_rXQd5ap4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fo_rXQd5ap4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "街ぶらバラエティ 米王チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-24T10:01:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_NZZF2iXuRxxhtgWNrk4ro28lPA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j1RLsJO0Z98"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-13T04:00:51Z",
+        "channelId": "UCh8c4oCyuJK9RdBQ6atECSQ",
+        "title": "【川越食べ歩き完全ガイド】川越で絶対外せない人気食べ歩きグルメ10選！名物スイーツ＆B級グルメも完全制覇｜費用まとめ💰",
+        "description": "小江戸・川越の魅力をぎゅっと詰め込んだ食べ歩きグルメ10選をご紹介します！ 名物スイーツからB級グルメ、老舗の味まで、 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j1RLsJO0Z98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j1RLsJO0Z98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j1RLsJO0Z98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j1RLsJO0Z98/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j1RLsJO0Z98/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ゆゆ旅夫婦 / Japan Travel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-13T04:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A8iKJ_zzOhjDvb2uVdpWJv487ZA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LW_1E5jFKVg"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-20T23:30:56Z",
+        "channelId": "UCsnx9OB5GVYm277MWHe0kYw",
+        "title": "【駅前都会すぎる】川越駅周辺を散策！埼玉県川越市(Japan Walking around Kawagoe Station)",
+        "description": "JR川越線、八高線、東武東上線、川越駅周辺を散策してきました。 埼玉県川越市脇田町および脇田本町にある駅。 1915年開業 １ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LW_1E5jFKVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LW_1E5jFKVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LW_1E5jFKVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LW_1E5jFKVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LW_1E5jFKVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Japan Walking Channel  278",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-20T23:30:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xEPsDjiZkmawEz9TH2CW6IKqaw0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OW8ikB7WJw4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T01:12:05Z",
+        "channelId": "UCAnstFfYCAjVjjjY0izb7Xw",
+        "title": "【川越観光】初めてなら絶対ココ！王道スポット5選 #埼玉県 #youtubeshorts #グルメ #川越",
+        "description": "【川越観光初心者必見！】  ✨ 「川越に初めて行くけど、どこに行けばいい？」 そんな方におすすめの、川越観光の王道スポット ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OW8ikB7WJw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OW8ikB7WJw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OW8ikB7WJw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OW8ikB7WJw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OW8ikB7WJw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "さいた万太郎",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T01:12:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1zs0ah_jvY055eMgS9Z3QfYJ41c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zb34JJTL6nI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-22T10:00:38Z",
+        "channelId": "UCoDIdBe6A3yRQa_GqiAar6A",
+        "title": "【川越駅・川越市】鉄道と歴史が交わる街・川越を上空から見る｜埼玉県川越市",
+        "description": "埼玉県川越市の中心部を、上空から眺めながら紹介する街歩き・地理解説動画です。 今回の動画では、川越駅を中心に広がる ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zb34JJTL6nI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zb34JJTL6nI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zb34JJTL6nI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zb34JJTL6nI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zb34JJTL6nI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "マップアニメーション",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-22T10:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qx0PRU8cxIwkZ4UXSCEh7IrKS7o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AzOuD3frEWM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-06T08:00:14Z",
+        "channelId": "UCtd_3TFmVQR5HR7lz0j1w9g",
+        "title": "【意外】渋沢栄一の街・川越│SNSで話題にならない名所を巡る旅",
+        "description": "こんにちは  「おとたび」です！ 【衝撃】新一万円札で川越観光したら、穴場スポット満載の最高の1日に！ 実は渋沢栄一ゆかり ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AzOuD3frEWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AzOuD3frEWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AzOuD3frEWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AzOuD3frEWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AzOuD3frEWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "おとたび -大人の旅行-",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-06T08:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IPgzOaH2oF4Ugq9IhMNi8mW1E7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o4q5n93waLw"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-18T08:42:44Z",
+        "channelId": "UCDEWtz8HCA4oq1XLQT9HGXQ",
+        "title": "【300円でできる！川越の飴風船作り体験】",
+        "description": "店舗の詳細はこちら   【 @yumi_trip_guide 】では、おでかけ大好き20代女子が東京から日帰りで行ける関東のおでかけ情報を ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o4q5n93waLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o4q5n93waLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o4q5n93waLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o4q5n93waLw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o4q5n93waLw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ゆみ | 東京発のお出かけ情報まとめ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-18T08:42:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3pfmS8Hhxz9NT_7ZTE4a0vdNry4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YedksN2Zg14"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T23:15:02Z",
+        "channelId": "UCoH6_3lPwllMlFwFBJ5AhkQ",
+        "title": "川越まつり【2026年宵山】13基の山車が曳っかわせ",
+        "description": "00:00川越まつり宵宮 00:11 連雀町 新富町二丁目 04:15 連雀町 06:09 連雀町 仙波町 曳っかわせ 09:12 南通町 12:44 仙波町.南通町 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YedksN2Zg14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YedksN2Zg14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YedksN2Zg14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YedksN2Zg14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YedksN2Zg14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/YedksN2Zg14/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "68 rozpa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T23:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nycfi5rjZSPmcdNCzpD8qSYQolQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YDxzlMw8Zpo"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-20T14:05:07Z",
+        "channelId": "UCExSyW50ydvz6p4FioP58zw",
+        "title": "【東京→川越一日遊】探索隱藏美食：無遊客百年鰻魚飯 | 完美甜薯BRULEE | 神秘茶室 | 時の鐘|喜多院 | 新宿吉列豬扒#川越#mikeyuen#東京近郊#川越一日遊 #東京自由行",
+        "description": "今日我哋一齊去距離新宿大概50分鐘車程嘅小江戶川越。 Mike x YUTAKANA豐盛生活官網限定優惠(2024/12/20-2025/1/3) 購買 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YDxzlMw8Zpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YDxzlMw8Zpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YDxzlMw8Zpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YDxzlMw8Zpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YDxzlMw8Zpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mike Yuen 袁竣鋒",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-20T14:05:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1z5f9TvqgXie-z9vSm6B91KZzts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X96VfHdy4YQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-15T13:24:45Z",
+        "channelId": "UCRTrw6PKTlocS-OeFq2VsFg",
+        "title": "【川越まつり】今年の川越まつりは激アツ！イベントや参加山車など、川越まつりを2倍楽しめる解説動画！",
+        "description": "いよいよ、2026年の川越まつりが今週末に迫りました！とても楽しみです。 そんな川越まつりを前にして今回の動画は、川越 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X96VfHdy4YQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X96VfHdy4YQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X96VfHdy4YQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X96VfHdy4YQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X96VfHdy4YQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/X96VfHdy4YQ/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Yutamen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-15T13:24:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0AcVjIHempxxLzKSqeSUIjlaBaM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7KdhiHUlQAY"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-28T01:00:15Z",
+        "channelId": "UCSEQYy-tvCvl4yywTaIbYSw",
+        "title": "川越で絶対外せない贅沢ランチ。うし川の「和牛ひつまぶし」",
+        "description": "うし川 #和牛ひつまぶし #川越グルメ #川越ランチ #埼玉グルメ #小江戸川越 #肉スタグラム #ひつまぶし #和牛 #食べ歩きグルメ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7KdhiHUlQAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7KdhiHUlQAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7KdhiHUlQAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7KdhiHUlQAY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7KdhiHUlQAY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "旅行の達人ヒガキン社長",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-28T01:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QkALiNn-cacLIP0ku5OJ8DLRl4c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YbjxIacozVg"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-13T11:14:16Z",
+        "channelId": "UCmkGlFM1QynXQqKtK01zNTg",
+        "title": "【川越・女ひとり旅】小江戸をのんびり歩く｜蔵の街で過ごす大人の休日🌿",
+        "description": "小江戸・川越を、女ひとりでゆっくり歩いてきました   蔵の街並みや川越氷川神社、季節の和菓子などを巡り、癒しの時間を ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YbjxIacozVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YbjxIacozVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YbjxIacozVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YbjxIacozVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YbjxIacozVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Miyuの休日・女ひとり旅",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-13T11:14:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M1QCtdm5BRGwObOT_aWa7k18X_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LJg-waTmAf0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-17T13:10:45Z",
+        "channelId": "UCLn5swn3GukeRGWZ2CH_hsA",
+        "title": "川越まつり2026 10/17 夜の部 18:00〜【LIVE】",
+        "description": "川越まつり2026｜10月17日（土）夜の部 18:00〜【LIVE】 埼玉県川越市で開催された「川越まつり2026」、初日10月17日（土） ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LJg-waTmAf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LJg-waTmAf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LJg-waTmAf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LJg-waTmAf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LJg-waTmAf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "いばらきだいすき ch. | Japan Local Archive",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-17T13:10:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zpw14_wRcazc6RtzrhI5aQF8NeA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tYddvBEbbLY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-17T09:57:13Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【超速報】川越の街が熱気に包まれる！ 川越まつり2026の様子をお届け！  #kawagoe #川越  #川越まつり",
+        "description": "小江戸・川越が一年で最も盛り上がる「川越まつり」が今年も開催！  ✨ 街中に響き渡る太鼓やお囃子の音、迫力満点の山車 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tYddvBEbbLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tYddvBEbbLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tYddvBEbbLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tYddvBEbbLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tYddvBEbbLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/tYddvBEbbLY/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-17T09:57:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J9C1422VhJxGpScIEKDNqBsJdcU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9m6HOMi-kZU"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-16T10:30:04Z",
+        "channelId": "UCLkHpWCxck6N_z3OoWATOiw",
+        "title": "【川越ひとり旅】週末早起きして女ひとりで日帰り川越を楽しんできた🎐朝活カフェ | 食べ歩きグルメ | おすすめ和カフェを紹介します",
+        "description": "初めまして、Hana  です 今回は、女ひとりで日帰り川越旅を楽しんできました   週末の日曜日、混む前に色々回りたかったので ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9m6HOMi-kZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9m6HOMi-kZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9m6HOMi-kZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9m6HOMi-kZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9m6HOMi-kZU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hana🌼 | 週末ひとり旅",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-16T10:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XAwJAuj8gVnul2qWXTp3HWWl2mM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sr9NefcwvJY"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-14T11:00:56Z",
+        "channelId": "UCBjePQvBl6H4zLtMFndLnrg",
+        "title": "【小江戸川越】食べ歩きのおすすめグルメ",
+        "description": "川越#小江戸#食べ歩き#グルメ#フード#いも#芋#埼玉#観光.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sr9NefcwvJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sr9NefcwvJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sr9NefcwvJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sr9NefcwvJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sr9NefcwvJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "くっちぃ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-14T11:00:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D0zh3DtUB4xHVXWfJGWHOygZUvk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qTIeHGnOBi8"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-20T08:00:06Z",
+        "channelId": "UCXg95Toz7XzLXLDUy1s_4eA",
+        "title": "【川越】この商店街、地方都市の規模じゃない",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qTIeHGnOBi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qTIeHGnOBi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qTIeHGnOBi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qTIeHGnOBi8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qTIeHGnOBi8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "お散歩ひまちゃん",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-20T08:00:06Z"
+      }
+    }
+  ]
+}

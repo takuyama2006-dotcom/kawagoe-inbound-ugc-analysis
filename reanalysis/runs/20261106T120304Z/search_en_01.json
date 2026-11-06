@@ -1,0 +1,2237 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "JuJcMyJlgaH5HqEqERMDPU2VBYA",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 331027,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O04uH5ioLVk6veM1NXmEZ921oMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uuWL-mXLF7k"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T05:23:01Z",
+        "channelId": "UCGSo9Ce23N7KvBOUF5SrDjA",
+        "title": "Discover Kawagoe: Day Trip to ‘Old Tokyo’",
+        "description": "A Day Tripping Guide to Kawagoe: The Little Edo - https://tokyocheapo.com/entertainment/day-trip-kawagoe-little-edo/ Klook ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uuWL-mXLF7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uuWL-mXLF7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uuWL-mXLF7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uuWL-mXLF7k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uuWL-mXLF7k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tokyo Cheapo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T05:23:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SlO-GZmmhyTk6dbSzZxwQirpf8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "peIsTjXMZ7E"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-27T00:00:15Z",
+        "channelId": "UCl7m8jh1FfIyEfCpHevrK1w",
+        "title": "Just 1 Hour from Tokyo 🇯🇵 Japan’s Hidden Old Town (Kawagoe)",
+        "description": "Looking for the perfect day trip from Tokyo? Join me as we explore Kawagoe, a historic Japanese town known as “Little Edo,” ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/peIsTjXMZ7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/peIsTjXMZ7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/peIsTjXMZ7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/peIsTjXMZ7E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/peIsTjXMZ7E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rion Ishida",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-27T00:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mD9uy77T30Z9mPg4NSfCAVmEvl0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GWAUcrJLWIE"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-19T20:14:11Z",
+        "channelId": "UCfFrsS14viloVm1dKqHSoxQ",
+        "title": "Day trip from Tokyo to Kawagoe",
+        "description": "Read more about this day trip from Tokyo to Kawagoe: https://www.japan-guide.com/ad/kawagoe/ In this video we take a day trip ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GWAUcrJLWIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GWAUcrJLWIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GWAUcrJLWIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GWAUcrJLWIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GWAUcrJLWIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Japan Guide",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-19T20:14:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QqELAbKBQHWmAUrWTltl1Yepp2w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aZxKi8xUsZc"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-22T22:00:29Z",
+        "channelId": "UC2F1JvThnDF6aWDMJs-ZFwQ",
+        "title": "Kawagoe - quick side trip ᥫ᭡. ⋆𐙚₊˚⊹♡",
+        "description": "Hi-Bubblys A spontaneous summer adventure in Kawagoe, Japan! If you're looking for a relaxing day trip from Tokyo, I hope ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aZxKi8xUsZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aZxKi8xUsZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aZxKi8xUsZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aZxKi8xUsZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aZxKi8xUsZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BubblyDina",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-22T22:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FLVGiYXpbLQBieq8qF0nlHdfAk0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hC3Xs79xfQM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-18T10:29:53Z",
+        "channelId": "UCp1nQR4C9ZHv_hdm_LzJtKQ",
+        "title": "Planning a trip outside of Tokyo? KAWAGOE is the BEST option! Japan Vlog 2025",
+        "description": "Kawagoe #TokyoDayTrip #JapanVlog #FilipinoVlogger #TravelJapan #HiddenGemJapan #OldTownJapan #KawagoeFoodTrip ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hC3Xs79xfQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hC3Xs79xfQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hC3Xs79xfQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hC3Xs79xfQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hC3Xs79xfQM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WhatThePaul",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-18T10:29:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "91TMqV3eN3_HNqYGyxAfJL1cpVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Aye3cT7tVyU"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-16T16:45:01Z",
+        "channelId": "UCWIXNquSjl25-jCPzJi7g3g",
+        "title": "Kawagoe: 30 min. from Tokyo. A Day Trip Guide to Kawagoe",
+        "description": "Kawagoe is a good day trip destination from Tokyo for travelers from abroad. It's only 30 min. by train, and you see historic temples ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tokyo Kenchan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-16T16:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lH2D52YUcFbqqnq9AEO4lhqZdzo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lR6whASkQVA"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-17T08:00:04Z",
+        "channelId": "UCcKqDlPrq8ZUrFcRQKVlWSg",
+        "title": "DISCOVER KAWAGOE - Chill DIY Day Tour from TOKYO | Explore Old Little Tokyo | JAPAN VLOGS | EP43",
+        "description": "WELCOME EVERYONE TO MY CHANNEL! I am CHECHO SANTOS and so happy to share my love of traveling and eating good ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lR6whASkQVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lR6whASkQVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lR6whASkQVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lR6whASkQVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lR6whASkQVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Checho Santos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-17T08:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C5_Vh4v3YRWdx3lZ_1IFjJmyslw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kgHGXYD1DYc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-02T00:02:25Z",
+        "channelId": "UC-mm5gMygNGlwFDp50YJATA",
+        "title": "Old Japan Just 45 Minutes from Shinjuku | Kawagoe Day Trip",
+        "description": "Just 45 minutes from Shinjuku, we found a side of Japan that feels a little closer to the past. Join us on a day trip to Kawagoe, also ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kgHGXYD1DYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kgHGXYD1DYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kgHGXYD1DYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kgHGXYD1DYc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kgHGXYD1DYc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/kgHGXYD1DYc/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Vibey Travels",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-02T00:02:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ZUWVsy6ftIhRV_rrHU0gWleETU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SmQGCBErPK8"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-18T01:00:12Z",
+        "channelId": "UCCyR9oAyHGSvZnYoGv3Qu1Q",
+        "title": "Just 30mins From Tokyo: KAWAGOE Historic Town Food Tour!",
+        "description": "Looking for a great adventure in Japan? Find hundreds of bookable food experiences here: https://bit.ly/4agznyx Just an hour ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SmQGCBErPK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SmQGCBErPK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SmQGCBErPK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SmQGCBErPK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SmQGCBErPK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Japan by Food",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-18T01:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vWaaTsgM0oZX6rJfFytctFMfOXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "muEZwuBSJpo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-24T13:00:25Z",
+        "channelId": "UCXwThe8MhhOxQ_kY4SXNCeQ",
+        "title": "A Day in Japan’s Charming Little Edo 🇯🇵 | Exploring Kawagoe near Tokyo",
+        "description": "Discover Kawagoe, Japan's charming \"Little Edo,\" on a beautiful day trip from Tokyo. Located in Saitama Prefecture, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ring Ring Travels",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-24T13:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ieGjxQjrypYF5NMNB-ino_3X7tc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t-nHzVegNU0"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-02T23:00:10Z",
+        "channelId": "UCGSo9Ce23N7KvBOUF5SrDjA",
+        "title": "A Beginner&#39;s Guide to Kawagoe (Little Edo)",
+        "description": "Kawagoe is an easy day trip from Tokyo where you can travel back to traditional Japan. In this former castle town, there's plenty of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t-nHzVegNU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t-nHzVegNU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t-nHzVegNU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t-nHzVegNU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t-nHzVegNU0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tokyo Cheapo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-02T23:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xGslZlnm1Wy5zbvQR5yb6mK67eE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I0ZMZ82dzDc"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-20T22:09:49Z",
+        "channelId": "UCbCuDxV79wHPPdSv1_bXAIA",
+        "title": "&quot;Little Kyoto&quot; Near Tokyo | Retro Kawagoe Old Town Trip | Japan Travel Vlog",
+        "description": "This is a Japan travel vlog exploring Kawagoe in Saitama, a charming historic town just 30 minutes from Tokyo. In this video, I took ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I0ZMZ82dzDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I0ZMZ82dzDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0ZMZ82dzDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I0ZMZ82dzDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I0ZMZ82dzDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kosuke-jp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-20T22:09:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sHL6Mr_wFqMZZ4Q7sE17y9x5VDU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l5UFIz7LRTc"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-07T19:00:06Z",
+        "channelId": "UCblGbwUExbZCCFb-n5f1sHg",
+        "title": "tokyo day trip to kawagoe 🍡 exploring japan’s little edo",
+        "description": "come with me on a day trip from Tokyo to Kawagoe, known as Japan's Little Edo ✨ this cute historic town is filled with nostalgic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l5UFIz7LRTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l5UFIz7LRTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l5UFIz7LRTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l5UFIz7LRTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l5UFIz7LRTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Paulina 🦋",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-07T19:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GXcu9Lz6b_k1ibUQpUyDTgSo5pI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xb2dZ-xFclg"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-18T11:00:22Z",
+        "channelId": "UCIhFQsd9osFdZvQgbXkM6Vg",
+        "title": "Escape Tokyo! Kawagoe Japan: A Perfect Day Trip (Little Edo) #japan #kyoto #kawagoe #shorts #reels",
+        "description": "Escape Tokyo! Kawagoe Japan: A Perfect Day Trip (Little Edo). Kyoto's Beauty and Charm without the crowds! Have you always ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Discover Wander",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-18T11:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XVe5Hj3mwIRa94VI1FREqkO_Hp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TWVVTS5HKbU"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-06T10:00:38Z",
+        "channelId": "UCoX3kFWtGcSHTbdQF2osxxw",
+        "title": "Kawagoe Day Trip from Tokyo | Cherry Blossom Canal, Temples &amp; Little Edo Streets | JAPAN VLOG",
+        "description": "One of the best day trips from Tokyo (it's only an hour away!), Kawagoe is especially beautiful during cherry blossom season.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TWVVTS5HKbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TWVVTS5HKbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TWVVTS5HKbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TWVVTS5HKbU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TWVVTS5HKbU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/TWVVTS5HKbU/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Riri Travels",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-06T10:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oo4xxSAWir-YFyrXYnudMC6zNks",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gbvPBEn4H5Q"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-02T16:48:27Z",
+        "channelId": "UC9e0oHKxods0vDaz0fHg6hw",
+        "title": "Kawagoe Day Trip from Tokyo | Underrated must-visit old Japanese town 🎏🍡",
+        "description": "FINALLY I SAW THE MOST MARVELOUS CHERRY BLOSSOMS!!!     After my last failed attempt I thought that this year was a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gbvPBEn4H5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gbvPBEn4H5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gbvPBEn4H5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gbvPBEn4H5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gbvPBEn4H5Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Allison in Tokyo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-02T16:48:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DzcS-KmlqhIEVA2r3OQqISpbdJQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UkkTy4dv04I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T00:00:39Z",
+        "channelId": "UCW8Yg4GK7A0qTHAR9XqxHbA",
+        "title": "Kawagoe Day Trip from Tokyo (2025 Guide) 🇯🇵🏮 | Japan’s Little Edo &amp; Historic Town Adventure",
+        "description": "Step back in time with this Kawagoe Day Trip from Tokyo (2025 Guide) — a journey to Japan's Little Edo, where traditional streets, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UkkTy4dv04I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UkkTy4dv04I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UkkTy4dv04I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UkkTy4dv04I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UkkTy4dv04I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JStory ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T00:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j3HcZ4dWoL-D8bJPkGo6-tubCEc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RVnwzZ6ARkE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-30T10:35:23Z",
+        "channelId": "UCxsSiaBAU2xwhu9jvrBJ3cA",
+        "title": "【Local’s Day】Kawagoe - Day Trip from Tokyo: A Historic Town Just 40 Mins from Shinjuku | Japan Vlog",
+        "description": "I took a day trip to Kawagoe in Saitama, just next to Tokyo! It's super easy to get to—only a 40-minute direct ride on the express ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RVnwzZ6ARkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RVnwzZ6ARkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RVnwzZ6ARkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RVnwzZ6ARkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RVnwzZ6ARkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/RVnwzZ6ARkE/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "TARO Life / Japan Local's Vlog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-30T10:35:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E9Ro-01jGubaMYCKKmXuKcnaUec",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xt4RJF8S8z8"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-24T17:59:54Z",
+        "channelId": "UCObfzx_WwD85VkLSe1SkMRg",
+        "title": "kawagoe, old japan near tokyo | temples, crafts, food &amp; sweets",
+        "description": "Known as Koedo, or “Little Edo,” Kawagoe preserves a glimpse of Japan's past while still feeling very much alive today.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xt4RJF8S8z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xt4RJF8S8z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xt4RJF8S8z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xt4RJF8S8z8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xt4RJF8S8z8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OtherWorlds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-24T17:59:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UhIXqbufPF69IjxPxOza-9CcezQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yHKfmSXr4qM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-21T11:00:49Z",
+        "channelId": "UCtzKfl7mVo9Bi-DzGMFmnqg",
+        "title": "We Couldn’t Wait To Do This In Japan (Only 30 Min From Tokyo, No Crowds!) 🇯🇵",
+        "description": "Head to https://squarespace.com/floraandnote to save 10% off your first purchase of a website or domain using code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yHKfmSXr4qM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yHKfmSXr4qM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yHKfmSXr4qM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yHKfmSXr4qM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yHKfmSXr4qM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Flora and Note",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-21T11:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FrD1JvfiCRc6rxb84S_O4W01uLA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YIu5VWrYzDc"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-22T16:57:08Z",
+        "channelId": "UCDmBZtIZPRnEFYPqaT0pFPg",
+        "title": "KAWAGOE 🇯🇵🍠 Little Edo แจกแพลน 1 day trip พาชิมมันหวาน เมืองโบราณสุดน่ารัก ใกล้โตเกียว",
+        "description": "JAPAN VLOG 2024 | Spring Edition EP.11 #KAWAGOE #SAITAMA 0:51 วิธีการเดินทาง 1:17 Seibu Kawagoe Pass 2:22 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YIu5VWrYzDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YIu5VWrYzDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YIu5VWrYzDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YIu5VWrYzDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YIu5VWrYzDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Amy Napasorn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-22T16:57:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cKRezbvdugGUD9i7oWvjiD5XCfI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "glLnsCHJjJg"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-16T00:00:12Z",
+        "channelId": "UCKJa0vhrH5mZrjAjyT67NRQ",
+        "title": "Kawagoe Japan Street Food Vlog / Day Trip from Tokyo",
+        "description": "Kawagoe, Japanese Street Food Tour - Kawagoe in Japan is a tourist destination that can be reached by a day trip from Tokyo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/glLnsCHJjJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/glLnsCHJjJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/glLnsCHJjJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/glLnsCHJjJg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/glLnsCHJjJg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SAMURAI JUNJIRO Channel【SJC】",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-16T00:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GTorrHVVXY6GS5Hp6RWaT5FQTCs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EoODQXOu3RY"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-26T00:00:39Z",
+        "channelId": "UCl7m8jh1FfIyEfCpHevrK1w",
+        "title": "Only Local Travelers? Hidden Travel Spot &quot;Old Japan Little Edo&quot; Kawagoe in Saitama Prefecture Ep.468",
+        "description": "I hope this video gives you some inspiration for traveling or you feel like you are traveling with me! More adventures are coming so ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rion Ishida",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-26T00:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n9BO8bzYqdCB4tsBLfQ12dCDwPE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3gSJshXZYlg"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-09T09:00:08Z",
+        "channelId": "UCDGZfGTkigxxbUk7AL10OtQ",
+        "title": "Relaxing Day Trip from Tokyo|A peaceful day trip to Kawagoe|JAPAN TRAVEL VLOG",
+        "description": "Hi, I'm Daisuke   I took a trip to Kawagoe, a town that retains the atmosphere of the Edo period and is only a 40-minute train ride ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/3gSJshXZYlg/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Daisuke's Travels Japan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-09T09:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_z4Fvlf7eOtr06OeT1wmWq7KhcA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U2QsyClhzNk"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-01T20:09:26Z",
+        "channelId": "UCbCuDxV79wHPPdSv1_bXAIA",
+        "title": "Spring in Japan | Day Trip to Kawagoe Old Town | Cherry Blossom, Shrine &amp; Onigiri Bento | Japan Vlog",
+        "description": "This is a Japan travel vlog exploring spring in Japan and one of the best day trips near Tokyo. In this video, I visited Kawagoe Old ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U2QsyClhzNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U2QsyClhzNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U2QsyClhzNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U2QsyClhzNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U2QsyClhzNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kosuke-jp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-01T20:09:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0do6nextaF3sadYdYehAQ2c1jvk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p0sF6BEf15A"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-21T11:00:36Z",
+        "channelId": "UCMaunbufz01Hir9uNXnCrXQ",
+        "title": "แพลนเที่ยว1วัน กินของอร่อย เที่ยวคาวาโกเอะเที่ยวเองได้ง่ายๆ / kinyuud",
+        "description": "แจกแพลนเที่ยวคาวาโกเอะ 1วัน โดยใช้บัตรรถไฟแบบ1วัน กินร้านอร่อย เที่ยวแบบจัดเต็มได้ง่ายๆ ข้อมูลเที่ยวเพิ่มเติม ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p0sF6BEf15A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p0sF6BEf15A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p0sF6BEf15A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p0sF6BEf15A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p0sF6BEf15A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kinyuud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-21T11:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rhyo1QXCKMrJ6GXl1c3DxylVOu0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OtmlxU28kuU"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-26T01:00:06Z",
+        "channelId": "UC6Je3-ZV_x38NqQAxKiCCyQ",
+        "title": "MUST TRY Japanese Food Tour in Kawagoe Japan",
+        "description": "Use code TABIEATS to get $15 off your first Bokksu Japanese snack box! https://partner.bokksu.com/tabieats Kawagoe is famous ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OtmlxU28kuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OtmlxU28kuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OtmlxU28kuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OtmlxU28kuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OtmlxU28kuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TabiEats",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-26T01:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eQVNIl-PT43G2mD-U3XQZMdLZ0E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zDidizr3g-g"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T04:30:24Z",
+        "channelId": "UCBGeeZxhzxjXcKvcyqAVdiA",
+        "title": "This 400-Year-Old Town Is 30 Mins From Tokyo! (Kawagoe)",
+        "description": "This 400-year-old ancient town feels like stepping back into the Edo period! Located just 30 minutes away, Kawagoe is the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zDidizr3g-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zDidizr3g-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zDidizr3g-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zDidizr3g-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zDidizr3g-g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/zDidizr3g-g/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Nippon Trail",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T04:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mzwqG_5kwuDr7xHNAU5hYKH840Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H0MCSS4SUac"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-01T02:00:27Z",
+        "channelId": "UC7MK4ukyQq3_rLWYr7aqUFA",
+        "title": "Kawagoe — A Day Trip Back in Time from Ikebukuro, Tokyo | JAPAN TRAVEL VLOG",
+        "description": "Enjoy a perfect Tokyo to Kawagoe day trip! 🕰️ Explore Ikebukuro's city vibes in the morning, then step into Kawagoe's old Edo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H0MCSS4SUac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H0MCSS4SUac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H0MCSS4SUac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H0MCSS4SUac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H0MCSS4SUac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Local Japan Travelers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-01T02:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fqvrqhS6y8LzxnL6vvvVa1otttI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X1J26MiYOIc"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-28T17:00:27Z",
+        "channelId": "UCvaqaJQC4mbGtEg2VaUNcew",
+        "title": "KAWAGOE (EXCURSIÓN DE DÍA DESDE TOKIO, JAPÓN)",
+        "description": "Qué ver y hacer en Kawagoe, una perfecta excursión de día desde Tokio, Japón: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X1J26MiYOIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X1J26MiYOIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X1J26MiYOIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X1J26MiYOIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X1J26MiYOIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Japonismo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-28T17:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GpJcd2beZ4MtDFiRdNhocoplEdo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mc-fVTBMNl4"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-24T22:00:16Z",
+        "channelId": "UCdYyIc-zNGZOtM8uFd3V8zQ",
+        "title": "Kawagoe Day Trip from Tokyo: Little Edo Food &amp; Sights 🍠",
+        "description": "Step back in time at Kawagoe, known as “Little Edo,” one of the easiest day trips from Tokyo! Just 30 minutes from Ikebukuro, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mc-fVTBMNl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mc-fVTBMNl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mc-fVTBMNl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mc-fVTBMNl4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mc-fVTBMNl4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vel and Vel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-24T22:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kU24twgkgFJbIe6j6o-hpgh9o2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lhaiMjYsWO0"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-08T01:40:34Z",
+        "channelId": "UCUG1Uhog-fVJfC4RcwgetFw",
+        "title": "Best Daytrip from Tokyo: Explore Traditional Kawagoe (Little Edo)",
+        "description": "Kawagoe, known as Little Edo, is a great day trip from Tokyo - just 40 minutes from Ikebukuro Station. Here, you can walk through ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lhaiMjYsWO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lhaiMjYsWO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lhaiMjYsWO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lhaiMjYsWO0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lhaiMjYsWO0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tinas Tokyo Diaries",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-08T01:40:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EYC__GsLUS1lpmFgDGp3mmGBOT8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RqO9dmc5Eug"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-21T02:00:24Z",
+        "channelId": "UChj3Ot9papwxqs0h_K2F8Hg",
+        "title": "Kawagoe Little Edo | Tokyo Day Trip for Retro Streets &amp; Eats",
+        "description": "Let's ride on a 1-hour time-machine ride from Tokyo to Kawagoe, affectionately known as \"Little Edo”   Places Mentioned ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RqO9dmc5Eug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RqO9dmc5Eug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RqO9dmc5Eug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RqO9dmc5Eug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RqO9dmc5Eug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dokii Tabi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-21T02:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uxmKrvBPLo_y_yot9EzG7TwS1mg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xVM7Rk4IfGU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-22T08:34:53Z",
+        "channelId": "UC6FDt66qg3twyhEgavF_p8Q",
+        "title": "KAWAGOE, JAPAN 🇯🇵 | Exploring Japan’s Little Edo | 4K Walking Tour",
+        "description": "Explore Kawagoe, Japan's charming “Little Edo,” in this immersive 4K walking tour. Located just outside Tokyo, Kawagoe is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xVM7Rk4IfGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xVM7Rk4IfGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xVM7Rk4IfGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xVM7Rk4IfGU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xVM7Rk4IfGU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ring Ring Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-22T08:34:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wrub_a4rSTMQVg5pxFBZNE2UfFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yuQhYrUeq3g"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-13T03:35:36Z",
+        "channelId": "UCjE0hnktQwx3iFVaL35ne4Q",
+        "title": "Kawagoe Japan Hotel Recommendation TOP 5 Price and Breakfast Guide",
+        "description": "Discover the best hotels in Kawagoe, Japan! From traditional ryokan-style stays to modern budget accommodations near the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yuQhYrUeq3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yuQhYrUeq3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yuQhYrUeq3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yuQhYrUeq3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yuQhYrUeq3g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hotel Insider",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-13T03:35:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vZdTSQWgmgNIYX_YitvlIVi-Lu8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hIAW3rO3RSM"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-18T01:00:09Z",
+        "channelId": "UC6Je3-ZV_x38NqQAxKiCCyQ",
+        "title": "Best Japanese Street Food Tour of Kawagoe Japan",
+        "description": "The first 1000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/tabieats09211 Kawagoe is located just ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hIAW3rO3RSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hIAW3rO3RSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hIAW3rO3RSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hIAW3rO3RSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hIAW3rO3RSM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TabiEats",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-18T01:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OtISZGTK4k75YPrGBKxtAK7232M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6igkhopLElk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-16T09:00:12Z",
+        "channelId": "UCKt84U_F-Xa3wcb45GHh4gw",
+        "title": "Kawagoe Matsuri 2026 is this weekend, and it’s one of the easiest festival day trips from Tokyo 👘",
+        "description": "Two dashi floats, each two storeys tall, roll up face to face in a narrow Kawagoe street. The musicians on board start playing at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6igkhopLElk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6igkhopLElk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6igkhopLElk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6igkhopLElk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6igkhopLElk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Flip Japan Guide",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-16T09:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4DpuZzxhB6XX-Xazy3ECVPuMXOI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nhXVlJRDPLU"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-17T02:00:43Z",
+        "channelId": "UCrElVHNzfvros-CAc0SOs2A",
+        "title": "How to Visit Kawagoe from Tokyo for Under ¥1000 | Kawagoe Pass | What to See, Do &amp; Eat",
+        "description": "We're going to show you just how easy it is to have a magical day trip from Tokyo to Kawagoe – the Little Edo of Japan! This really ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nhXVlJRDPLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nhXVlJRDPLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nhXVlJRDPLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nhXVlJRDPLU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nhXVlJRDPLU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Travel with Tanya and Simon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-17T02:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZY4XShHKt_xweeM4K16yCIuwr0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fg4MBWCU5Vg"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-23T12:00:12Z",
+        "channelId": "UCZetDLJfNLj3IkCASS0pIYA",
+        "title": "Japan - Walking Through the Traditional Streets of Kawagoe | Japan Walking Tour【4K HDR】",
+        "description": "No talking – just real city sounds, perfect for studying, relaxing, or working. 🗓️Sep, 2026, 1:30 p.m. ☀️Weather : Sunny ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fg4MBWCU5Vg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fg4MBWCU5Vg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fg4MBWCU5Vg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fg4MBWCU5Vg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fg4MBWCU5Vg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JAPAN WALKING",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-23T12:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "02UfzY_Xxi4OO2DmU2PEclDn4EA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ekr3S5JPu4g"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-25T02:03:57Z",
+        "channelId": "UCGSo9Ce23N7KvBOUF5SrDjA",
+        "title": "Not to miss treats while you&#39;re in Kawagoe, easy day trip from #tokyo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ekr3S5JPu4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ekr3S5JPu4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ekr3S5JPu4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ekr3S5JPu4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ekr3S5JPu4g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tokyo Cheapo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-25T02:03:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DmoWT-QDmqdM1nTt8TVH34Z3Qt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EY-wYOIpU9E"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-23T09:00:10Z",
+        "channelId": "UCmHCfEXOiWDz2CW9fl9GWhg",
+        "title": "Kawagoe Walking Tour - Saitama Japan [4K/Binaural]",
+        "description": "This video starts at JR Kawagoe Station and walks through the local shopping street Crea Mall. Then we are walking through ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EY-wYOIpU9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EY-wYOIpU9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EY-wYOIpU9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EY-wYOIpU9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EY-wYOIpU9E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Video Street View Japan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-23T09:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gjFCED4y_KNvcJFDvPhSDbxTitM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "08zShcpWI5c"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-11T22:00:01Z",
+        "channelId": "UC_7V-iEIZHxm_Z5DG9bHhgQ",
+        "title": "FISH your fortune at this 1500 year old matchmaking shrine! #kawagoe #hikawashrine",
+        "description": "Fishing your fortune shrine details   Head to: Hikawa Shrine in Kawagoe ⛩️ HIKAWA SHRINE ⛩️ This is a 1500-year-old ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/08zShcpWI5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/08zShcpWI5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/08zShcpWI5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/08zShcpWI5c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/08zShcpWI5c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dana Yao",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-11T22:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "blryoreRbevwhsyxkqMWE5K2mtw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AX9lF00Txks"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-08T04:30:09Z",
+        "channelId": "UCOIGO7FIW7rBqZr-cCMu3Nw",
+        "title": "10 places you must visit in Kawagoe (Saitama), Japan",
+        "description": "traveguidebuddy2024 #shorts #10placesyoumustvisit #travel #kawagoe #japan #traveguidebuddy2025.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Travel Guide Buddy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-08T04:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pXk1s_WAS_o5bqn6t4UB9PikyrM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V2fZwD8j4Zs"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T04:03:56Z",
+        "channelId": "UCuJA28aLbSJX6Serx0Pqygg",
+        "title": "TOKYO DAY TRIP | Kawagoe Japan Travel Itinerary: Things to do, see, and eat",
+        "description": "Are you looking for more things to do when you visit Tokyo? Take a day trip to Kawagoe, Japan—a city known as “Little Edo” ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V2fZwD8j4Zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V2fZwD8j4Zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V2fZwD8j4Zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V2fZwD8j4Zs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V2fZwD8j4Zs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Remi Shimazu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T04:03:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JRyFemgAQjAeKOaXJiuCuje64uc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SChX9pjkpos"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-08T12:00:39Z",
+        "channelId": "UCi1HvGK8K9dpxoaIf8-Xr0g",
+        "title": "ปักหมุด 11 พิกัด ช้อป ชิม ชิล ที่คาวาโกเอะ 42 นาทีจากโตเกียว เที่ยวญี่ปุ่น ไซตามะ Kawagoe",
+        "description": "วันนี้สาวแซบจะมาโคฟเวอร์เป็นนักท่องเที่ยว 1 วัน พาเพื่อน ๆ นั่งรถไฟจากโตเกียว ไปเที่ยวเมืองเก่า คาวาโกเอะ ที่จ.ไซตามะ โดยใช้พาส SEIBU ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SChX9pjkpos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SChX9pjkpos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SChX9pjkpos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SChX9pjkpos/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SChX9pjkpos/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ครบเครื่องเรื่องญี่ปุ่น",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-08T12:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RX2TaTFdK-tlH-OWnwWpJa3LESQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I3cclk8GIZI"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-24T10:00:26Z",
+        "channelId": "UC6e-6XCvcNl0tQaz_5bi73w",
+        "title": "Is the Kawagoe Discount Pass Worth It? Unli Travel for Less Than P300!",
+        "description": "Thinking of doing a DIY day trip to Kawagoe from Tokyo? I tried the Kawagoe Discount Pass from Klook, and here's why it might ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I3cclk8GIZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I3cclk8GIZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I3cclk8GIZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I3cclk8GIZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I3cclk8GIZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "January Days",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-24T10:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5rbuBm-y7NY7IvubGNSYQO0Fs5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O4dumAmwWbU"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-23T10:00:28Z",
+        "channelId": "UC6e-6XCvcNl0tQaz_5bi73w",
+        "title": "How to Get from Asakusa to Kawagoe | Easy Tokyo Day Trip Guide",
+        "description": "Want to explore Japan beyond Tokyo? Kawagoe is the perfect day trip, and getting there is easy! In this one-minute guide, I'll ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O4dumAmwWbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O4dumAmwWbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O4dumAmwWbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O4dumAmwWbU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O4dumAmwWbU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "January Days",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-23T10:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V0sskcpN5gMtBOlulGaCR_P7KqY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6D5PYslnvt4"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-10T02:00:29Z",
+        "channelId": "UCPz-9SLXKKlsUXFfN1_sVtg",
+        "title": "You MUST visit Kawagoe",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6D5PYslnvt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Honey Kree",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-10T02:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uFVxTKOheg9djf-DLesbB4PPeqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ofzEmYwnyRc"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-23T10:31:40Z",
+        "channelId": "UCigMGk6r6eCwlTqxjYM8mBQ",
+        "title": "Add this to your Tokyo itinerary ⛩️🍡 #kawagoe #tokyotravel #tokyoitinerary #tokyodaytrip",
+        "description": "Add this Tokyo day trip to your Japan trip! Kawagoe - 1 hour by train from Tokyo It ended up being one of our favourite easy day ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ofzEmYwnyRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ofzEmYwnyRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ofzEmYwnyRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ofzEmYwnyRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ofzEmYwnyRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aiden & Maddy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-23T10:31:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6q6R5QwKoXAhX-oEuRGD2k9Z_eU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1OeG8t9Kynw"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-31T00:00:28Z",
+        "channelId": "UCtZNwWIIPKYXTs_NEJkR1SA",
+        "title": "Japan&#39;s Little Edo Before the Crowds | Kawagoe Early Morning Walk | Japan 4K",
+        "description": "Experience Japan's Little Edo before the crowds. This quiet early morning walk takes you through Kawagoe — a historic town ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1OeG8t9Kynw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1OeG8t9Kynw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1OeG8t9Kynw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1OeG8t9Kynw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1OeG8t9Kynw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "bpK Scenic Japan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-31T00:00:28Z"
+      }
+    }
+  ]
+}

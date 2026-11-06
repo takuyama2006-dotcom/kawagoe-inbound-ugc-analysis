@@ -1,0 +1,2223 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "EEV_s50KpTstgDIgREWqqqI-uI4",
+  "nextPageToken": "CGQQAA",
+  "prevPageToken": "CDIQAQ",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 50380,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jb5dxkf3IpdXuYRBhHvcO_ja3yw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9UH7guiJVcw"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-13T08:46:27Z",
+        "channelId": "UCTmbdmZH6m_edEHmgcxBapw",
+        "title": "도쿄근교 여행지 추천 가와고에 #shorts #도쿄여행 #일본여행",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9UH7guiJVcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9UH7guiJVcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9UH7guiJVcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9UH7guiJVcw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9UH7guiJVcw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "시니플 siniple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-13T08:46:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7tvMJudeKATe_Rf8pI-bM48_rFg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X8TlpaCfTCs"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-22T12:47:48Z",
+        "channelId": "UC836W-cliQgt3v-ZmeZjJOg",
+        "title": "가와고에 구석구석.하치만 거리일대 걷기  Kawagoe Japan",
+        "description": "일본소도시 #일본여행 #가와고에 #에도시대.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X8TlpaCfTCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X8TlpaCfTCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X8TlpaCfTCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X8TlpaCfTCs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X8TlpaCfTCs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "min's 민스티비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-22T12:47:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B3aEK4O4Z0utAA8kpomCi9qjlf8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9anoA3B1tRE"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-10T05:22:49Z",
+        "channelId": "UCOOme6CX3avj6fG8G1v2S1g",
+        "title": "도쿄 근교 여행 | 가와고에 가마 축제",
+        "description": "https://www.youtube.com/watch?v=udePm2c8JHo&t=47s https://www.youtube.com/watch?v=TU4ztdWfUK0 -------------------- sub ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9anoA3B1tRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9anoA3B1tRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9anoA3B1tRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9anoA3B1tRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9anoA3B1tRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-10T05:22:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ig4EhCqOjzrSWxoGqn0LxDP01KU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9djDTp2NhcY"
+      },
+      "snippet": {
+        "publishedAt": "2010-11-18T10:14:48Z",
+        "channelId": "UCgGcm-2vlamMAYbZ75ne1Iw",
+        "title": "[도쿄여행] 스티커 in 도쿄, 작은에도 카와고에 /하나투어 스티커",
+        "description": "도쿄에서 30여분 근교에 있는 카와고에는 작은에도라 불릴만큼 에도시대의 풍취를 그대로 간직하고 있는 색다른 곳이다. 전통가옥과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9djDTp2NhcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9djDTp2NhcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9djDTp2NhcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9djDTp2NhcY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9djDTp2NhcY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "하나투어 PiCK​",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-11-18T10:14:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9yCLFL4WvB3iYw3y1rNBfwxre0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xyUEjtqMOYE"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-10T14:26:23Z",
+        "channelId": "UC836W-cliQgt3v-ZmeZjJOg",
+        "title": "가와고에를 걷자.에도거리 쿠라즈쿠리 Kawagoe Japan",
+        "description": "일본소도시 #일본여행 #가와고에 #에도시대.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xyUEjtqMOYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xyUEjtqMOYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xyUEjtqMOYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xyUEjtqMOYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xyUEjtqMOYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "min's 민스티비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-10T14:26:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jy0bBNvUuVMWEQQask6v_ayabJU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mvPLXbgMHIo"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T13:40:08Z",
+        "channelId": "UChjCZJcgguQVae7KpiTloHQ",
+        "title": "(JP) 도쿄에서 1시간! 감성가득 가와고에 여행기, 小江戸川越旅行",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mvPLXbgMHIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mvPLXbgMHIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mvPLXbgMHIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mvPLXbgMHIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mvPLXbgMHIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "원군채널 1kun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T13:40:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GjNHcuKTkMkvf0QRonPR7kkwl9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tOpdXAHap1M"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-15T10:36:51Z",
+        "channelId": "UC_5ZUZlQ3pS0lex4np7sKVQ",
+        "title": "가와고에 가볼만한곳, 사진 찍기 좋은 히카와신사⛩️ #도쿄여행",
+        "description": "사진 찍기 좋은 히카와신사⛩️ 가와고에 상점가 끝에서조금만 더 걸으면 만날 수 있는 히카와신사는 곳곳이 포토존이라사진 찍기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tOpdXAHap1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tOpdXAHap1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tOpdXAHap1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tOpdXAHap1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tOpdXAHap1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "샐리log",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-15T10:36:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "67cdDOvfqb40arSyEbmZSBjtdG0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_LKI8xsvX8o"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-21T08:34:07Z",
+        "channelId": "UC2v1SAK1Hgj-n5O3zk7JApw",
+        "title": "[JP/KR] 가와고에에서 만난 인생 벚꽃스팟 그리고 하루종일 먹기...ㅣTOKYO VLOGㅣ川越食べ歩きㅣ톡파원25시",
+        "description": "해상도(画質): 1080p - [KR] 오늘은 도쿄 근처 가와고에에 다녀왔습니다! 너무너무 예쁜 벚꽃 스팟도 가고 하루종일 먹으면서 열심히 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_LKI8xsvX8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_LKI8xsvX8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_LKI8xsvX8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_LKI8xsvX8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_LKI8xsvX8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유재야 YUJEYA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-21T08:34:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FIWj5cJC2d6lZL9JZOXClB_dmDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uiGaKhhnydo"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T13:29:47Z",
+        "channelId": "UCsQAC2bqPOxlytOc0oZV3YA",
+        "title": "도쿄 여행이 10월 17·18일이라면 가와고에는 밤까지｜2026 가와고에 마쓰리",
+        "description": "2026년 가와고에 마쓰리는 10월 17일 토요일과 18일 일요일에 열립니다. 낮에는 전통 수레가 구라즈쿠리 거리를 이동하고, 밤에는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uiGaKhhnydo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uiGaKhhnydo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uiGaKhhnydo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uiGaKhhnydo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uiGaKhhnydo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Taste Trip Log",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T13:29:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fxRTBm00vqtke-CEEO1zERZezdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3PHTaEWGByM"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-02T09:45:16Z",
+        "channelId": "UCC2eGSKiJ4qztyjOQvD_bvQ",
+        "title": "에도시대 분위기 물씬 카와고에 川越둘러보기 | 쿠사츠 온천 여행 이틀째",
+        "description": "카와고에 #川越 #Kawagoe.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3PHTaEWGByM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3PHTaEWGByM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3PHTaEWGByM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3PHTaEWGByM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3PHTaEWGByM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "요붕TV Yobung TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-02T09:45:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s9nVLo0e-4CLFPMzkSklpecQGjE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qf1SBSr358o"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-07T12:15:04Z",
+        "channelId": "UCDS5NCZ7Zs0SI32ZwFQLPGg",
+        "title": "🎏 도쿄에서 1시간! 시간이 멈춘 거리 &#39;가와고에&#39;에서 만난 에도시대 | 호루이치 신주쿠그랑벨호텔 미피상점 스타벅스 과자거리 토키노카네 KAKIGORI [ 일본 05 ]",
+        "description": "일본 도쿄여행 브이로그 05 세이부신주쿠 역에서 1시간, 이케부쿠로 역에서 급행으로 30분 정도면 가와고에 역에 도착해요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qf1SBSr358o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qf1SBSr358o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qf1SBSr358o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qf1SBSr358o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qf1SBSr358o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "밍스밴드 Mingsband",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-07T12:15:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VynAb-pWLZloWWuCYTwg9-jl2cA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Yb9X4jWbvU"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-25T03:03:59Z",
+        "channelId": "UCZedqouDlKCjs7vWmcqNYXA",
+        "title": "[도쿄 브이로그] 가와고에 | 川越 | 세상에서 가장 매운 과자 발견",
+        "description": "2022년 9월 가와고에에 마실 다녀왔습니다. 에도 시대의 건물들과 아기자기하고 이쁜 가게들 그리고 일본 정원이 매력적인 스타벅스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Yb9X4jWbvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Yb9X4jWbvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Yb9X4jWbvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Yb9X4jWbvU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Yb9X4jWbvU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MINAH",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-25T03:03:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bht0Gn8mNLUPsX-NMrcnk8Wq_84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GzzEXZMN1XA"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-28T10:30:04Z",
+        "channelId": "UCtbFFBVtwCNvK7umAsj5Q2A",
+        "title": "100년전 일본을 가다  | 교토 말고 가와고에 #1 :: 이시국 해외여행",
+        "description": "川越 #일본여행 #일본일상 안녕하세요~ 오늘도 클릭해 주셔서 감사합니다! 이번 영상은 100여년전 에도시대의 정취가 그대로 남아 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GzzEXZMN1XA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GzzEXZMN1XA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GzzEXZMN1XA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GzzEXZMN1XA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GzzEXZMN1XA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "엠미즈 :: 도쿄 라이프",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-28T10:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ct92TcUoVVqlXmlBb5YIjeu43c0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EZF49VuhM9E"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-22T10:45:01Z",
+        "channelId": "UCo137ckrhWUyRS4OgNWTrsg",
+        "title": "에도시대 감성 살아있는 도쿄 근교 숨은 여행지, 가와고에",
+        "description": "안녕하세요. 가와고에를 다녀왔습니다. 시청해 주셔서 감사합니다^^ #일본 #일본여행 #여행유튜버 #일본어 #일본인친구 ✔️촬영 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EZF49VuhM9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EZF49VuhM9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EZF49VuhM9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EZF49VuhM9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EZF49VuhM9E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "동굿님",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-22T10:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OWaCowjU-uuGyDxCz9Mr8DP2_gg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j15Q8TpM730"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-23T14:47:49Z",
+        "channelId": "UCpP_A5MIefZK9doqr3Z3Mfw",
+        "title": "가와고에?",
+        "description": "일본 #일본여행 #가마쿠라 #도쿄 #도쿄여행 #일본소도시 #에노시마 #이사랑통역되나요 #이사통 #브이로그 #일본명소 #출사 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j15Q8TpM730/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j15Q8TpM730/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j15Q8TpM730/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j15Q8TpM730/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j15Q8TpM730/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "임오아예!(Lim-Oh-Ah-Yeah!)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-23T14:47:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0maMM8kRVWLRQASI8kq-jTg9avU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-Uj9TA1IjJ0"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-19T23:33:26Z",
+        "channelId": "UC_5ZUZlQ3pS0lex4np7sKVQ",
+        "title": "도쿄 근교 감성 여행 가와고에 신사 투어⛩️ #도쿄여행",
+        "description": "도쿄 근교 감성 여행 가와고에 신사 투어⛩️ 작은 에도라고 불리는 가와고에에서 혼자 천천히 산책하며 들러보기 좋은 신사 코스를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Uj9TA1IjJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Uj9TA1IjJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Uj9TA1IjJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Uj9TA1IjJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Uj9TA1IjJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "샐리log",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-19T23:33:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XBs5rrAQAHMP4Ea1CrV8CG-EaNc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6CINwdyZzqw"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-18T02:56:28Z",
+        "channelId": "UCvkQacK4SF2ek_ZnyH_u8mQ",
+        "title": "도쿄에서 1시간 | 200년 된 거리 일본인도 몰려드는 &#39;작은 에도&#39; 가와고에 완벽 가이드",
+        "description": "도쿄 근교 사이타마현에 위치한 가와고에는 '작은 에도'라 불리는 일본 소도시입니다. 도쿄에서 열차로 약 1시간 이내에 도착할 수 있어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/6CINwdyZzqw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "방긋수",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-18T02:56:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VKBrAlWRMoGqK5ivKHTP7e5Rslw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mVwszSjO8Hw"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-31T07:08:45Z",
+        "channelId": "UCZrBfYRQxxt0IpMVKl62_fQ",
+        "title": "[브이로그] 친언니와 일본 워홀 가와고에 관광(?)",
+        "description": "언니랑 일본 워홀와서 알바 오프날 카와고에 놀러갔다 왔습니다 #일본워킹홀리데이 #브이로그 #워홀.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mVwszSjO8Hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mVwszSjO8Hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mVwszSjO8Hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mVwszSjO8Hw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mVwszSjO8Hw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "하라고",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-31T07:08:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ev8gBl-UXTbWmJv4XVo9RMVt_-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cXy3btUzQ6Y"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-12T17:54:22Z",
+        "channelId": "UCpP_A5MIefZK9doqr3Z3Mfw",
+        "title": "가와고에!",
+        "description": "일본 #일본여행 #가마쿠라 #도쿄 #도쿄여행 #일본소도시 #에노시마 #이사랑통역되나요 #이사통 #브이로그 #일본명소 #출사 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cXy3btUzQ6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cXy3btUzQ6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cXy3btUzQ6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cXy3btUzQ6Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cXy3btUzQ6Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "임오아예!(Lim-Oh-Ah-Yeah!)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-12T17:54:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5rDbJh9K3k2STOFYe5dULIviFFI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2luqK1iiHjM"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-01T01:55:17Z",
+        "channelId": "UCLRjHl2xE4xv9NRlrTVeZYw",
+        "title": "Kawagoe 가와고에 히카와 신사의 여름 풍경 소원이루어 지는 소리 #일본여행 #川越氷川神社",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2luqK1iiHjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2luqK1iiHjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2luqK1iiHjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2luqK1iiHjM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2luqK1iiHjM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "짱상TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-01T01:55:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bFhyH_oa8KnxxVbEyXtdZPTTALw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NNMb68DeRng"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-30T03:02:10Z",
+        "channelId": "UCmhfwIMa_4oKhrn3CFkNhJw",
+        "title": "도쿄근교 가와고에",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NNMb68DeRng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NNMb68DeRng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NNMb68DeRng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NNMb68DeRng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NNMb68DeRng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "악마(悪)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-30T03:02:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MGGN99RKp7cxLSkoWU5A_mGq0JU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pw1_Vae04AA"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-26T06:37:52Z",
+        "channelId": "UCp2SCykR89HsVY3WXngW4ww",
+        "title": "tokyo D3. 8월 혼자떠난 도쿄 뚜벅이 여행. 가와고에, 지유가오카, 신주쿠.",
+        "description": "도쿄 #tokyo #가와고에 #kawagoe #가와고에고택거리 #일본인사동 #고구마주먹밥 #가와고에고구마 #가와고에맛집 #도쿄뚜벅이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pw1_Vae04AA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pw1_Vae04AA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pw1_Vae04AA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pw1_Vae04AA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pw1_Vae04AA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sol Park",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-26T06:37:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YFgzSljvKwSASIR_K_Y_82NrljY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gAYNIhkJbKQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-02T01:00:04Z",
+        "channelId": "UCncLFlAypluseyI1mF-Wq3g",
+        "title": "작은 에도시대, 카와고에로 떠나는 여행 [#44]",
+        "description": "카와고에 #카와고에스타벅스 #일본여행 작은 에도라고 불리우는 카와고에시 이치반가이 그곳으로 떠나는 여행 첫번째 00:00 카와고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gAYNIhkJbKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gAYNIhkJbKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAYNIhkJbKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gAYNIhkJbKQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gAYNIhkJbKQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소니의 도쿄생활",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-02T01:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DFaveQEJ0XLBSNnYNaUceFxqNE4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jkldQdsj280"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-27T23:36:01Z",
+        "channelId": "UCtbFFBVtwCNvK7umAsj5Q2A",
+        "title": "일본 길거리 음식 먹방❤️ @가와고에  #shorts",
+        "description": "일본일상 #일본여행 #川越 川越de食べ歩き.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jkldQdsj280/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jkldQdsj280/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jkldQdsj280/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jkldQdsj280/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jkldQdsj280/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "엠미즈 :: 도쿄 라이프",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-27T23:36:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eB6TtA4Zk6az4IFby1DiVDtE4KQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E6wi2mTpDAs"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-04T03:00:20Z",
+        "channelId": "UCR7gJhtVi5Fx6sHkxNBMNeg",
+        "title": "⛩️고즈넉한 일본을 담다 | 가와고에 신사 &amp; 장어 와규덮밥",
+        "description": "E-mail : fatallinverno@gmail.com 편집 : 시오 썸네일 : 시오 일본어가 정확하지 않다는 걸 알고 봐 주셨으면 감사하겠습니다. 日本語が ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E6wi2mTpDAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E6wi2mTpDAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E6wi2mTpDAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E6wi2mTpDAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E6wi2mTpDAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/E6wi2mTpDAs/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "린베르노",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-04T03:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1h1oZxxCRZ1kmZ5xnbR2CZqUYxs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9mgb94amrTo"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-26T06:49:01Z",
+        "channelId": "UC4xdFLO8KMRvogWGQhD1uUA",
+        "title": "제2회(4) ~카와고에 당일 치기 여행편~ 카와고에(Kawagoe)  축제(마쯔리) 회관",
+        "description": "양희(한국인) 하고 태랑(일본인) 가 일본에 있는 맛집, 이자카야, 핫스팟, 이벤트 등등 일본 여행이나 생활에 도움이 되는 재미있는 정보 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9mgb94amrTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9mgb94amrTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9mgb94amrTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9mgb94amrTo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9mgb94amrTo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Taerang Yanghee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-26T06:49:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3UvQZEY8DPluZy83ed5qtW2h4hw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OszGZUPHFG0"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-05T12:00:11Z",
+        "channelId": "UCb8hlOwwejZoUExqHdrhdGw",
+        "title": "가와고에에서 에도시대를 느껴보았습니다 / 일본직장인 일본여행 일본브이로그",
+        "description": "일본 #일본여행 #바이크 도쿄 이케부쿠로에서 토부토죠선 급행을 타고 30분 타고가면 사이타마현 가와고에에 도착하게 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OszGZUPHFG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OszGZUPHFG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OszGZUPHFG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OszGZUPHFG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OszGZUPHFG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아키깡 - 일본 여행&생활 - AKICAN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-05T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IRy5U3veEK8_FQYU6-Mag-9MG_A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xu334tETNXg"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-24T15:39:57Z",
+        "channelId": "UCfqV09AwP-baMoVIxnHyakQ",
+        "title": "일본여행 나흘째 카와고에 다니며 먹은것들",
+        "description": "일본여행 나흘째 카와고에 다니며 먹은것들.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xu334tETNXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xu334tETNXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xu334tETNXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xu334tETNXg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xu334tETNXg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "사이먼쿤SimonKun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-24T15:39:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TvHfdLBJPx9dZMzn9BLf-RtrPp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x6dRIXHg9YM"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-13T02:50:20Z",
+        "channelId": "UC-gYHyVQ5ptglUB78r4Ih7A",
+        "title": "일본 가와고에 축제",
+        "description": "2015년 10월 여행 중 보게 된 일본의 축제(마츠리) 사이타마현 가와고에시에서 매년 10월 3번째 일요일과 그 전날, 2일 동안 열리는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x6dRIXHg9YM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x6dRIXHg9YM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x6dRIXHg9YM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x6dRIXHg9YM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Rien_백단향_",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-13T02:50:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OR1cCC96K1FTAWMJfki0aBXuucg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8gSrgjMrm8o"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-16T03:13:14Z",
+        "channelId": "UCVI8cB-QPjA0ieGalmIRpuQ",
+        "title": "가와고에시 100주년 마츠리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8gSrgjMrm8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8gSrgjMrm8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8gSrgjMrm8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8gSrgjMrm8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8gSrgjMrm8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "캄보디아 한국인 호텔 KOKI TREE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-16T03:13:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pfzcghFdkfyil5tAML43Hg7PBBg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1lAEg_97pJc"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-13T13:45:47Z",
+        "channelId": "UC836W-cliQgt3v-ZmeZjJOg",
+        "title": "일본소도시의 재발견.가와고에 쿠라즈쿠리 Kawagoe Japan",
+        "description": "일본소도시 #일본여행 #가와고에 #에도시대.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1lAEg_97pJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1lAEg_97pJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1lAEg_97pJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1lAEg_97pJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1lAEg_97pJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "min's 민스티비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-13T13:45:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9HmkKLYINyujvozcdD3rMW1bWpY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "huhdum3nWfU"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-27T09:02:23Z",
+        "channelId": "UC4xdFLO8KMRvogWGQhD1uUA",
+        "title": "제2회(6) ~카와고에 당일 치기 여행편~ 피자 하우스 PIZZA HOUSE (Kawagoe)",
+        "description": "양희(한국인) 하고 태랑(일본인) 가 일본에 있는 맛집, 이자카야, 핫스팟, 이벤트 등등 일본 여행이나 생활에 도움이 되는 재미있는 정보 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/huhdum3nWfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/huhdum3nWfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/huhdum3nWfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/huhdum3nWfU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/huhdum3nWfU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Taerang Yanghee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-27T09:02:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4J3e1wvKK1FyZqVCUpl22MIUF34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n1-9Q_dinRw"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-05T12:37:20Z",
+        "channelId": "UCC6G8e4xN2uDiTuz7MSz0Bw",
+        "title": "일본에서 도미 잡아 점치는 나의 운세 (도쿄 가와고에 히카와 신사)",
+        "description": "도쿄 #가와고에 #도쿄여행 *중간에 자막 오타가 있네요! 봄이 가 아니라 도미입니다 #카와고에 #일본여행 #여행 #tokyo #오미쿠지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n1-9Q_dinRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n1-9Q_dinRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n1-9Q_dinRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n1-9Q_dinRw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n1-9Q_dinRw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "하이의 일본여행 HI JAPAN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-05T12:37:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GoQrnzSrVEBt-8kpu5Qz1yp5zrA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kU_o1k7p8Oc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-19T09:00:27Z",
+        "channelId": "UCifLUUb5BMCHrZi2P3nxv-g",
+        "title": "🇯🇵도쿄 근교 소도시 여행 | 가와고에 | 에도시대 분위기를 고스란히 | TOKYO VLOG",
+        "description": "도쿄여행 #도쿄여행브이로그 #도쿄근교여행 #가와고에여행.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kU_o1k7p8Oc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kU_o1k7p8Oc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kU_o1k7p8Oc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kU_o1k7p8Oc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kU_o1k7p8Oc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "홍세비sebi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-19T09:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HGZAtTfGeYxD12SUvkA9J8EK7mo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "08qNBATSM7s"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-04T05:25:55Z",
+        "channelId": "UCNk0uYDhsxyVPKx3tC1Q-hw",
+        "title": "일본, 사이타마, 가와고에, 로드투어, 도보여행 JAPAN  Kawagoe, alleyway walking tour 4k  road trip and Night view tour",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/08qNBATSM7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/08qNBATSM7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/08qNBATSM7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/08qNBATSM7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/08qNBATSM7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GAJAGO LET'S GO!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-04T05:25:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mEWSjQIysMszL2In4G38tmRgJKM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "75eC9FBZXR0"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-08T09:30:08Z",
+        "channelId": "UC0pkQynwptKj2FI3JbkM95A",
+        "title": "카와고에 캐릭터샵 순회 공연 #치이카와 #먼작귀 #지브리 #미피 #여행 #브이로그 #도쿄 #쇼츠 #shorts #chiikawa #ghibli #miffy #vlog #tokyo",
+        "description": "알못이면서 캐릭터샵 탐방을 해봤습니다 풀영상! https://youtu.be/AfyWvcBtvpU?si=aWi_-A1hw_o3Ett4.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/75eC9FBZXR0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/75eC9FBZXR0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/75eC9FBZXR0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/75eC9FBZXR0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/75eC9FBZXR0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뚱스딱스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-08T09:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rtI8Tm1g0ATtHhrHWga7BFo0oAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XAXC1ZSGJOs"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-08T15:54:07Z",
+        "channelId": "UC836W-cliQgt3v-ZmeZjJOg",
+        "title": "과자거리.가와고에 가시아요코초 Kawagoe Japan",
+        "description": "일본소도시 #일본여행 #가와고에 #에도시대.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XAXC1ZSGJOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XAXC1ZSGJOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XAXC1ZSGJOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XAXC1ZSGJOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XAXC1ZSGJOs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "min's 민스티비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-08T15:54:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m2uK83SoAEFB9hfU_Oo8TzdbdyQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A0bs_9F9FM8"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-01T11:07:32Z",
+        "channelId": "UC2T7-Dhs8200ABsocNFNlUg",
+        "title": "🇯🇵일본여행 | 카와고에 Kawagoe",
+        "description": "일본 #일본여행 #카와고에 사이타마현에 있는 카와고에는 일본의 전통적인 건축물과 역사적인 장소를 보존하여 오래된 일본의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A0bs_9F9FM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A0bs_9F9FM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A0bs_9F9FM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A0bs_9F9FM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A0bs_9F9FM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "후디스토리 Hoodie Story",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-01T11:07:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1P3qQHr5kpoqjy-s76kZgx7LgmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9-Y-jP6tl1o"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-30T04:00:04Z",
+        "channelId": "UCY-UX-gpsD3DZQrLtqHDIjw",
+        "title": "[EP8 호구/도쿄메이트] 도쿄여행 마무리 브이로그 | 가와고에(인력거,젓가락체험)",
+        "description": "챕터 00:17 에도시대 타임슬립 가와고에 01:35 가와고에 인력거 체험 05:24 추억만들기 젓가락 체험 08:40 도쿄 먹방/술집 투어 11:34 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9-Y-jP6tl1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9-Y-jP6tl1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9-Y-jP6tl1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9-Y-jP6tl1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9-Y-jP6tl1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/9-Y-jP6tl1o/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "TV윤호영",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-30T04:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wzOkjHREuGY4Ij1STgi0LsES77o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NMv3c7-VhhY"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-30T05:23:48Z",
+        "channelId": "UCx6I6SvkcepEWh2OrymgPEg",
+        "title": "[마을의기억] 작은 에도, 가와고에",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NMv3c7-VhhY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NMv3c7-VhhY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NMv3c7-VhhY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NMv3c7-VhhY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NMv3c7-VhhY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "공간콘텐츠연구소",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-30T05:23:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AeSD9BqZoJkuQVzPK1ziwTH9qy0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XicLPnGknIE"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-17T03:44:06Z",
+        "channelId": "UC7eGNV3h-d4rCZe_hvtN9BQ",
+        "title": "비 오는 날 더 특별했던 가와고에 인력거｜밝은 에너지에 여행이 즐거워졌어요 🇯🇵",
+        "description": "비가 내리는 가와고에에서 처음 타본 인력거. 처음에는 비 오는 날 인력거를 타도 괜찮을까 싶었는데, 오히려 빗길을 달리며 바라보는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XicLPnGknIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XicLPnGknIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XicLPnGknIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XicLPnGknIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XicLPnGknIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sira LIFE ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-17T03:44:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iw26SH4jMPcANCG_oNKplS7CB5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4qiVrB3-Eto"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-21T10:20:34Z",
+        "channelId": "UCdbgxyb0lVhE5l7sly8SFDQ",
+        "title": "#kawagoe #川越 #가와고에",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4qiVrB3-Eto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "maeum ganeundero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-21T10:20:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V78sxEmuak2cetQZhFBYINHKmCw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UdKT2K8DHNg"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-30T03:32:09Z",
+        "channelId": "UCmhfwIMa_4oKhrn3CFkNhJw",
+        "title": "그저 가와고에 장어덮밥 찬합을 여는 것일뿐인 영상",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UdKT2K8DHNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UdKT2K8DHNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UdKT2K8DHNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UdKT2K8DHNg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UdKT2K8DHNg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "악마(悪)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-30T03:32:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "79SthNPPuoIh4Qc-vQ1JEFenwTk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0eBOjbuJaRU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-10T06:44:32Z",
+        "channelId": "UCb7mMWUJpr-EpQDrvzkdQBw",
+        "title": "&quot;도쿄 가와고에 주변 한국인이 많이 찾는 숙소 TOP5&quot;",
+        "description": "첫번째 가와고에 토부 호텔 두번째 수퍼호텔 사이타마 가와고에 세번째 료칸 마츠무라야 네번째 가와고에 프린스 호텔 다섯번째 가와 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0eBOjbuJaRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0eBOjbuJaRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0eBOjbuJaRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0eBOjbuJaRU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0eBOjbuJaRU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "월드 미러",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-10T06:44:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0tULUGSLEegzKvkyzu8P9L9NVdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GDd3Sgb-6TY"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-05T01:00:02Z",
+        "channelId": "UCncLFlAypluseyI1mF-Wq3g",
+        "title": "인연의 신사, 히카와신사와 카와고에의 여러 신사들 [#45]",
+        "description": "히카와신사 #카와고에 #시간의종탑 * 06:34 에 나오는 천황이라는 표현은 국제사회에서의 공식적인 칭호입니다.* 카와고에 여행 그 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GDd3Sgb-6TY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GDd3Sgb-6TY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GDd3Sgb-6TY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GDd3Sgb-6TY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GDd3Sgb-6TY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소니의 도쿄생활",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-05T01:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0ohTiOQ01Ih16NSuDDwZe5ZygjE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PvC6K91Sfh4"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-03T20:45:05Z",
+        "channelId": "UCaNf3n8_AaqT26gPza5zzzg",
+        "title": "카와고에 전통 거리와 목조 스타벅스 여행",
+        "description": "일본 카와고에 전통거리 고풍스러운 목조 건물이 늘어선 카와고에 전통 거리와 상징적인 목조 종탑인 토키노카네를 둘러봅니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PvC6K91Sfh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PvC6K91Sfh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PvC6K91Sfh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PvC6K91Sfh4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PvC6K91Sfh4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카네루의 일본여행 모음집",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-03T20:45:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7LXgx6_3uNETYEbtXm-nvhkNvUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pj1tuR4loog"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-25T14:24:37Z",
+        "channelId": "UC4xdFLO8KMRvogWGQhD1uUA",
+        "title": "제2회(2) ~카와고에 당일 치기 여행편~ 골목 타코센(타코+센베), 라쿠라쿠 베이커리(Kawagoe)",
+        "description": "양희(한국인) 하고 태랑(일본인) 가 일본에 있는 맛집, 이자카야, 핫스팟, 이벤트 등등 일본 여행이나 생활에 도움이 되는 재미있는 정보 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pj1tuR4loog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pj1tuR4loog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pj1tuR4loog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pj1tuR4loog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pj1tuR4loog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Taerang Yanghee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-25T14:24:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LwLoES7kTrNY44nBp16TeLCUx_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ALtMv6HRoe4"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-12T13:58:37Z",
+        "channelId": "UCJ1RIvxi5N9upaJrNbBfahQ",
+        "title": "[일본 여행 유튜버] 도쿄 1시간 거리의 전통거리를 보고싶다면 &#39;가와고에&#39;로!",
+        "description": "[일본 여행 유튜버] 일본문화원 리포터 방일 취재 3일차 아침 조식 든든하게 먹고 에도 시대의 모습을 간직한 거리, 혼카와고에 전통 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ALtMv6HRoe4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ALtMv6HRoe4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ALtMv6HRoe4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ALtMv6HRoe4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ALtMv6HRoe4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "챌리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-12T13:58:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VJHajVoRY-m5oZUy7OZaSkfnzhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jIzRI5FLXoc"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-14T04:52:03Z",
+        "channelId": "UCvEroaOPfG0KcfPsYUXJf3A",
+        "title": "[도쿄 근교 당일 가와고에 여행 🍣 #3]ㅣ3월 도쿄여행ㅣ가와고에의 모든것ㅣ과자 거리ㅣ신사ㅣ가와고에 맛집ㅣ토로로&amp;미피 상점ㅣ도쿄 호텔 비아 인 프라임 아카사카ㅣ도쿄브이로그",
+        "description": "영상 앞쪽에 가와고에를 가와에고로 잘못 표기했습니다..! 참고 부탁드려요 도쿄에서 전철로 약 1시간 거리에 위치한 소도시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jIzRI5FLXoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jIzRI5FLXoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jIzRI5FLXoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jIzRI5FLXoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jIzRI5FLXoc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "라혜로그 Rahye",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-14T04:52:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zZzMBQS2OjkDl5MZXU-zUHcwFXs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3XmqkmAlf2g"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-07T09:40:00Z",
+        "channelId": "UCNB5_aGy3M3MJ3ab2JMO7RA",
+        "title": "#일본여행 도쿄 근교 카와고에, 카와고에역 근처의 철길 건널목에서",
+        "description": "도쿄에서 약 40분가량 걸리는 거리에 있는 카와고에. 코에도(작은 에도)라거 불리는 곳이다. • 카와고에 간 김에, 의식의 흐름대로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3XmqkmAlf2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3XmqkmAlf2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3XmqkmAlf2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3XmqkmAlf2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3XmqkmAlf2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "감묘",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-07T09:40:00Z"
+      }
+    }
+  ]
+}

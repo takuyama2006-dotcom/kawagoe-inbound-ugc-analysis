@@ -1,0 +1,463 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "FyPz5JhKVs7lzi7lX24Y0CX6BZ4",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "zKkLau0YPkF2eKGq2ndJ5f_RKeI",
+      "id": "zbZGHuMN0xE",
+      "snippet": {
+        "publishedAt": "2026-10-30T09:00:09Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【川越観光】一度は体験してほしい！人混みを避けられる特等席 #川越 #川越観光 #人力車",
+        "description": "最近の川越、人が多くて歩くのが大変…\nという時に一度は体験してほしい「人力車いつきや」さん🏮✨\n\n人混みを気にせず特等席でスイスイ巡れるのはもちろん、希望すれば観光では行かないようなディープな裏路地まで案内してもらうことも…👏🏻\n\n写真も全力で素敵に撮ってくれるし、これからの肌寒い時期も安心なあたたかいひざ掛けや、乗り降りの丁寧なサポートまで…🥹\nコースも色々あるので「ここ行きたい！」を相談できるのも嬉しいポイント◎\n\nお姉さんの解説も楽しすぎて、一度乗ったらもう歩き観光には戻れないかも…\n次の川越観光で後悔しないように、ぜひ行ってみてくださいね💕\n\n📌 川越の観光情報や地域イベントも随時発信中\n📌 フォローして、川越の魅力をもっと深掘りしよう！\n________________________________\n📍人力車いつき屋 川越\n住所：〒350-0063 埼玉県川越市幸町4−１\n りそなコエドテラス エントランス広場\n営業時間：9:30〜17:30\n定休日：不定休\nHP：https://www.jinrikisha-itsukiya.com\nInstagram：https://www.instagram.com/itsukiya_kawagoe/?hl=ja\n________________________________\n\n🤝 川越TVを応援してくださる方へ\n━━━━━━━━━━━━━━━━━━\n🏢 法人スポンサー募集中！\n川越の魅力を一緒に発信し、\n川越を盛り上げてくださる企業様を募集しています✨\n\n▶ スポンサーのお問い合わせ\n：https://kawagoe.tv/contact/\n（お問い合せフォームより）\n\n❤️ YouTubeメンバーシップ\n川越TV応援プラン｜月額990円（税込）\n限定動画・裏側公開などの特典をご用意！\n\n▶ メンバーシップ登録\n：https://www.youtube.com/channel/UCzzNauFBCq3l7C9TrmiIo-g/join\n※金額はWebブラウザから登録した場合の料金です。\n━━━━━━━━━━━━━━━━━━\n\n🗣ローカルメディア「川越TV」では、\n川越に住む人・働く人・学ぶ人・旅する人に向けて\nオススメのお店や企業、人、イベントなど\n「を、もっと好きになる。」情報を発信しています📣\n\n《不定期金曜18:00～YouTube配信📡》\nぜひGOODボタン・コメント・チャンネル登録お願いします！\n\n▼取材のご依頼もお待ちしております！\n📍川越TV 運営会社（株）エコーステーション\n℡：049-221-7700（ガイダンス⑨その他）\n✉：kawagoe-tv@eco-station.co.jp\n\n#川越 #川越観光 #川越散策 #人力車いつきや #埼玉観光 #女子旅 #Vlog #人力車\n#人力車体験 #川越人力車 #川越デート #埼玉おでかけ #関東おでかけ #雨の日",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zbZGHuMN0xE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zbZGHuMN0xE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zbZGHuMN0xE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zbZGHuMN0xE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zbZGHuMN0xE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/zbZGHuMN0xE/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "川越TV",
+        "tags": [
+          "人力車",
+          "川越散歩",
+          "小江戸川越",
+          "蔵の街",
+          "いつきや",
+          "kawagoe"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【川越観光】一度は体験してほしい！人混みを避けられる特等席 #川越 #川越観光 #人力車",
+          "description": "最近の川越、人が多くて歩くのが大変…\nという時に一度は体験してほしい「人力車いつきや」さん🏮✨\n\n人混みを気にせず特等席でスイスイ巡れるのはもちろん、希望すれば観光では行かないようなディープな裏路地まで案内してもらうことも…👏🏻\n\n写真も全力で素敵に撮ってくれるし、これからの肌寒い時期も安心なあたたかいひざ掛けや、乗り降りの丁寧なサポートまで…🥹\nコースも色々あるので「ここ行きたい！」を相談できるのも嬉しいポイント◎\n\nお姉さんの解説も楽しすぎて、一度乗ったらもう歩き観光には戻れないかも…\n次の川越観光で後悔しないように、ぜひ行ってみてくださいね💕\n\n📌 川越の観光情報や地域イベントも随時発信中\n📌 フォローして、川越の魅力をもっと深掘りしよう！\n________________________________\n📍人力車いつき屋 川越\n住所：〒350-0063 埼玉県川越市幸町4−１\n りそなコエドテラス エントランス広場\n営業時間：9:30〜17:30\n定休日：不定休\nHP：https://www.jinrikisha-itsukiya.com\nInstagram：https://www.instagram.com/itsukiya_kawagoe/?hl=ja\n________________________________\n\n🤝 川越TVを応援してくださる方へ\n━━━━━━━━━━━━━━━━━━\n🏢 法人スポンサー募集中！\n川越の魅力を一緒に発信し、\n川越を盛り上げてくださる企業様を募集しています✨\n\n▶ スポンサーのお問い合わせ\n：https://kawagoe.tv/contact/\n（お問い合せフォームより）\n\n❤️ YouTubeメンバーシップ\n川越TV応援プラン｜月額990円（税込）\n限定動画・裏側公開などの特典をご用意！\n\n▶ メンバーシップ登録\n：https://www.youtube.com/channel/UCzzNauFBCq3l7C9TrmiIo-g/join\n※金額はWebブラウザから登録した場合の料金です。\n━━━━━━━━━━━━━━━━━━\n\n🗣ローカルメディア「川越TV」では、\n川越に住む人・働く人・学ぶ人・旅する人に向けて\nオススメのお店や企業、人、イベントなど\n「を、もっと好きになる。」情報を発信しています📣\n\n《不定期金曜18:00～YouTube配信📡》\nぜひGOODボタン・コメント・チャンネル登録お願いします！\n\n▼取材のご依頼もお待ちしております！\n📍川越TV 運営会社（株）エコーステーション\n℡：049-221-7700（ガイダンス⑨その他）\n✉：kawagoe-tv@eco-station.co.jp\n\n#川越 #川越観光 #川越散策 #人力車いつきや #埼玉観光 #女子旅 #Vlog #人力車\n#人力車体験 #川越人力車 #川越デート #埼玉おでかけ #関東おでかけ #雨の日"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1833",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gjGbFY2vYxzfzTFLYuKqaq1tOXk",
+      "id": "zbf2pQrpeV0",
+      "snippet": {
+        "publishedAt": "2023-06-23T10:00:51Z",
+        "channelId": "UCEI1uxVaDdD7ytyW_cD2fog",
+        "title": "はんにゃ.金田×我が家 坪倉＠埼玉県川越市  #5【飲み旅-NOMITABI-チャンネル】",
+        "description": "▼埼玉県川越市の再生リスト\nhttps://youtube.com/playlist?list=PLqB2j484geK8bFtWX3w_wqYWU52MxsX9h\n\n📍埼玉県川越市\n東京都心から30㎞圏内とアクセスしやすい立地でありながら、江戸、明治、大正と3つの時代のムードを味わえるまち・埼玉県川越市。江戸の情緒を今に残す街並みは小江戸と呼ばれ、市内には神社仏閣が数多く存在する。ユネスコ無形文化遺産に登録されている「川越まつり」をはじめ、多彩な伝統行事も開催。\n\n📖もくじ📖\n0:00　オープニング\n4:05　爆笑レッドシアターの裏話\n11:05 金田さん大河ドラマに向けて一言\n14:35 次回予告\n\n///////////🍻飲み旅案内人🍻///////////\n\n🔸金田哲（はんにゃ.）\n1986年2月6日生まれ、愛知県出身。吉本興業所属、東京NSC10期生。川島章良とコンビを結成する。2008年頃から注目度が高まり、日本テレビ「エンタの神様」やフジテレビ「爆笑レッドシアター」などでブレーク。「ズクダンズンブングンゲーム」が小学生に人気となり、数多くのレギュラー番組を持つ。俳優としても活動しており、映画「燃えよ剣」や「ヘルドッグス」などに出演。\n\nTwitter☛https://twitter.com/HANNYAKANADAS\nInstagram☛https://www.instagram.com/satoshi_kanada/\nYoutube☛https://www.youtube.com/channel/UC3_CJOfLukQA4RM3hcH3usw\n\n🔸坪倉由幸（我が家）\n1977年9月9日生まれ、神奈川県出身。2003年に杉山裕之、谷田部俊とお笑いトリオ「我が家」を結成。フジテレビ系「爆笑レッドシアター」などで活躍。近年では、芸人のみならず本格的に俳優として活動し、多くのクリエイターから信頼を集める。主な出演作に、ドラマ「鎌倉殿の13人」（NHK）、「あなたの番です」（NTV）、「アンナチュラル」（TBS）、映画「アイ・アムまきもと」（22/水田伸生監督）、「騙し絵の牙」（21/吉田大八監督）など。\n\nTwitter☛https://twitter.com/wagayatsubokura\nInstagram☛https://www.instagram.com/y.tsubokura/\nYoutube☛https://www.youtube.com/@user-jm7lg7xq8b\n\n////////////////////////////////////////////////////\n\n‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥\n【撮影協力】\n📍やきとり 裕次郎\nhttps://yakitori-yujiro.owst.jp/\n埼玉県川越市中原町1-2-2 第二櫻進ビル1FC\n‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥\n\n【第1シリーズ】箱根編の再生リスト📺\n東海オンエアゆめまるさん、はんにゃ. 金田哲さん、円神 中林登生さんの飲み旅案内人の3人旅🍶\nhttps://youtube.com/playlist?list=PLqB2j484geK9JKlo1PCxfV-Xjnys1s71j\n\n【第2シリーズ】秩父編の再生リスト📺\n鈴木志遠さん、東京ダイナマイト松田大輔さん、円神 中林登生さんで秩父を巡る旅🍃\nhttps://youtube.com/playlist?list=PLqB2j484geK-znjZxppRGGXYYgCOEozmn\n\n【第3シリーズ】いわき編の再生リスト📺\n彦摩呂さん、はんにゃ. 金田哲さん、円神 中林登生さんでいわきを巡る旅🍅\nhttps://youtube.com/playlist?list=PLqB2j484geK9dnX6RkAthjjQCMnwGZ_--\n\n【第4シリーズ】掛川編の再生リスト📺\n東海オンエアゆめまるさん、はんにゃ. 金田哲さん、円神 中林登生さんの飲み旅案内人の3人旅🏯\nhttps://youtube.com/playlist?list=PLqB2j484geK8BnC3SoHy0Tu1O5w1wfnCs\n\n【第5シリーズ】佐賀県武雄市の旅！再生リスト📺\nhttps://youtu.be/4B4ufyKduIM\n\n【特別編コラボ回】\n飯沼本家×飲み旅チャンネル\nhttps://youtu.be/MSvvVksq9fQ\n\n飲み旅案内人にぜひ来てほしい！という全国の酒蔵さま、\n飲み旅チャンネルとコラボしたいという企業の皆さまは、\n是非お問い合わせください。\n\n飲み旅チャンネルへのタイアップについての\nお問い合わせはこちら\n📨↓📨↓📨↓📨↓\nhttps://forms.gle/LNZCrpDtiiqAfpMd6\n\n🍻飲み旅-NOMITABI-チャンネル🍻\n「お酒とおつまみを楽しむ“飲み旅”から、その町を知る」をテーマに、全国各地を旅するYouTube番組「飲み旅-NOMITABI-チャンネル」。お酒を通して訪れた町を深掘りしていき、飲み旅ならではの旅の良さを発信しています🍶\n\n🍶飲み旅公式サイト\nhttps://nomitabi.tabiiro.jp/\n\n🍻飲み旅 公式SNS\nTwitter☛https://twitter.com/nomitabichannel\nTikTok☛https://www.tiktok.com/@nomitabichannel\n\nプロデューサー：石川 葵\nWeb制作スタッフ：出口恵都子、三笘敦美、齋藤英里奈、吉川綾乃\n\n📚飲み旅本。　※PCで見ると雑誌形式で見られます\nhttps://nomitabi.tabiiro.jp/book/vol9/\nhttps://nomitabi.tabiiro.jp/book/vol8/\nhttps://nomitabi.tabiiro.jp/book/vol7/\nhttps://nomitabi.tabiiro.jp/book/vol6/\nhttps://nomitabi.tabiiro.jp/book/vol5/\nhttps://nomitabi.tabiiro.jp/book/vol4/\nhttps://nomitabi.tabiiro.jp/book/vol3/\nhttps://nomitabi.tabiiro.jp/book/vol2/\nhttps://nomitabi.tabiiro.jp/book/vol1/\n\n#爆笑レッドシアター #裏話 #サシ飲み",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zbf2pQrpeV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zbf2pQrpeV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zbf2pQrpeV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zbf2pQrpeV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zbf2pQrpeV0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "旅色公式チャンネル",
+        "tags": [
+          "飲み旅",
+          "飲み旅チャンネル",
+          "川越",
+          "川越観光",
+          "小江戸蔵里",
+          "鏡山酒造",
+          "川越観光スポット",
+          "KAWAGOE",
+          "JAPAN",
+          "japantrip",
+          "国内旅行",
+          "国内観光",
+          "日本旅行",
+          "旅",
+          "旅行",
+          "はんにゃ.",
+          "我が家",
+          "金田哲",
+          "坪倉 由幸",
+          "Kawagoe sightseeing",
+          "Landmarks of Kawagoe",
+          "Kawagoe experience",
+          "Kawagoe trip",
+          "川越居酒屋",
+          "サシ飲み",
+          "爆笑レッドシアター",
+          "裏話",
+          "川越旅行"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "はんにゃ.金田×我が家 坪倉＠埼玉県川越市  #5【飲み旅-NOMITABI-チャンネル】",
+          "description": "▼埼玉県川越市の再生リスト\nhttps://youtube.com/playlist?list=PLqB2j484geK8bFtWX3w_wqYWU52MxsX9h\n\n📍埼玉県川越市\n東京都心から30㎞圏内とアクセスしやすい立地でありながら、江戸、明治、大正と3つの時代のムードを味わえるまち・埼玉県川越市。江戸の情緒を今に残す街並みは小江戸と呼ばれ、市内には神社仏閣が数多く存在する。ユネスコ無形文化遺産に登録されている「川越まつり」をはじめ、多彩な伝統行事も開催。\n\n📖もくじ📖\n0:00　オープニング\n4:05　爆笑レッドシアターの裏話\n11:05 金田さん大河ドラマに向けて一言\n14:35 次回予告\n\n///////////🍻飲み旅案内人🍻///////////\n\n🔸金田哲（はんにゃ.）\n1986年2月6日生まれ、愛知県出身。吉本興業所属、東京NSC10期生。川島章良とコンビを結成する。2008年頃から注目度が高まり、日本テレビ「エンタの神様」やフジテレビ「爆笑レッドシアター」などでブレーク。「ズクダンズンブングンゲーム」が小学生に人気となり、数多くのレギュラー番組を持つ。俳優としても活動しており、映画「燃えよ剣」や「ヘルドッグス」などに出演。\n\nTwitter☛https://twitter.com/HANNYAKANADAS\nInstagram☛https://www.instagram.com/satoshi_kanada/\nYoutube☛https://www.youtube.com/channel/UC3_CJOfLukQA4RM3hcH3usw\n\n🔸坪倉由幸（我が家）\n1977年9月9日生まれ、神奈川県出身。2003年に杉山裕之、谷田部俊とお笑いトリオ「我が家」を結成。フジテレビ系「爆笑レッドシアター」などで活躍。近年では、芸人のみならず本格的に俳優として活動し、多くのクリエイターから信頼を集める。主な出演作に、ドラマ「鎌倉殿の13人」（NHK）、「あなたの番です」（NTV）、「アンナチュラル」（TBS）、映画「アイ・アムまきもと」（22/水田伸生監督）、「騙し絵の牙」（21/吉田大八監督）など。\n\nTwitter☛https://twitter.com/wagayatsubokura\nInstagram☛https://www.instagram.com/y.tsubokura/\nYoutube☛https://www.youtube.com/@user-jm7lg7xq8b\n\n////////////////////////////////////////////////////\n\n‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥\n【撮影協力】\n📍やきとり 裕次郎\nhttps://yakitori-yujiro.owst.jp/\n埼玉県川越市中原町1-2-2 第二櫻進ビル1FC\n‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥\n\n【第1シリーズ】箱根編の再生リスト📺\n東海オンエアゆめまるさん、はんにゃ. 金田哲さん、円神 中林登生さんの飲み旅案内人の3人旅🍶\nhttps://youtube.com/playlist?list=PLqB2j484geK9JKlo1PCxfV-Xjnys1s71j\n\n【第2シリーズ】秩父編の再生リスト📺\n鈴木志遠さん、東京ダイナマイト松田大輔さん、円神 中林登生さんで秩父を巡る旅🍃\nhttps://youtube.com/playlist?list=PLqB2j484geK-znjZxppRGGXYYgCOEozmn\n\n【第3シリーズ】いわき編の再生リスト📺\n彦摩呂さん、はんにゃ. 金田哲さん、円神 中林登生さんでいわきを巡る旅🍅\nhttps://youtube.com/playlist?list=PLqB2j484geK9dnX6RkAthjjQCMnwGZ_--\n\n【第4シリーズ】掛川編の再生リスト📺\n東海オンエアゆめまるさん、はんにゃ. 金田哲さん、円神 中林登生さんの飲み旅案内人の3人旅🏯\nhttps://youtube.com/playlist?list=PLqB2j484geK8BnC3SoHy0Tu1O5w1wfnCs\n\n【第5シリーズ】佐賀県武雄市の旅！再生リスト📺\nhttps://youtu.be/4B4ufyKduIM\n\n【特別編コラボ回】\n飯沼本家×飲み旅チャンネル\nhttps://youtu.be/MSvvVksq9fQ\n\n飲み旅案内人にぜひ来てほしい！という全国の酒蔵さま、\n飲み旅チャンネルとコラボしたいという企業の皆さまは、\n是非お問い合わせください。\n\n飲み旅チャンネルへのタイアップについての\nお問い合わせはこちら\n📨↓📨↓📨↓📨↓\nhttps://forms.gle/LNZCrpDtiiqAfpMd6\n\n🍻飲み旅-NOMITABI-チャンネル🍻\n「お酒とおつまみを楽しむ“飲み旅”から、その町を知る」をテーマに、全国各地を旅するYouTube番組「飲み旅-NOMITABI-チャンネル」。お酒を通して訪れた町を深掘りしていき、飲み旅ならではの旅の良さを発信しています🍶\n\n🍶飲み旅公式サイト\nhttps://nomitabi.tabiiro.jp/\n\n🍻飲み旅 公式SNS\nTwitter☛https://twitter.com/nomitabichannel\nTikTok☛https://www.tiktok.com/@nomitabichannel\n\nプロデューサー：石川 葵\nWeb制作スタッフ：出口恵都子、三笘敦美、齋藤英里奈、吉川綾乃\n\n📚飲み旅本。　※PCで見ると雑誌形式で見られます\nhttps://nomitabi.tabiiro.jp/book/vol9/\nhttps://nomitabi.tabiiro.jp/book/vol8/\nhttps://nomitabi.tabiiro.jp/book/vol7/\nhttps://nomitabi.tabiiro.jp/book/vol6/\nhttps://nomitabi.tabiiro.jp/book/vol5/\nhttps://nomitabi.tabiiro.jp/book/vol4/\nhttps://nomitabi.tabiiro.jp/book/vol3/\nhttps://nomitabi.tabiiro.jp/book/vol2/\nhttps://nomitabi.tabiiro.jp/book/vol1/\n\n#爆笑レッドシアター #裏話 #サシ飲み"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT15M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "76200",
+        "likeCount": "348",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E48UOJkx-905o35Qt1wT1yGKMPc",
+      "id": "zg-m0_aj9i8",
+      "snippet": {
+        "publishedAt": "2026-05-11T12:01:52Z",
+        "channelId": "UCvZOmviQkF7vwzH8j_z6W-A",
+        "title": "【2026東京🇯🇵一日遊推薦】這4個地方，好吃好玩每次都回訪！川越、吉祥寺、鎌倉江之島、高輪gateway、銅板美食天堂戶越銀座！#東京自由行 #東京美食 #東京旅遊 ",
+        "description": "東京旅居～主頻道影片➤https://youtu.be/CbStFOjcWbw\n逛膩了市區，想要體驗四種不同的東京旅行和生活\n這四個地方是我最喜歡的，也會一直回訪的：\n🚩很復古的日本街頭～川越\n🚩東京人票選最想住的吉祥寺\n🚩看海療癒的江之島&鎌倉\n🚩高輪gateway新商場好好逛\n🚩邊走邊吃東京銅板美食集散地～戶越銀座\n\n✨更多資訊\n➤https://www.instagram.com/alfbobobo/\n➤別忘了按下「訂閱」呦❤️\n➤合作｜邀約｜授權｜行銷 📪 alffiesun@gmail.com \n#東京自由行 #東京旅遊 #東京美食\n\n🚩Google地標⬇️\n◾️川越熊野神社\n  https://maps.app.goo.gl/p4odo2BMScurWGUn8\n◾️星巴克 川越時鐘小路店\n  https://maps.app.goo.gl/uhNq816LnCtHDozv5\n◾️川越 新河岸川之櫻\n https://maps.app.goo.gl/n35cyVgitao4wzJn7\n◾️和牛三吃\n https://maps.app.goo.gl/i7xy3MgAiANnMeX98\n◾️黑毛和牛炸肉餅 Satou\n    https://maps.app.goo.gl/yhYS5smFyzQR2QtT7\n◾️LIGHT UP COFFEE\n    https://maps.app.goo.gl/PbCo5iXvTTXGNtM97\n◾️Lemon Drop\n    https://maps.app.goo.gl/radCv2SJJpZZgoe48\n◾️ シフク食堂\n    https://maps.app.goo.gl/HLF6C3Y2wPRmgnwSA\n◾️L.L.Bean 吉祥寺\n    https://maps.app.goo.gl/3W2SW8aQD2xXG5cu5\n◾️竹祥貝高湯拉麵\n  https://maps.app.goo.gl/XzbDRL9DXU76zJwG8\n◾️鎌倉 峰本 本店\n  https://maps.app.goo.gl/HESferzKv9C1GnZ39\n◾️MAISON CACAO\n  https://maps.app.goo.gl/MCRrYv9b4rnH53Rf9\n◾️八十八鎌倉\n  https://maps.app.goo.gl/Zi8xX6BHHzuF7TRL9\n◾️食事處 秋本\n  https://maps.app.goo.gl/wJ1SBvJz4JpmJWNU8\n◾️高輪GATEWAY CITY\n  https://maps.app.goo.gl/abRv57qcZ55T95dr8\n◾️戶越銀座商店街\n https://maps.app.goo.gl/6Q7kMgkEXv9ZFVDV8\n◾️後藤かまぼこ店\n https://maps.app.goo.gl/NMoWoRjMowiwkYAu9\n◾️戶越銀座 LA・PAN\n https://maps.app.goo.gl/mPTcpvRbgCHNVMcH6\n◾️鹽可頌 Hoshino\n https://maps.app.goo.gl/xQjD9Xs7uGUjVAKL8\n◾️つづみ団子\n https://maps.app.goo.gl/BnDooZear3VXL72n7\n––––––––––––––––––––––––––––––\n00:00  intro四個一日遊推薦\n00:44  川越～交通＆商店街走到熊野神社\n07:31  川越～大正浪漫通散步到藏造一番街＆時之鐘\n11:23  川越～菓子橫町走到冰川神社看櫻花＆吃和牛\n17:09  吉祥寺～交通＆好吃的貝系拉麵、逛商店街\n25:11  吉祥寺～特別的咖喱定食＆車站附近銅板美食\n28:14  江之島散步＆江之電小站朝聖\n32:00  鎌倉抹茶推薦＆小町通美食：2間不拉魚名店\n37:32  八幡宮朝聖＆附近好吃的精緻巧克力店\n39:54  順路前往～高輪gateway：NEWoMan新商場\n44:27  不用排隊的Afuri\n45:34  戶越銀座～東京的銅板美食集散地：戶越屋飯糰\n48:21  戶越銀座～flower mountain、好吃的糰子、二手古董店、平交道旅拍\n56:24  武藏小山～居民逛的商店街，很特別的路邊攤串烤店\n––––––––––––––––––––––––––––––\n🎵music\nWalk by ikson:   / ikson  \nMusic promoted by Audio Library    • Walk – Ikson (No Copyright Music)  \nMusic: Rag Time Time - Doug Maxwell, Media Right Productions    • Rag Time Time – Doug Maxwell, Media Right ...  \nMusic: Morning Stroll - Josh Kirsch, Media Right Productions    • Morning Stroll – Josh Kirsch, Media Right ...  \nMusic: Sour Tennessee Red - John Deley and the 41 Players    • Sour Tennessee Red – John Deley and the 41...  \nMusic: Humidity - Silent Partner    • Humidity – Silent Partner (No Copyright Mu...  \nMusic: Home by Sakura Girl   / sakuragirl_official  \nLicense: Creative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: https://audiolibrary.com.co/sakura-gi...\nMusic promoted by Audio Library:    • DAILY No Copyright For You – Home by Sakur...  \n\nTrack: Sassy Swing — Audio Library Beats Group\nMusic provided by Audio Library Plus\nWatch:    • Sassy Swing — Audio Library Beats | Jazz B...  \nFree Download / Stream: https://alplus.io/sassy-swing\n\nMusic: Cha Cappella - Jimmy Fontanez, Media Right Productions    • Cha Cappella – Jimmy Fontanez, Media Right...  \nMusic: Get Outside! - Jason Farnham    • Get Outside! – Jason Farnham (No Copyright...  \nMusic: Bumper Tag - John Deley    • Bumper Tag – John Deley (No Copyright Music)  \nMusic: Whistling Down the Road - Silent Partner    • Whistling Down the Road – Silent Partner (...  \nMusic: Getz Me to Brazil - Doug Maxwell, Media Right Productions    • Getz Me to Brazil – Doug Maxwell, Media Ri...  \nMusic: Heat Wave - John Deley and the 41 Players    • Heat Wave – John Deley and the 41 Players ...  \n\nBetter Tomorrow by Tokyo Music Walker   / better-tomorrow  \nCreative Commons — Attribution 3.0 Unported — CC BY 3.0 \nFree Download / Stream: https://www.audiolibrary.com.co/tokyo...\nMusic promoted by Audio Library    • Better Tomorrow – Tokyo Music Walker (No C...  \nMusic: Zydeco Piano Party - Media Right Productions    • Zydeco Piano Party – Media Right Productio...  \n––––––––––––––––––––––––––––––\n＊本影片為非合作影片。 This video is not sponsored.\n\n＊影片內容純屬個人體驗 & 心得分享，如有任何錯誤資訊歡迎理性留言，其他資訊也歡迎留言討論呦。\n\n＊影片著作權為 \"Alf奧菠\" 所有，未有書面授權同意，不得將影片內容，以任何形式變更、轉載、再製、散佈、傳播...。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zg-m0_aj9i8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zg-m0_aj9i8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zg-m0_aj9i8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zg-m0_aj9i8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zg-m0_aj9i8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alf Outdoor 奧菠出去玩",
+        "tags": [
+          "東京",
+          "東京旅居",
+          "東京自由行",
+          "東京旅遊",
+          "東京必去",
+          "東京伴手禮",
+          "東京生活花費",
+          "東京買房",
+          "東京語言學校",
+          "日本旅遊",
+          "日本自由行",
+          "tokyo",
+          "東京新景點",
+          "澀谷",
+          "淺草",
+          "東京美食",
+          "東京必吃",
+          "東京私房景點",
+          "上野",
+          "新宿",
+          "神樂坂",
+          "how to travel in tokyo",
+          "school tokyo",
+          "東京vlog",
+          "東京近郊",
+          "japan",
+          "travel in japan",
+          "觀光案內所",
+          "how to travel in japan",
+          "必吃",
+          "必去",
+          "必逛",
+          "必買",
+          "美食",
+          "限定",
+          "日本伴手禮",
+          "旅行",
+          "星宇航空",
+          "交通",
+          "icoca",
+          "東京必買",
+          "日幣",
+          "小資旅行",
+          "高cp值",
+          "日本交通卡",
+          "小資",
+          "廣域券",
+          "vlog",
+          "快閃",
+          "表參道",
+          "原宿",
+          "明治神宮",
+          "shibuya",
+          "shibuya sky",
+          "木村屋",
+          "東京燒肉",
+          "橫濱",
+          "上野公園",
+          "上野和牛",
+          "東京交通",
+          "散策",
+          "東京櫻花",
+          "賞櫻",
+          "富士山",
+          "東京逛街",
+          "吉祥寺",
+          "長榮航空",
+          "starlux",
+          "airasia",
+          "日本觀光局",
+          "JR pass",
+          "2026",
+          "東京咖啡店",
+          "cafe in tokyo",
+          "東京一日遊",
+          "川越",
+          "東京看房",
+          "東京公寓",
+          "東京散策",
+          "江之島",
+          "鎌倉",
+          "高輪",
+          "高輪gateway",
+          "戶越銀座",
+          "武藏小山",
+          "樂天旅遊"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "zh-Hant",
+        "localized": {
+          "title": "【2026東京🇯🇵一日遊推薦】這4個地方，好吃好玩每次都回訪！川越、吉祥寺、鎌倉江之島、高輪gateway、銅板美食天堂戶越銀座！#東京自由行 #東京美食 #東京旅遊 ",
+          "description": "東京旅居～主頻道影片➤https://youtu.be/CbStFOjcWbw\n逛膩了市區，想要體驗四種不同的東京旅行和生活\n這四個地方是我最喜歡的，也會一直回訪的：\n🚩很復古的日本街頭～川越\n🚩東京人票選最想住的吉祥寺\n🚩看海療癒的江之島&鎌倉\n🚩高輪gateway新商場好好逛\n🚩邊走邊吃東京銅板美食集散地～戶越銀座\n\n✨更多資訊\n➤https://www.instagram.com/alfbobobo/\n➤別忘了按下「訂閱」呦❤️\n➤合作｜邀約｜授權｜行銷 📪 alffiesun@gmail.com \n#東京自由行 #東京旅遊 #東京美食\n\n🚩Google地標⬇️\n◾️川越熊野神社\n  https://maps.app.goo.gl/p4odo2BMScurWGUn8\n◾️星巴克 川越時鐘小路店\n  https://maps.app.goo.gl/uhNq816LnCtHDozv5\n◾️川越 新河岸川之櫻\n https://maps.app.goo.gl/n35cyVgitao4wzJn7\n◾️和牛三吃\n https://maps.app.goo.gl/i7xy3MgAiANnMeX98\n◾️黑毛和牛炸肉餅 Satou\n    https://maps.app.goo.gl/yhYS5smFyzQR2QtT7\n◾️LIGHT UP COFFEE\n    https://maps.app.goo.gl/PbCo5iXvTTXGNtM97\n◾️Lemon Drop\n    https://maps.app.goo.gl/radCv2SJJpZZgoe48\n◾️ シフク食堂\n    https://maps.app.goo.gl/HLF6C3Y2wPRmgnwSA\n◾️L.L.Bean 吉祥寺\n    https://maps.app.goo.gl/3W2SW8aQD2xXG5cu5\n◾️竹祥貝高湯拉麵\n  https://maps.app.goo.gl/XzbDRL9DXU76zJwG8\n◾️鎌倉 峰本 本店\n  https://maps.app.goo.gl/HESferzKv9C1GnZ39\n◾️MAISON CACAO\n  https://maps.app.goo.gl/MCRrYv9b4rnH53Rf9\n◾️八十八鎌倉\n  https://maps.app.goo.gl/Zi8xX6BHHzuF7TRL9\n◾️食事處 秋本\n  https://maps.app.goo.gl/wJ1SBvJz4JpmJWNU8\n◾️高輪GATEWAY CITY\n  https://maps.app.goo.gl/abRv57qcZ55T95dr8\n◾️戶越銀座商店街\n https://maps.app.goo.gl/6Q7kMgkEXv9ZFVDV8\n◾️後藤かまぼこ店\n https://maps.app.goo.gl/NMoWoRjMowiwkYAu9\n◾️戶越銀座 LA・PAN\n https://maps.app.goo.gl/mPTcpvRbgCHNVMcH6\n◾️鹽可頌 Hoshino\n https://maps.app.goo.gl/xQjD9Xs7uGUjVAKL8\n◾️つづみ団子\n https://maps.app.goo.gl/BnDooZear3VXL72n7\n––––––––––––––––––––––––––––––\n00:00  intro四個一日遊推薦\n00:44  川越～交通＆商店街走到熊野神社\n07:31  川越～大正浪漫通散步到藏造一番街＆時之鐘\n11:23  川越～菓子橫町走到冰川神社看櫻花＆吃和牛\n17:09  吉祥寺～交通＆好吃的貝系拉麵、逛商店街\n25:11  吉祥寺～特別的咖喱定食＆車站附近銅板美食\n28:14  江之島散步＆江之電小站朝聖\n32:00  鎌倉抹茶推薦＆小町通美食：2間不拉魚名店\n37:32  八幡宮朝聖＆附近好吃的精緻巧克力店\n39:54  順路前往～高輪gateway：NEWoMan新商場\n44:27  不用排隊的Afuri\n45:34  戶越銀座～東京的銅板美食集散地：戶越屋飯糰\n48:21  戶越銀座～flower mountain、好吃的糰子、二手古董店、平交道旅拍\n56:24  武藏小山～居民逛的商店街，很特別的路邊攤串烤店\n––––––––––––––––––––––––––––––\n🎵music\nWalk by ikson:   / ikson  \nMusic promoted by Audio Library    • Walk – Ikson (No Copyright Music)  \nMusic: Rag Time Time - Doug Maxwell, Media Right Productions    • Rag Time Time – Doug Maxwell, Media Right ...  \nMusic: Morning Stroll - Josh Kirsch, Media Right Productions    • Morning Stroll – Josh Kirsch, Media Right ...  \nMusic: Sour Tennessee Red - John Deley and the 41 Players    • Sour Tennessee Red – John Deley and the 41...  \nMusic: Humidity - Silent Partner    • Humidity – Silent Partner (No Copyright Mu...  \nMusic: Home by Sakura Girl   / sakuragirl_official  \nLicense: Creative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: https://audiolibrary.com.co/sakura-gi...\nMusic promoted by Audio Library:    • DAILY No Copyright For You – Home by Sakur...  \n\nTrack: Sassy Swing — Audio Library Beats Group\nMusic provided by Audio Library Plus\nWatch:    • Sassy Swing — Audio Library Beats | Jazz B...  \nFree Download / Stream: https://alplus.io/sassy-swing\n\nMusic: Cha Cappella - Jimmy Fontanez, Media Right Productions    • Cha Cappella – Jimmy Fontanez, Media Right...  \nMusic: Get Outside! - Jason Farnham    • Get Outside! – Jason Farnham (No Copyright...  \nMusic: Bumper Tag - John Deley    • Bumper Tag – John Deley (No Copyright Music)  \nMusic: Whistling Down the Road - Silent Partner    • Whistling Down the Road – Silent Partner (...  \nMusic: Getz Me to Brazil - Doug Maxwell, Media Right Productions    • Getz Me to Brazil – Doug Maxwell, Media Ri...  \nMusic: Heat Wave - John Deley and the 41 Players    • Heat Wave – John Deley and the 41 Players ...  \n\nBetter Tomorrow by Tokyo Music Walker   / better-tomorrow  \nCreative Commons — Attribution 3.0 Unported — CC BY 3.0 \nFree Download / Stream: https://www.audiolibrary.com.co/tokyo...\nMusic promoted by Audio Library    • Better Tomorrow – Tokyo Music Walker (No C...  \nMusic: Zydeco Piano Party - Media Right Productions    • Zydeco Piano Party – Media Right Productio...  \n––––––––––––––––––––––––––––––\n＊本影片為非合作影片。 This video is not sponsored.\n\n＊影片內容純屬個人體驗 & 心得分享，如有任何錯誤資訊歡迎理性留言，其他資訊也歡迎留言討論呦。\n\n＊影片著作權為 \"Alf奧菠\" 所有，未有書面授權同意，不得將影片內容，以任何形式變更、轉載、再製、散佈、傳播...。"
+        },
+        "defaultAudioLanguage": "zh-TW"
+      },
+      "contentDetails": {
+        "duration": "PT59M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "171013",
+        "likeCount": "1853",
+        "favoriteCount": "0",
+        "commentCount": "62"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IVsoMAaO5WQzExrggizCls4GmHA",
+      "id": "zh__2Vks-hQ",
+      "snippet": {
+        "publishedAt": "2024-01-29T05:00:35Z",
+        "channelId": "UCunNU27j6xGERWag1pOQxfg",
+        "title": "나고야에서 시라카와고까지 이동 방법 정리 | #시라카와고 #일본여행 #하나투어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zh__2Vks-hQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zh__2Vks-hQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zh__2Vks-hQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zh__2Vks-hQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zh__2Vks-hQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "하나투어",
+        "tags": [
+          "하나투어",
+          "해외여행",
+          "패키지여행",
+          "자유여행",
+          "travel"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "나고야에서 시라카와고까지 이동 방법 정리 | #시라카와고 #일본여행 #하나투어",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "275002",
+        "likeCount": "726",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QZm2dNMmxhKK84XC6Vl8CGori8c",
+      "id": "zyiZrjapSzE",
+      "snippet": {
+        "publishedAt": "2025-12-16T09:01:37Z",
+        "channelId": "UC9Ae8fKkQle8lkbcX_F3Z4Q",
+        "title": "客が来すぎて困る小江戸・川越市を２日間徹底的に深掘りしたら濃厚すぎた！【埼玉】",
+        "description": "埼玉県川越市を観光しました。\n\n▼そうすけ 探検\nyoutube.com/@sosuke-tanken\n\n▼そうすけ 海外旅行\nyoutube.com/@sosuke-kaigai\n\n▼そうすけ セカンド\nyoutube.com/@sosuke-second\n\n▼Instagram\nhttps://www.instagram.com/sosuke_travel\n\n▼お仕事のご連絡はこちら\nsosuke.contact@gmail.com\n\n00:00 オープニング・池袋駅から出発\n00:30 川越駅到着・駅周辺\n01:45 アトレ川越・クレアモール\n04:30 丸広百貨店 川越店\n06:16 小江戸蔵里（明治時代の酒蔵リノベ施設）\n07:51 「小江戸」と「川越」の由来\n10:42 大正浪漫夢通り\n11:41 うなぎ 小川菊（創業200年の老舗）\n12:32 川越商工会議所（旧武州銀行川越支店）\n13:15 うなぎ 林屋\n15:14 川越とウナギの歴史・関係\n16:04 小江戸 オハナ（極上親子丼）\n16:56 松本醤油商店\n17:48 蔵造りの町並み（一番街）\n20:25 りそな コエドテラス（旧第八十五銀行本店）\n23:17 うなぎ 傳米・ミッフィー蔵のきっちん\n24:25 時の鐘（川越のシンボル）\n26:03 スターバックスコーヒー 川越鐘つき通り店\n26:50 菓子屋横丁・食べ歩き\n27:32 川越まつり会館\n32:20 川越氷川神社・絵馬トンネル\n34:40 川越市立美術館・博物館\n35:34 川越城 本丸御殿\n37:44 旧山崎家別邸\n41:36 和菓子 亀屋本店\n42:08 熊野神社・八咫烏（ヤタガラス）\n44:56 蓮馨寺\n45:29 喜多院（江戸城の建物が残る場所）\n48:05 本川越駅周辺（西武新宿線）\n49:15 ネパールカレー食堂 ポカラ\n49:51 東武東上線 川越市駅周辺\n51:03 川越八幡宮\n54:55 U_PLACE（ユープレイス）\n56:09 ユーティリティホテル クー（宿泊）\n58:15 JR川越線 笠幡駅\n01:00:14 霞ヶ関カンツリー倶楽部（五輪ゴルフ会場）\n01:02:17 川越の農業・COEDOビール\n01:02:58 的場駅\n01:05:39 西川越駅・川越水上公園について\n01:08:14 霞ヶ関駅周辺（東武東上線）\n01:11:16 新河岸駅\n01:13:26 ウニクス南古谷・南古谷駅（工事中の様子）\n01:15:31 ラーメン清兵衛・バス移動\n01:16:10 南大塚駅\n01:18:26 エンディング・高田馬場駅到着\n\n#そうすけ旅行 #旅行 #観光",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zyiZrjapSzE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "そうすけ 国内旅行",
+        "tags": [
+          "そうすけ旅行",
+          "旅行",
+          "観光"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "客が来すぎて困る小江戸・川越市を２日間徹底的に深掘りしたら濃厚すぎた！【埼玉】",
+          "description": "埼玉県川越市を観光しました。\n\n▼そうすけ 探検\nyoutube.com/@sosuke-tanken\n\n▼そうすけ 海外旅行\nyoutube.com/@sosuke-kaigai\n\n▼そうすけ セカンド\nyoutube.com/@sosuke-second\n\n▼Instagram\nhttps://www.instagram.com/sosuke_travel\n\n▼お仕事のご連絡はこちら\nsosuke.contact@gmail.com\n\n00:00 オープニング・池袋駅から出発\n00:30 川越駅到着・駅周辺\n01:45 アトレ川越・クレアモール\n04:30 丸広百貨店 川越店\n06:16 小江戸蔵里（明治時代の酒蔵リノベ施設）\n07:51 「小江戸」と「川越」の由来\n10:42 大正浪漫夢通り\n11:41 うなぎ 小川菊（創業200年の老舗）\n12:32 川越商工会議所（旧武州銀行川越支店）\n13:15 うなぎ 林屋\n15:14 川越とウナギの歴史・関係\n16:04 小江戸 オハナ（極上親子丼）\n16:56 松本醤油商店\n17:48 蔵造りの町並み（一番街）\n20:25 りそな コエドテラス（旧第八十五銀行本店）\n23:17 うなぎ 傳米・ミッフィー蔵のきっちん\n24:25 時の鐘（川越のシンボル）\n26:03 スターバックスコーヒー 川越鐘つき通り店\n26:50 菓子屋横丁・食べ歩き\n27:32 川越まつり会館\n32:20 川越氷川神社・絵馬トンネル\n34:40 川越市立美術館・博物館\n35:34 川越城 本丸御殿\n37:44 旧山崎家別邸\n41:36 和菓子 亀屋本店\n42:08 熊野神社・八咫烏（ヤタガラス）\n44:56 蓮馨寺\n45:29 喜多院（江戸城の建物が残る場所）\n48:05 本川越駅周辺（西武新宿線）\n49:15 ネパールカレー食堂 ポカラ\n49:51 東武東上線 川越市駅周辺\n51:03 川越八幡宮\n54:55 U_PLACE（ユープレイス）\n56:09 ユーティリティホテル クー（宿泊）\n58:15 JR川越線 笠幡駅\n01:00:14 霞ヶ関カンツリー倶楽部（五輪ゴルフ会場）\n01:02:17 川越の農業・COEDOビール\n01:02:58 的場駅\n01:05:39 西川越駅・川越水上公園について\n01:08:14 霞ヶ関駅周辺（東武東上線）\n01:11:16 新河岸駅\n01:13:26 ウニクス南古谷・南古谷駅（工事中の様子）\n01:15:31 ラーメン清兵衛・バス移動\n01:16:10 南大塚駅\n01:18:26 エンディング・高田馬場駅到着\n\n#そうすけ旅行 #旅行 #観光"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT1H18M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "52952",
+        "likeCount": "486",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 5
+  }
+}

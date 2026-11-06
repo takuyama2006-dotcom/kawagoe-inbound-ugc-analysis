@@ -1,0 +1,11 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "VdqGKl6gs5htjYnhq9dNzxfuNWo",
+  "prevPageToken": "CN4CEAE",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 917710,
+    "resultsPerPage": 0
+  },
+  "items": []
+}

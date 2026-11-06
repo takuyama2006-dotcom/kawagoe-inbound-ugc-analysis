@@ -1,0 +1,2218 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "l70niT2DAqBIqFoBwV7FNjfnjMI",
+  "nextPageToken": "CKwCEAA",
+  "prevPageToken": "CPoBEAE",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 813547,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V8xNuYdWEpY9Q12HA-rVXzpR3mM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8AukEPKgBBQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-25T02:28:56Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "【いもっこ体操】１．準備・整理体操（座位）",
+        "description": "いもっこ体操とは？ 川越市が推奨する転倒骨折予防のための体操です。 バランス・柔軟性・筋力を鍛えるのに効果的で、「転ば ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8AukEPKgBBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8AukEPKgBBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8AukEPKgBBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8AukEPKgBBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8AukEPKgBBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-25T02:28:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7IznpGClpWdtZs_mz2OLKeXWREY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OJoqaAX3jts"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-01T11:00:04Z",
+        "channelId": "UCl6d5AdXJatTOUe4h4sPiow",
+        "title": "川越VLOG｜川越氷川神社と蔵造りの街並み｜小江戸をめぐる休日",
+        "description": "こんにちは、komelogのokomeです。 先日埼玉にある川越に行ってきました。 久しぶりに訪れた川越。 蔵造りの街並みが続く ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OJoqaAX3jts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OJoqaAX3jts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OJoqaAX3jts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OJoqaAX3jts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OJoqaAX3jts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "komelog / ﾀﾋﾞﾉｷﾛｸ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-01T11:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3p8ejaw7R0EAxeOW-knZPOkoLms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D5SX5TtEBMc"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-16T03:28:48Z",
+        "channelId": "UCGUh5aT-fNSKTKmYIdld2Vg",
+        "title": "川越まちなか案内② 川越駅～喜多院 近道案内",
+        "description": "川越駅から喜多院への道案内です。 人混みを避けたり、自転車を利用するのに適した 近道のルートです。 自転車を借りるなら…",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D5SX5TtEBMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D5SX5TtEBMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D5SX5TtEBMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D5SX5TtEBMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D5SX5TtEBMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越まちなか情報",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-16T03:28:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "It6VTyKulvDE_xPKrdiE9uvJLRA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Btite0LCX1Y"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T08:20:48Z",
+        "channelId": "UCExASDN78i5BDDgHWoy9QRQ",
+        "title": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "description": "川越市は、埼玉県の北西部に位置し、歴史と伝統、そして現代が見事に融合する、まさに唯一無二の景観が広がる都市です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Btite0LCX1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Btite0LCX1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Btite0LCX1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Btite0LCX1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Btite0LCX1Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T08:20:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uZydmPeijGK8D0sZ_HU0zpqiMkI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6QJxnK50dRA"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-06T09:00:39Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【川越グルメ】テレビでも話題！川越の大人な隠れ家で味わう幻のブランド牛  #川越 #グルメ #鉄板焼き",
+        "description": "川越の蔵造りの街並みにある、知る人ぞ知る大人の隠れ家鉄板焼き「Te'PAN Le OMUS（テッパン ル オムス）」！  ✨ 実はあの ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6QJxnK50dRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6QJxnK50dRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6QJxnK50dRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6QJxnK50dRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6QJxnK50dRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/6QJxnK50dRA/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-06T09:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H9xZh_8FJ-lw1MpQ46DsCbkYf80",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SBWdKd4OTDI"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-07T07:37:15Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "わが街川越「守り伝える建物と祭」（平成30年10月放送）",
+        "description": "今回の「わが街川越」では、川越の歴史を今に伝える建築物と、地域で大切に守り、受け継がれてきた祭について。 ちょっと通な ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SBWdKd4OTDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SBWdKd4OTDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SBWdKd4OTDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SBWdKd4OTDI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SBWdKd4OTDI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-07T07:37:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ijckPGgeVAGoNqlkcbdvKHbz77o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XEhmOwjOzFQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-03T07:41:13Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "丹徳庭園",
+        "description": "明治2年（1869）材木商「丹波屋」から始まり、現在150周年を迎える「カワモクグループ」創業の地。東武東上線川越市駅から ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XEhmOwjOzFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XEhmOwjOzFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XEhmOwjOzFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XEhmOwjOzFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XEhmOwjOzFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-03T07:41:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c2Emx9A8cJet6nF3hftmn3Xzaa0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EYkyjYQoIlQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-28T13:35:56Z",
+        "channelId": "UC8djZNe8ynSlUmop8Jjt45A",
+        "title": "小江戸川越春まつり 江戸の日 川越藩火縄銃鉄砲隊 演武　ダイジェスト5min + 本編77min",
+        "description": "ダイジェスト5min + 本編77min 江戸の日 小江戸川越春まつり オープニング 川越藩火縄銃鉄砲隊 演武 2026年3月28日（土） ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EYkyjYQoIlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EYkyjYQoIlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EYkyjYQoIlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EYkyjYQoIlQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EYkyjYQoIlQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "祭のきせき　MatsuriNoKiseki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-28T13:35:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LOAXdDcd-LQUcdEc4bE6yq7K9cU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wm4O7HeWD9g"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-08T10:00:37Z",
+        "channelId": "UCaiRuiczlBlLZRVjykOoelw",
+        "title": "【女ひとり旅】埼玉1泊2日～大宮立ち呑み・川越食べ歩き・地酒試飲",
+        "description": "酒と神様が好きな40代独女の埼玉1泊2日の一人旅 立呑処なごみ ⛩武蔵一宮 氷川神社 日本酒原価酒蔵 すし酒家 一歩 ⛩川越 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wm4O7HeWD9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wm4O7HeWD9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wm4O7HeWD9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wm4O7HeWD9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wm4O7HeWD9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "酒と神と私 なかちの一人旅",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-08T10:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8OUTW16CugIPU-A6i86WYxrhhIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3T-rCMg8yYs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-22T05:56:08Z",
+        "channelId": "UCGC5a12VzBi3VbtA_kDeMaQ",
+        "title": "川越まつり　仙波町（仙波二郎安家の山車）　2026/10/18 a67",
+        "description": "川越まつり 仙波町（仙波二郎安家の山車） 2026/10/18 a67.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3T-rCMg8yYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3T-rCMg8yYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3T-rCMg8yYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3T-rCMg8yYs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3T-rCMg8yYs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoshian yoshi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-22T05:56:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X6UAnEuFv7cVf4AW4MU3STe7HHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8wuZoN7ASLw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-16T09:52:13Z",
+        "channelId": "UCON8aOB8OkPqLQ2j0GQHtvg",
+        "title": "明日は川越まつり！",
+        "description": "明日は年に一度の「川越まつり」。 町ごとの山車のひっかわせが必見です！ おすすめは、本川越駅前。 #川越まつり #川越 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8wuZoN7ASLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8wuZoN7ASLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8wuZoN7ASLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8wuZoN7ASLw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8wuZoN7ASLw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "旅人てつきち",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-16T09:52:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fP-iKRdACRqqUyrXAv9PBsVdMRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h6Rsa75Spcc"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-20T04:13:16Z",
+        "channelId": "UCGqGUXsi2nO3acc-exNwwQA",
+        "title": "【川越水上公園】オリジナルカラーのバベコンで釣ってみた【釣り素人】",
+        "description": "使用したタックル レンタルタックル 使用したクランク ロブルアー×川越水上公園オリジナルカラー バベコン （現地限定販売中） ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h6Rsa75Spcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h6Rsa75Spcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h6Rsa75Spcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h6Rsa75Spcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h6Rsa75Spcc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "「さいたまの公園」埼玉県公園緑地協会",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-20T04:13:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6v3xpaQtlAA4cGCAezGIGDwrxJ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c_PJTQuF-0c"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-04T11:24:52Z",
+        "channelId": "UCtjvPqSEXGq0U_8c0zIc5tQ",
+        "title": "ゆらす!?　ゆれる!?　着陸　C-2　航空自衛隊　入間航空祭2026",
+        "description": "着陸するC-2 航空自衛隊 入間航空祭2026 #c2 #航空自衛隊 #輸送機 #入間航空祭2026.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c_PJTQuF-0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c_PJTQuF-0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_PJTQuF-0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c_PJTQuF-0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c_PJTQuF-0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HERO chanTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-04T11:24:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yTdsZvCHlrZs-te4pKAcJ5cXb_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JNWFasZNt9I"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-06T10:00:16Z",
+        "channelId": "UCq319w5mYAvv1mj7tSwU37w",
+        "title": "【川越まつり2026】夜の小江戸を歩く。山車とお囃子、曳っかわせの熱気",
+        "description": "夜の小江戸を歩く。 お囃子に誘われ、山車と出会い、曳っかわせの熱気に包まれる。 2026年10月。 埼玉県川越市で開催された「 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JNWFasZNt9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JNWFasZNt9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JNWFasZNt9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JNWFasZNt9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JNWFasZNt9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "One camera",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-06T10:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M4Qdegv0cSfbSh0Bdu60qkBxjiY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YIho3pV3Tw8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T13:14:07Z",
+        "channelId": "UCXkNk3UiDGmhvfAUGDkYlKw",
+        "title": "川越まつり EOS R7 2026年10月18日(日) 4K 無編集",
+        "description": "川越まつり 2026年10月18日(日) Canon EOS R7 で撮影 4K 無編集 使用機材 ※リンクにはAmazonアフィリエイトリンクが含まれ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YIho3pV3Tw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YIho3pV3Tw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YIho3pV3Tw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YIho3pV3Tw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YIho3pV3Tw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "girigirimovie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T13:14:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qYeMBOdl0q5E7X_aO8NxOXIVx74",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-__gOByM0yI"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-02T13:12:04Z",
+        "channelId": "UC0HMA4CHcxHCv7NsTp2k3fQ",
+        "title": "東京自由行2024 Day3‧小江戶川越一日遊Vlog｜在川越穿越了！千年歷史冰川神社、江戶風情藏造老街、菓子屋橫丁日本傳統小吃、新宿Lumine Est～東京自由行Vlog",
+        "description": "東京旅行的第三天我們來到擁有小江戶之稱的景點「川越」 川越是位在東京近郊~日本埼玉縣的一個美麗城市這裡至今依然保留著 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-__gOByM0yI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-__gOByM0yI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-__gOByM0yI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-__gOByM0yI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-__gOByM0yI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "野實生活",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-02T13:12:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6yg-Vqo9fJP71UEOX6ydMqkpJxk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YyUXfDJoXQI"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-01T09:00:51Z",
+        "channelId": "UC2WwRl8FIUyUTog6iEDspcQ",
+        "title": "【川越】スヌーピービレッジ新店舗🎉早速行ったら大歓喜！大号泣！！ぼっちオタク",
+        "description": "今回は！！ 先日6/26にオープンしたばかりの SNOOPY village 川越店に 行ってきちゃいましたー！！！！！ 念願の！！関東初 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YyUXfDJoXQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YyUXfDJoXQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YyUXfDJoXQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YyUXfDJoXQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YyUXfDJoXQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "のぶろく【好き溢チャンネル】",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-01T09:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pQoJD7czNR4Q4c0dBMBoWkzfYKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_25wrXOsEd0"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-19T07:50:11Z",
+        "channelId": "UC4kQXIf3EEk8mmaxuSy9BgA",
+        "title": "日本東京近郊川越女子旅👘怎麼玩？推薦來川越體驗穿和服走在古色古香的街道上～整個人彷彿走進大正浪漫的時光 #日本旅遊 #川越 #和服 #japan #tokyo #kawagoe #kimono",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_25wrXOsEd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_25wrXOsEd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_25wrXOsEd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_25wrXOsEd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_25wrXOsEd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "卉卉住在日本的台灣人",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-19T07:50:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ghMuUQ1EHQKFJHZ87l_MXyM6K9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QpoG8FRwGeg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-04T11:38:58Z",
+        "channelId": "UCExASDN78i5BDDgHWoy9QRQ",
+        "title": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "description": "川越市は、埼玉県の北西部に位置し、歴史と伝統、そして現代が見事に融合する、まさに唯一無二の景観が広がる都市です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QpoG8FRwGeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QpoG8FRwGeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QpoG8FRwGeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QpoG8FRwGeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QpoG8FRwGeg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-04T11:38:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ae3txxXl66yb3WZ1OgP21XSZNpk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bc1ZetlSORQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-01T10:00:20Z",
+        "channelId": "UCMtjwYvS4cZdcKyRzNVB4BQ",
+        "title": "【川越ポタリング】小江戸川越の蔵造り・時の鐘から伊佐沼へ！歴史と田園をめぐる輪行サイクリング【DAHON Boardwalk】",
+        "description": "【川越ポタリング】小江戸川越の蔵造り・時の鐘から伊佐沼へ！歴史と田園をめぐる輪行サイクリング【DAHON Boardwalk】 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ふうらり東京風来坊 ━ THE POTTERING-AROUND MAN CH ━",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-01T10:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6NlTYD0Tk9W9aMIr9u6j3mNSdlc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_bRm41MNjTc"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-17T10:05:01Z",
+        "channelId": "UCFlA4jjhpSkPXqmnIudNTsw",
+        "title": "知られざる景色がある川越の裏道さんぽ【後編】新スポットもめぐります/埼玉観光旅行vlog",
+        "description": "前回は喜多院とその周辺にあるレトロな街並みを楽しみました。 後編では喜多院から北上し、裏道を通りながら川越の新スポット ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_bRm41MNjTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_bRm41MNjTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_bRm41MNjTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_bRm41MNjTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_bRm41MNjTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "あおぞらさんぽ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-17T10:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "plQyv1v0zbKSomncrStVWIvesP0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O_enzzD2NTg"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-25T04:01:15Z",
+        "channelId": "UCFxBWdeyG1E-9FDBCDY2pXg",
+        "title": "【川越 小江戶 懂吃懂玩 全攻略】從東京30分鐘就能抵達 請排入你的行程",
+        "description": "川越#小江戶川越#川越一日遊#川越冰川神社#菓子屋橫丁#吉伊卡哇#藏造老街#時之鐘#川越星巴克#大正浪漫夢通#熊野 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O_enzzD2NTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O_enzzD2NTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O_enzzD2NTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O_enzzD2NTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O_enzzD2NTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "菜苔苔與菜生生",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-25T04:01:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H01V5tos8Z6ExXjRWsd-Z9wPGBE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "15QPZKvWN6M"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-17T05:58:29Z",
+        "channelId": "UCSML6mz4DASGSPpzn1k-8hA",
+        "title": "川越 Kawagoe｜江戶時代復古浪漫老街｜求財求好運神社｜川越一日券購買&amp;使用 一日行程｜日本東京自由行街景Tokyo, Japan Street View",
+        "description": "版權所有，請勿轉載※ #東京#東京自由行#TOKYO #東京景點#熱門景點#東京逛街#東京購物#東京車站#川越#小江戶#冰川神社# ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/15QPZKvWN6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/15QPZKvWN6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/15QPZKvWN6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/15QPZKvWN6M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/15QPZKvWN6M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "看的到、聽說的",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-17T05:58:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "irT9TSqJLD5lK-DYMOqC0dp8dYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WEbf7u__8hs"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-19T06:03:50Z",
+        "channelId": "UCDi6LoWWKEcuHeNh1BXTzZw",
+        "title": "今成！【川越まつり2024】 #shorts #travel #埼玉県 #祭り #festival #祭り #japan #川越まつり",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WEbf7u__8hs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WEbf7u__8hs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WEbf7u__8hs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WEbf7u__8hs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WEbf7u__8hs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Walker Japan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-19T06:03:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FFWTX1SyNsHiTia44Wo7QxfCbq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b5HzR8jiNuU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-21T23:20:00Z",
+        "channelId": "UCGC5a12VzBi3VbtA_kDeMaQ",
+        "title": "川越まつり　志多町（弁慶の山車）　2026/10/18 a59",
+        "description": "川越まつり 志多町（弁慶の山車） 2026/10/18 a59.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b5HzR8jiNuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b5HzR8jiNuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b5HzR8jiNuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b5HzR8jiNuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b5HzR8jiNuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoshian yoshi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-21T23:20:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9kAcLGXJrTYUMIX0ilBuKa-ug4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nymyCQ-hzwM"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-17T22:02:58Z",
+        "channelId": "UCGC5a12VzBi3VbtA_kDeMaQ",
+        "title": "川越まつり　宵宮　連雀町（道灌の山車）　2026/10/17 a07",
+        "description": "川越まつり 宵宮 連雀町（道灌の山車） 2026/10/17 a07.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nymyCQ-hzwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nymyCQ-hzwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nymyCQ-hzwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nymyCQ-hzwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nymyCQ-hzwM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoshian yoshi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-17T22:02:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JEOuodDJEc9nJMhD8dRs-DpuR3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tyz6-UtsPqs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-30T10:29:00Z",
+        "channelId": "UCU7TUuAb2ulWwCZiIs0Sv9A",
+        "title": "【川越店の思い出】縁側🎐｜古民家ならではのゆったりとした時間",
+        "description": "ゆっくりと流れる時間を楽しめる縁側は古民家ならではのおすすめスポット。 時折通る電車を眺めながら、のんびりとした時間を ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tyz6-UtsPqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tyz6-UtsPqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tyz6-UtsPqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tyz6-UtsPqs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tyz6-UtsPqs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/Tyz6-UtsPqs/sardefault.jpg",
+            "width": 1440,
+            "height": 2560
+          }
+        },
+        "channelTitle": "WE HOME 代表 黒坂チャンネル #ASOBUを自由に",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-30T10:29:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2TMuGNObmea6EYs-d9FzFNxSMzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z66U6OgPyVE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-21T10:28:09Z",
+        "channelId": "UCGC5a12VzBi3VbtA_kDeMaQ",
+        "title": "川越まつり　野田五町（八幡太郎の山車）　2026/10/18 a32",
+        "description": "川越まつり 野田五町（八幡太郎の山車） 2026/10/18 a32.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z66U6OgPyVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z66U6OgPyVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z66U6OgPyVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z66U6OgPyVE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z66U6OgPyVE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoshian yoshi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-21T10:28:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pfFgRdjqosJsM6Jgm2WYTobM1qg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YaXtw-EFrH4"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-19T06:06:15Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "サンライフ川越・芳野台体育館",
+        "description": "教養文化活動及び健康スポーツ活動を目的とした施設。体育館、トレーニング室、会議室、講習室、和室と多様な施設がある。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YaXtw-EFrH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YaXtw-EFrH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YaXtw-EFrH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YaXtw-EFrH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YaXtw-EFrH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-19T06:06:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ml_2Z7momYW-MsE5BPrWS2UxCik",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wvkMUtkZWXs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-13T20:59:32Z",
+        "channelId": "UCExASDN78i5BDDgHWoy9QRQ",
+        "title": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "description": "川越市は、埼玉県の北西部に位置し、歴史と伝統、そして現代が見事に融合する、まさに唯一無二の景観が広がる都市です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wvkMUtkZWXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wvkMUtkZWXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wvkMUtkZWXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wvkMUtkZWXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wvkMUtkZWXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-13T20:59:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SkHvEEwIblkgNPVPODTyCJQ0CRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "egVvV138avQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T02:29:56Z",
+        "channelId": "UC0Yhimu_1Y8Eio-aiQpKq4g",
+        "title": "三久保町＜賴光の山車＞2026川越まつり（KAWAGOE埼玉Saitama祭Japan）",
+        "description": "三久保町＜賴光の山車＞2026川越まつり（KAWAGOE埼玉Saitama祭Japan） 【所有者】 石田囃子連 【山車制作年】 明治30 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/egVvV138avQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/egVvV138avQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/egVvV138avQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/egVvV138avQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/egVvV138avQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "lucentcity",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T02:29:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T7ZM4p7xX6cVaUqiGs2Jj-Q8rhE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VWon6aRm4oQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-22T08:33:58Z",
+        "channelId": "UCExASDN78i5BDDgHWoy9QRQ",
+        "title": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "description": "川越市は、埼玉県の北西部に位置し、歴史と伝統、そして現代が見事に融合する、まさに唯一無二の景観が広がる都市です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VWon6aRm4oQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VWon6aRm4oQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VWon6aRm4oQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VWon6aRm4oQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VWon6aRm4oQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-22T08:33:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rR2sdNIt4Q9lTyvW49VWcVY6eSM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gotwbOoixqA"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-29T23:01:31Z",
+        "channelId": "UCPCnSfnIWetnoSw4e0DjmRA",
+        "title": "東京から30分、埼玉・川越。蔵造りの町並みと時の鐘が残す、小江戸の静かな風景。",
+        "description": "埼玉県川越市は、東京から電車で約30分とアクセス抜群の「小江戸」と呼ばれるまちです。 江戸時代の面影を残す蔵造りの町並み ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gotwbOoixqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gotwbOoixqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gotwbOoixqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gotwbOoixqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gotwbOoixqA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "楽しい毎日を過ごしたい",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-29T23:01:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9ZsZaem_IimFQlQW4Ot7YvrdJRY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wrMFPdsSKZw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-16T08:40:51Z",
+        "channelId": "UCExASDN78i5BDDgHWoy9QRQ",
+        "title": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "description": "川越市は、埼玉県の北西部に位置し、歴史と伝統、そして現代が見事に融合する、まさに唯一無二の景観が広がる都市です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wrMFPdsSKZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wrMFPdsSKZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wrMFPdsSKZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wrMFPdsSKZw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wrMFPdsSKZw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-16T08:40:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6piCQ0nihcluJeCUfyDi98mww2s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2krhZdfW5zA"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-25T02:29:36Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "【いもっこ体操】２．座位体操",
+        "description": "いもっこ体操とは？ 川越市が推奨する転倒骨折予防のための体操です。 バランス・柔軟性・筋力を鍛えるのに効果的で、「転ば ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2krhZdfW5zA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2krhZdfW5zA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2krhZdfW5zA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2krhZdfW5zA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2krhZdfW5zA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-25T02:29:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_bZb6a1zIXkScTGh-Pw6lbwO9K4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gy3ensvLnM4"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-18T08:46:12Z",
+        "channelId": "UClStEIvqMRq5WAeB4PUK0qg",
+        "title": "【モデルコース】川越の人気観光名所12ヶ所、日帰り旅行チャレンジ！【れとろトリップ/蓮馨寺/熊野神社/時の鐘/川越氷川神社】",
+        "description": "東京駅発＆日帰り、東武グループの「川越れとろトリップきっぷ」を利用した埼玉県「川越」の旅です！ \"小江戸\"と呼ばれる川越 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gy3ensvLnM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gy3ensvLnM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gy3ensvLnM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gy3ensvLnM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gy3ensvLnM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "あかね猫 / 大人のひとり修学旅行",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-18T08:46:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZJ1tzsj2GpU2KZUrUJRrEZjcpLc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MU8IbioPJXA"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T15:08:14Z",
+        "channelId": "UCGC5a12VzBi3VbtA_kDeMaQ",
+        "title": "川越まつり　宵宮　中原町（川越太郎重頼の山車）　2026/10/17 a13",
+        "description": "川越まつり 宵宮 中原町（川越太郎重頼の山車） 2026/10/17 a13.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MU8IbioPJXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MU8IbioPJXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MU8IbioPJXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MU8IbioPJXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MU8IbioPJXA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoshian yoshi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T15:08:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a2bV5G2Wus02nVKMfUGxIOMbyzs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NKxS_tAjp3c"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-19T12:06:23Z",
+        "channelId": "UCLowaP3gla4OjUahhgueUGQ",
+        "title": "川越まつり2026 2日目昼巡行、曳っかわせ(一番街〜市役所方面)",
+        "description": "川越まつり 2026.10.18 昼巡行、曳っかわせ 一番街〜市役所付近〜一番街方面 お囃子、舞手さんの舞、舞台が廻る様子、辻回し ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NKxS_tAjp3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NKxS_tAjp3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NKxS_tAjp3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NKxS_tAjp3c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NKxS_tAjp3c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "バモス熊谷 vamos_channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-19T12:06:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vFZ8bnNq7AIWQwTL0bn4nYwjveA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rthuQQQU_ic"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-05T07:22:45Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "わが街川越「思い立ったが吉日！川越ひとり旅」 （平成27年10月放送）",
+        "description": "川越出身のカメラ女子が、ひとりで気ままに楽しめるお勧めスポットを紹介します。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rthuQQQU_ic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rthuQQQU_ic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rthuQQQU_ic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rthuQQQU_ic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rthuQQQU_ic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-05T07:22:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y1jVHXU2A8TSTsohccJcx0_oZO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "56fBR3AtFIY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-19T12:34:18Z",
+        "channelId": "UCGC5a12VzBi3VbtA_kDeMaQ",
+        "title": "川越まつり　宵宮　菅原町（菅原道真の山車）が通過する　2026/10/17 a32",
+        "description": "川越まつり 宵宮 菅原町（菅原道真の山車）が通過する 2026/10/17 a32.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/56fBR3AtFIY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoshian yoshi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-19T12:34:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hRphZpzbroH39FH6ZaQOJ-RAEvM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "62TnZMYAutc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-12T09:54:17Z",
+        "channelId": "UC1-xbQNCQew7WFB3lHtF4Dg",
+        "title": "埼玉県川越市小ヶ谷ライブカメラ",
+        "description": "【ライブカメラ映像について】 現在の配信は、埼玉県川越市小ヶ谷の定点ライブカメラ映像です。 地域の交通状況や天候、街の ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/62TnZMYAutc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市小ヶ谷ライブカメラ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-12T09:54:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Db_UUh8bW6qoavB_Y07DuwrIEuo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r6KTeJ9hvyU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-27T07:25:45Z",
+        "channelId": "UCExASDN78i5BDDgHWoy9QRQ",
+        "title": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "description": "川越市は、埼玉県の北西部に位置し、歴史と伝統、そして現代が見事に融合する、まさに唯一無二の景観が広がる都市です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r6KTeJ9hvyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r6KTeJ9hvyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r6KTeJ9hvyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r6KTeJ9hvyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r6KTeJ9hvyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-27T07:25:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H98_RPBp9u0n7R8jd1fVRwFsAds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i0wPZrQQRxA"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-02T09:20:01Z",
+        "channelId": "UCExASDN78i5BDDgHWoy9QRQ",
+        "title": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "description": "川越市は、埼玉県の北西部に位置し、歴史と伝統、そして現代が見事に融合する、まさに唯一無二の景観が広がる都市です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i0wPZrQQRxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i0wPZrQQRxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i0wPZrQQRxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i0wPZrQQRxA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i0wPZrQQRxA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "埼玉県川越市大正浪漫夢通りライブカメラ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-02T09:20:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UdxOQnoRLW6p1Wir2sUuvDGjdNU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n6_otZHdAz8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-10T08:00:10Z",
+        "channelId": "UCInfAMQuoljmNzQLzPqlnRQ",
+        "title": "【東京近郊自駕】成田機場出發，小江戶川越藏造老街、結緣聖地冰川神社！第一次吃一蘭拉麵、全家超商早餐意外好吃！埼玉縣旅遊、日本自由行Saitama Vlog(上集)",
+        "description": "哈囉哈大家～這趟五月日本自駕旅遊紀錄（埼玉縣、群馬縣） 這篇為關東埼玉縣上集，群馬下集我還沒開始剪～ＸＤ 剛好遇到九月要 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n6_otZHdAz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n6_otZHdAz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n6_otZHdAz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n6_otZHdAz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n6_otZHdAz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "旅人小日子",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-10T08:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lfl9gRrITRzeJ9yeeddzJk_5I5Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0vJjifSmAdE"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-21T05:16:38Z",
+        "channelId": "UCPkJ2NgVNMDLKM9jgyXBiMw",
+        "title": "川越まつり2025⑫  2日目　脇田町•家康の山車　川越駅〜川越市役所　2025.10.19",
+        "description": "2025.10.19 埼玉県川越市、川越まつり2日目。 脇田町•家康の山車を、川越駅から川越市役所までを追いかけました。 The second ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0vJjifSmAdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0vJjifSmAdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0vJjifSmAdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0vJjifSmAdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0vJjifSmAdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "歩いていこう",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-21T05:16:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K3P-Cm2YM60gtMw8uGXBmT6MReQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7MI3B6_oOPg"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-18T02:38:51Z",
+        "channelId": "UC0Yhimu_1Y8Eio-aiQpKq4g",
+        "title": "西小仙波町＜素戔嗚尊の山車＞2026川越まつり（KAWAGOE埼玉Saitama祭Japan）",
+        "description": "西小仙波町＜素戔嗚尊の山車＞2026川越まつり（KAWAGOE埼玉Saitama祭Japan） 【所有者】 西小仙波町自治会 【山車制作 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7MI3B6_oOPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7MI3B6_oOPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7MI3B6_oOPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7MI3B6_oOPg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7MI3B6_oOPg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "lucentcity",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-18T02:38:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WARqt__SchelMoZQWVovRuoC2Ts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Fu-aubVE5A"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-30T05:50:08Z",
+        "channelId": "UC_FsvmrZUJryDK_VHvGdB0A",
+        "title": "川越市医師会館・夜間休日診療所",
+        "description": "平成24年4月に川越市西小仙波町1丁目から小仙波町2丁目に新築移転して現在の4階建ての川越市医師会館を建設。１階に出入口 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Fu-aubVE5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Fu-aubVE5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Fu-aubVE5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Fu-aubVE5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Fu-aubVE5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "kawagoecitychannel 川越市チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-30T05:50:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YBpGtO4C0SDalAtDSjcGjZNQv7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HW9kIjkhXZo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-28T13:30:06Z",
+        "channelId": "UCeAjuSjJGw_oGDHsnULzg-w",
+        "title": "伊佐沼～川越駅 2回目 東武鉄道90000系　貨物列車　伊佐沼公園",
+        "description": "2026年10月28日 #埼玉県 0:01 #東武鉄道 #91001 9月26日から営業運転開始、まともに見たのは初めて。ラッキー✨ 0:35 # 東武 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HW9kIjkhXZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HW9kIjkhXZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HW9kIjkhXZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HW9kIjkhXZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "さゆり旅",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-28T13:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p1JDIAcEDcXYZE0aI63u7c9hCxA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sDRO4Mc1gy8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-21T21:35:34Z",
+        "channelId": "UCGC5a12VzBi3VbtA_kDeMaQ",
+        "title": "川越まつり　連雀町（道灌の山車）　2026/10/18 a52",
+        "description": "川越まつり 連雀町（道灌の山車） 2026/10/18 a52.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sDRO4Mc1gy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sDRO4Mc1gy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sDRO4Mc1gy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sDRO4Mc1gy8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sDRO4Mc1gy8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoshian yoshi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-21T21:35:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IH7VmNhTF0EsQVP72B8N9IrLv1s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SEGQF5O_m0c"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-26T09:00:34Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【埼玉初上陸】世界にひとつだけの時計が作れる新たな体験型スポットが川越に誕生！ #川越 #イタリアンチャーム #体験",
+        "description": "埼玉に初上陸した、世界にひとつだけのオリジナル時計が作れるお店 『Mio Luce（ミオルーチェ）川越店』さんへ行ってきまし ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SEGQF5O_m0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SEGQF5O_m0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SEGQF5O_m0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SEGQF5O_m0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SEGQF5O_m0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-26T09:00:34Z"
+      }
+    }
+  ]
+}

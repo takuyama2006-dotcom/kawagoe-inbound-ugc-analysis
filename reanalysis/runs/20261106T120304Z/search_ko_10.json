@@ -1,0 +1,2253 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "iEzqWGRgR_D9oB8WVa5SBs15JhY",
+  "nextPageToken": "CPQDEAA",
+  "prevPageToken": "CMIDEAE",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 50379,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fXHQzAku2n4EONNz_CURBfMYnE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aFC1Ib8YW6o"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-08T09:00:01Z",
+        "channelId": "UCSwCplLeo6bquZWiwMqJg3w",
+        "title": "도쿄메트로 유라쿠초선 카와고에시행 열차 신키바역 발차",
+        "description": "東京メトロ有楽町線 川越市ゆき 列車 新木場駅 発車 Tokyo Metro Yurakucho Line train bound for Kawagoeshi (TJ-22) departing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aFC1Ib8YW6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aFC1Ib8YW6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aFC1Ib8YW6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aFC1Ib8YW6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aFC1Ib8YW6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kenneth Chung",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-08T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jxnJAe0tswTc9EhfkPKg7jW_X1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ERGnNURJEoY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-08T00:00:31Z",
+        "channelId": "UCBRaCZ5YcCZVkS54M2TMyIw",
+        "title": "도쿄의 교토 가와고에 당일치기[도쿄여행8]",
+        "description": "안녕하세요 매번 오랜만이라는 잊지않고 또다시 돌아온 각설이같은 원더입니다. 도쿄여행 마지막편 \"가와고에' 영상입니다. 이번 영상 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ERGnNURJEoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ERGnNURJEoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ERGnNURJEoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ERGnNURJEoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ERGnNURJEoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "원더하다",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-08T00:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j-7fHjUYKSQbCBvx4fN-pEiShkw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jG0sPkDN2-s"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-17T01:40:31Z",
+        "channelId": "UC7eGNV3h-d4rCZe_hvtN9BQ",
+        "title": "**「비 오는 가와고에, 인력거 타고 만난 진짜 일본 풍경 🇯🇵」**",
+        "description": "가와고에에서 처음 타본 인력거 비 오는 날이라 오히려 분위기는 더 좋았습니다. 골목길을 지나 옛 거리까지, 걷는 여행과는 또 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jG0sPkDN2-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jG0sPkDN2-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jG0sPkDN2-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jG0sPkDN2-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jG0sPkDN2-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sira LIFE ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-17T01:40:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1xBek6HiGR7xGiNNdhxMiiT0Is0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8F4eEo-wJmc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-20T03:51:27Z",
+        "channelId": "UCWtIzwmQ50EHEyoDPd0bBlA",
+        "title": "Kawagoe day trip from Tokyo. It’s also known as sweet potato village #japantravel #kawagoe #daytrip",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8F4eEo-wJmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8F4eEo-wJmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8F4eEo-wJmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8F4eEo-wJmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8F4eEo-wJmc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "meowwchannel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-20T03:51:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "afn3Cftf62NgUBhHFi_3f3uaol8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OLrgzF9w9EA"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-06T02:38:24Z",
+        "channelId": "UC9Q3Z5SudK2JIwhYCXWDpvw",
+        "title": "【告知】川越まつり（埼玉県川越市）ユネスコ無形文化遺産 #shorts",
+        "description": "埼玉県川越市の「川越まつり」です。 2026年は、10月17日（土）、18日（日）に開催予定です。 370年以上の歴史を誇り、 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OLrgzF9w9EA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OLrgzF9w9EA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OLrgzF9w9EA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OLrgzF9w9EA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OLrgzF9w9EA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AQUA Geo Graphic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-06T02:38:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dG4rOt-oYOqOyoZmY8Nsk-W4QoU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "764kMaiTF2s"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-28T15:14:42Z",
+        "channelId": "UCR3S4ujZNNYT7SSFQQRGY3g",
+        "title": "Villages Famous for Their Timeless Traditions #travel #shorts #viralvideo",
+        "description": "Kawagoe, Japan Known as \"Little Edo,\" this village preserves Edo-period architecture and traditions. It hosts festivals where ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/764kMaiTF2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/764kMaiTF2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/764kMaiTF2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/764kMaiTF2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/764kMaiTF2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Roadwatch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-28T15:14:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vWaaTsgM0oZX6rJfFytctFMfOXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "muEZwuBSJpo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-24T13:00:25Z",
+        "channelId": "UCXwThe8MhhOxQ_kY4SXNCeQ",
+        "title": "A Day in Japan’s Charming Little Edo 🇯🇵 | Exploring Kawagoe near Tokyo",
+        "description": "Discover Kawagoe, Japan's charming \"Little Edo,\" on a beautiful day trip from Tokyo. Located in Saitama Prefecture, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/muEZwuBSJpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ring Ring Travels",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-24T13:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jmwP6vgW95uywsalYFZINmlM5xc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IgdCRu7Fye8"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-15T18:00:12Z",
+        "channelId": "UC4JvgXRx-oEjmfyr4pv5Ksw",
+        "title": "On the way to Kawagoe, Japan 🇯🇵 | More of Little Edo&#39;s Historic Streets",
+        "description": "Japan #Kawagoe #LittleEdo #WalkingTour #JapanTravel #Saitama #TravelJapan #4K #JapanVlog #JapaneseCulture ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IgdCRu7Fye8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IgdCRu7Fye8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IgdCRu7Fye8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IgdCRu7Fye8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IgdCRu7Fye8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Moonsk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-15T18:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q-6bNGAjCrSzIomHyJHGacBH344",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sUitq2kl950"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-28T01:16:15Z",
+        "channelId": "UCuS4Y3Y5qQWauwxmU6Vmw4Q",
+        "title": "Kita-in Temple Kawagoe #tourguiding #tourguideservice #kitaintemple #Kawagoe#japantourism #traveljpn",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sUitq2kl950/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sUitq2kl950/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sUitq2kl950/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sUitq2kl950/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sUitq2kl950/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Renante Dolendo (Hiroto Wada)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-28T01:16:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vBuDEwMMy18SnyHwIM7N7ndSAgI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zSRLU_c6HtY"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-25T01:38:25Z",
+        "channelId": "UC-fgLWx__6DXIu4IkXR3h-A",
+        "title": "Little Edo vibes just an hour away from Tokyo #japan #japantravel #japantips #traveltips #travel",
+        "description": "Japan is the place to be right now, but if you want to skip the crowds, there are so many underrated spots. Like this little Edo vibe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zSRLU_c6HtY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zSRLU_c6HtY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zSRLU_c6HtY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zSRLU_c6HtY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zSRLU_c6HtY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jamimoy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-25T01:38:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dRek6UCLHkzhLpAoeLxGpkEU4hA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QAMazw2Vadg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-05T08:15:14Z",
+        "channelId": "UC7DIF3iVplXQXOgbr9dj32A",
+        "title": "「ここまで再現できるのか」東京から二時間の江戸を歩いた歴史マニアが感じた、日本の昔の暮らし【海外の反応】",
+        "description": "海外の反応 #日本旅行 #日本の歴史 #江戸時代 #江戸村 日本の歴史を、自分の言葉で語るパキスタン人の旅人。 今回は、そんな彼 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QAMazw2Vadg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QAMazw2Vadg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QAMazw2Vadg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QAMazw2Vadg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QAMazw2Vadg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ニッポンに夢中",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-05T08:15:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OEiqHL8qtj5dhbeyx1qbcvAw8Wo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j7eOLQV4N4U"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-22T00:30:23Z",
+        "channelId": "UCdYyIc-zNGZOtM8uFd3V8zQ",
+        "title": "Kawagoe Day Trip from Tokyo: Little Edo 2026 Travel Guide (Food &amp; Sights)",
+        "description": "Easy Daytrip from Tokyo Guide Klook Tobu Pass - https://affiliate.klook.com/sl/ljPHoWr Sakura Mobile ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j7eOLQV4N4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j7eOLQV4N4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j7eOLQV4N4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j7eOLQV4N4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j7eOLQV4N4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vel and Vel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-22T00:30:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WBW80fRr4CtVxmq9YBZ6BIl8IeE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z9CE_IsAEFE"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-26T08:49:50Z",
+        "channelId": "UCcF4CYNoH6fFawId1LnMCsA",
+        "title": "후지이미나X너의여행은 EP.1-5 몰아보기 | 도쿄,가와고에,치치부",
+        "description": "[후지이미나X너의여행은] 도쿄,사이타마 몰아보기 누군가에겐 새로운 자극제, 누군가에겐 달달한 휴식... 잔잔한 삶에 들어오는 신선한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z9CE_IsAEFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z9CE_IsAEFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z9CE_IsAEFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z9CE_IsAEFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z9CE_IsAEFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "주식회사_용준(스튜디오여행썰)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-26T08:49:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0S-SnSm37oUnEuKvNTdgOaOxxIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4y7_CVipEtQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-08T17:00:24Z",
+        "channelId": "UCblGbwUExbZCCFb-n5f1sHg",
+        "title": "tokyo day trip itinerary to kawagoe 🍡 exploring japan’s little edo",
+        "description": "Want my full Kawagoe Google Maps itinerary? Follow me on Instagram @polderexpress and comment \"kawagoe\" on any reel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4y7_CVipEtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Paulina 🦋",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-08T17:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OLlKelaZLNCrkTMUDpCkB3m5kLI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iUND2SB5OBQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-06T08:00:06Z",
+        "channelId": "UC18LUv_n0pdG9CDjQfIMSHQ",
+        "title": "10월 가을 도쿄 3박 4일🍂 아키하바라 · 가와고에 · 아사쿠사 · 만다라케 · 메이지신궁 | 일본 여행 브이로그",
+        "description": "10월 도쿄로 3박 4일 가을 여행을 다녀왔어요~ ✈️   도쿄는 2년 전, 3월 말에 벚꽃을 보러 와봤지만 벚꽃은 보지 못하고 돌아가야 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iUND2SB5OBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iUND2SB5OBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iUND2SB5OBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iUND2SB5OBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iUND2SB5OBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/iUND2SB5OBQ/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "김무뇽 Kim Moo Nyong",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-06T08:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_4EDVBYxEqE3aBN9Eett1DbcS7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lvielRRKNcM"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-25T11:59:57Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【当日速報】今日7/25からスタート！小江戸川越が光に包まれる「川越百万灯夏まつり」 #川越百万灯夏まつり #夏祭り #百万灯",
+        "description": "夕方から街中が歩行者天国になって、提灯のライトアップが一斉に点灯！ 涼やかな「打ち水風情」や迫力ある太鼓に賑やかな ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lvielRRKNcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lvielRRKNcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lvielRRKNcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lvielRRKNcM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lvielRRKNcM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-25T11:59:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XlGxCB3BAoHaCDlINLNOOJCV_JA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dpMTwqGgZKg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-03T07:18:30Z",
+        "channelId": "UC-fgLWx__6DXIu4IkXR3h-A",
+        "title": "Day trip to Kawagoe from Tokyo #tokyotravel #japantravel #japantips",
+        "description": "Japan weather update Feb. 3 2025 we went quickly to Kawagoe for some Edo period vibes. This is day 13, by the way. FoIIow for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dpMTwqGgZKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dpMTwqGgZKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dpMTwqGgZKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dpMTwqGgZKg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dpMTwqGgZKg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jamimoy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-03T07:18:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ApPVRlOsQUlAKLntY_ODoTSdNR4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2BpG6DBFzi8"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-06T09:00:34Z",
+        "channelId": "UChJoyDzwsxvpWEGqnLUWe6A",
+        "title": "[4K] JR동일본 카와고에선 카와고에역 종착 안내방송(E233계 7000번대 106편성)",
+        "description": "2026년 4월 15일 촬영 JR동일본 카와고에선 카와고에행 열차 카와고에역 종착 안내방송 JR East Kawagoe Line The train for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2BpG6DBFzi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2BpG6DBFzi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2BpG6DBFzi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2BpG6DBFzi8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2BpG6DBFzi8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/2BpG6DBFzi8/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "KTX-1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-06T09:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "91TMqV3eN3_HNqYGyxAfJL1cpVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Aye3cT7tVyU"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-16T16:45:01Z",
+        "channelId": "UCWIXNquSjl25-jCPzJi7g3g",
+        "title": "Kawagoe: 30 min. from Tokyo. A Day Trip Guide to Kawagoe",
+        "description": "Kawagoe is a good day trip destination from Tokyo for travelers from abroad. It's only 30 min. by train, and you see historic temples ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aye3cT7tVyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tokyo Kenchan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-16T16:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S8F5a3YrVHxFq1u1dpGxp2lcIX8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fF7SbeTVkkQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-29T09:00:28Z",
+        "channelId": "UCwMthDSBlhgXiKN_BhiYa2g",
+        "title": "60 seconds of Kawagoe, old Japan must see near Tokyo.",
+        "description": "Kawagoe, also known as Little Edo is a rustic town located about 30mins by train from Tokyo that has maintained many of their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fF7SbeTVkkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fF7SbeTVkkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fF7SbeTVkkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fF7SbeTVkkQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fF7SbeTVkkQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AussieInJapan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-29T09:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GTorrHVVXY6GS5Hp6RWaT5FQTCs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EoODQXOu3RY"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-26T00:00:39Z",
+        "channelId": "UCl7m8jh1FfIyEfCpHevrK1w",
+        "title": "Only Local Travelers? Hidden Travel Spot &quot;Old Japan Little Edo&quot; Kawagoe in Saitama Prefecture Ep.468",
+        "description": "I hope this video gives you some inspiration for traveling or you feel like you are traveling with me! More adventures are coming so ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EoODQXOu3RY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rion Ishida",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-26T00:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UpyX_3BidAiMShjq5g1xbOg5E9I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bt-O-PhKLEg"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-16T12:00:47Z",
+        "channelId": "UCQUK-50VSGrlq0XnGV_iiSg",
+        "title": "#도쿄근교 #가와고에 #맛집 #토쿠가와 #장어덮밥",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bt-O-PhKLEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bt-O-PhKLEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bt-O-PhKLEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bt-O-PhKLEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bt-O-PhKLEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오늘만이야 only today",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-16T12:00:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h6E3PpArUriMfcNl5rlF_tLKDcs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v81Qf9uDfnI"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-19T02:00:58Z",
+        "channelId": "UCdn-0ENKxQ7yRmjJNPFTosg",
+        "title": "川越まつり 2025 Part.1🇯🇵 Kawagoe Festival 2025 Part.1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v81Qf9uDfnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v81Qf9uDfnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v81Qf9uDfnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v81Qf9uDfnI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v81Qf9uDfnI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Japan Silent Travel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-19T02:00:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-TpnTu2WM1gCTgGQqQtzmt5nAFY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T1GGJ9VBS4M"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-21T12:03:39Z",
+        "channelId": "UCzNly1WP9adXqvZKGL2dKHQ",
+        "title": "Kawagoe alternative #shorts #japaneseculture #asmrvideo #japan #museum #solotravel #marilynintokyo",
+        "description": "Escape the crowds and discover Tokyo's hidden gem, the Edo-Tokyo Open Air Architectural Museum! ‍♀️ Explore historic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T1GGJ9VBS4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T1GGJ9VBS4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T1GGJ9VBS4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T1GGJ9VBS4M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T1GGJ9VBS4M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "marilynintokyo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-21T12:03:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HX-OTRT4nGwLVe7DvohN7vFlAR4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y8lLPUqsgxs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-01T08:00:10Z",
+        "channelId": "UCZB8rCOxokKlwPmTUoLGiTQ",
+        "title": "街全体が祭り会場！ #川越まつり #伝統文化 #JapaneseFestival #Shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y8lLPUqsgxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y8lLPUqsgxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y8lLPUqsgxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y8lLPUqsgxs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y8lLPUqsgxs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "まつりだワッショイ!!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-01T08:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Uvg7o-kW6yjhjRHx08ASPvGTOc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ez9plbTEjB0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-11T15:08:28Z",
+        "channelId": "UCyPJAMJVUOKorZ0xrI6pMzg",
+        "title": "Kawagoe Sweet Potato Fair #japanesefood #events",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ez9plbTEjB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ez9plbTEjB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ez9plbTEjB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ez9plbTEjB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ez9plbTEjB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shinichi's World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-11T15:08:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JlCwJ_klKyXHutYhNEeAcW74YPI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mx8qQFz6g68"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-19T11:00:54Z",
+        "channelId": "UCsolWfiyibp7_c-kxS62NDw",
+        "title": "【小江戸川越 街散歩part1】歴史的な建造物が多く残る街をゆるっとお散歩！",
+        "description": "小江戸川越街散歩の長編も編集中です！ ショート動画で雰囲気をお楽しみください♪ I'm also editing a full-length walk in Little ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mx8qQFz6g68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mx8qQFz6g68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mx8qQFz6g68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mx8qQFz6g68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mx8qQFz6g68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "旅するLuceと中の人Porin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-19T11:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zqbQl_rX6V0h1uE_z-90FlY3yGY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NlKWusn1yGM"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-09T19:46:10Z",
+        "channelId": "UC9B5mjxBS6uouR-QcaZe6uw",
+        "title": "We made our own chopsticks in Japan at 📍Wood Works in Kawagoe!🥢 #shorts  #tokyo #kawagoe",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NlKWusn1yGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NlKWusn1yGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NlKWusn1yGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NlKWusn1yGM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NlKWusn1yGM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angela Huynh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-09T19:46:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W1o3iTUe26gV4BL81Y7a6-nJibA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "330zLNYJ-1g"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-28T07:00:05Z",
+        "channelId": "UC6e-6XCvcNl0tQaz_5bi73w",
+        "title": "Must-Try Eats in Kawagoe, Japan | #JanuaryRecommends",
+        "description": "Planning a day trip to Kawagoe from Tokyo? Don't miss these 3 must-try eats! Watch the full vlog for the full foodie experience, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/330zLNYJ-1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/330zLNYJ-1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/330zLNYJ-1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/330zLNYJ-1g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/330zLNYJ-1g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "January Days",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-28T07:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "blryoreRbevwhsyxkqMWE5K2mtw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AX9lF00Txks"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-08T04:30:09Z",
+        "channelId": "UCOIGO7FIW7rBqZr-cCMu3Nw",
+        "title": "10 places you must visit in Kawagoe (Saitama), Japan",
+        "description": "traveguidebuddy2024 #shorts #10placesyoumustvisit #travel #kawagoe #japan #traveguidebuddy2025.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AX9lF00Txks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Travel Guide Buddy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-08T04:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GXcu9Lz6b_k1ibUQpUyDTgSo5pI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xb2dZ-xFclg"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-18T11:00:22Z",
+        "channelId": "UCIhFQsd9osFdZvQgbXkM6Vg",
+        "title": "Escape Tokyo! Kawagoe Japan: A Perfect Day Trip (Little Edo) #japan #kyoto #kawagoe #shorts #reels",
+        "description": "Escape Tokyo! Kawagoe Japan: A Perfect Day Trip (Little Edo). Kyoto's Beauty and Charm without the crowds! Have you always ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xb2dZ-xFclg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Discover Wander",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-18T11:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hNt7MyIRSWQZGpsO6eHU-T8TpOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xlSJspcjUn8"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-11T09:46:08Z",
+        "channelId": "UCVRtwlfuXIR2YpMRB2i7mjA",
+        "title": "Hidden Soba Restaurant in Little Edo, Kawagoe, Saitama Prefecture, Japan 🇯🇵🗾💕",
+        "description": "Hidden Soba Restaurant in Little Edo, Kawagoe, Saitama Prefecture, Japan While avoiding the crowds in Saitama ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xlSJspcjUn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xlSJspcjUn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xlSJspcjUn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xlSJspcjUn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xlSJspcjUn8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KENO -- Good Vibes Only",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-11T09:46:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cBRpe9PCMVaOZTJpQD2KRLrs2hc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "omJHwbZrYuQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-26T09:00:14Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【川越で絶対外さない】老舗醤油店がつくる一度は食べたい絶品うどん　 #グルメ #川越グルメ #うどん",
+        "description": "蔵造り小路を抜けると、緑豊かな空間が広がる「金笛 うどん処 春夏秋冬」   おひとり様でも入りやすいカウンター席から、 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/omJHwbZrYuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/omJHwbZrYuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/omJHwbZrYuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/omJHwbZrYuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/omJHwbZrYuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/omJHwbZrYuQ/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-26T09:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4NWvJgXu6i_B4B9UUUgbRnIS4zM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yOMJySjcpTg"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-07T09:00:22Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【2026最新版】後編！百万灯夏まつりリポート 実際の提灯の数は何個あるのか歩いて全部調べた結果 #百万灯夏まつり #祭り #川越",
+        "description": "百万灯夏まつりとは、主に埼玉県川越市で毎年7月下旬に開催される 数多くの色鮮やかな提灯が街を彩る歴史ある夏の市民祭り ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOMJySjcpTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOMJySjcpTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOMJySjcpTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yOMJySjcpTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yOMJySjcpTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-07T09:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ae3txxXl66yb3WZ1OgP21XSZNpk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bc1ZetlSORQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-01T10:00:20Z",
+        "channelId": "UCMtjwYvS4cZdcKyRzNVB4BQ",
+        "title": "【川越ポタリング】小江戸川越の蔵造り・時の鐘から伊佐沼へ！歴史と田園をめぐる輪行サイクリング【DAHON Boardwalk】",
+        "description": "【川越ポタリング】小江戸川越の蔵造り・時の鐘から伊佐沼へ！歴史と田園をめぐる輪行サイクリング【DAHON Boardwalk】 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bc1ZetlSORQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ふうらり東京風来坊 ━ THE POTTERING-AROUND MAN CH ━",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-01T10:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gseSL4aGpzYQqF6Fu5JdCe1_H_M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aBcUtJcnIYQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-28T08:00:14Z",
+        "channelId": "UCQmVCZHdZid7VA9rA5jbEFw",
+        "title": "치이카와(Chiickaw) 토벌 모구모구혼포 뭐있나 봅시다!",
+        "description": "6월 일본여행 치이카와 토벌 중에 갔던곳 도쿄에서 1시간 거리에 있는 그곳에 갑니다. #치이카와 #chiikawa #토벌 #가와고에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aBcUtJcnIYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aBcUtJcnIYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aBcUtJcnIYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aBcUtJcnIYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aBcUtJcnIYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "보윤",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-28T08:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q7k4T16HRtkdEgLriR9-ZTWUFDE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_rPulnQM09E"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-06T08:57:15Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【必見】初めての川越観光！菓子屋横丁＆神社を着物で散策 #川越 #時の鐘 #菓子屋横丁",
+        "description": "色とりどりのガラスが散りばめられた石畳の道に、 約30軒ほどの菓子屋やお店がひしめく川越の人気スポット「菓子屋横丁」   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_rPulnQM09E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_rPulnQM09E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_rPulnQM09E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_rPulnQM09E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_rPulnQM09E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-06T08:57:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bfMb4LtQioc8cpeAFyMo7Xv33rM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9ghnQLPplv4"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-26T03:00:08Z",
+        "channelId": "UC7cyw80mU7CAeDW6FdP-xxw",
+        "title": "Bell Tower Kawagoe #shorts #japan #travelvlog #travel #japantravel #japanhistory #kawagoe #tokyo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ghnQLPplv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ghnQLPplv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ghnQLPplv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ghnQLPplv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ghnQLPplv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Christy Park",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-26T03:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "etojuWwCs8AkAoRCfYRVq3xyeSg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_63Pr-VcHfA"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-30T11:01:05Z",
+        "channelId": "UCGoOvFm6mbRhqfTfSCLBvpQ",
+        "title": "【Japan Guide】Kawagoe, Historical place 30 minutes from Tokyo / Kawagoe Masjid",
+        "description": "Kawagoe is historical place 30 minutes from Tokyo. There is mosque as well. Thank you for visiting Tokyo Muslim Stay!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_63Pr-VcHfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_63Pr-VcHfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_63Pr-VcHfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_63Pr-VcHfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_63Pr-VcHfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tokyo Muslim Stay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-30T11:01:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SZFsSEW6IL6MhHB1F2V-Vq7ntQs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V1Ifj_xGYAw"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-22T09:27:00Z",
+        "channelId": "UCofbh3Hk9Dc_5_mk-28iVfA",
+        "title": "🇯🇵기모노 입고 한류스타? 파스타? 체험기  着物着て韓流スター？パスタ? 体験する韓国人 | 가와고에 川越, 긴자 銀座, 도쿄맛집, 면세점 | 5박6일 감성?오타쿠?일본브이로그5",
+        "description": "모두들 안녕! 자몽이에요   가와고에와 긴자를 마지막으로 5박6일간의 여행 마무리했네요 그렇게 오자몽은 일본 워홀을 오게 됩니다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V1Ifj_xGYAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V1Ifj_xGYAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V1Ifj_xGYAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V1Ifj_xGYAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V1Ifj_xGYAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오자몽 Pink Lemon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-22T09:27:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "csEOP9L2-CZcbP88SEv0f5amgP0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dyO7s3BqvYw"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-10T19:00:38Z",
+        "channelId": "UCblGbwUExbZCCFb-n5f1sHg",
+        "title": "Everything I ate in Kawagoe, aka Japan’s sweet potato heaven 🍠",
+        "description": "Want my full Kawagoe Google Maps itinerary? Follow me on Instagram @polderexpress and comment \"kawagoe\" on any reel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dyO7s3BqvYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dyO7s3BqvYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dyO7s3BqvYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dyO7s3BqvYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dyO7s3BqvYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Paulina 🦋",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-10T19:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E6b44UrJKQq726NM8t05Dt2RvIM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oNZxLC-aajY"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-25T00:45:07Z",
+        "channelId": "UCfqV09AwP-baMoVIxnHyakQ",
+        "title": "일본여행 카와고에 파르페 딸기디저트 맛집 타카노 100년 전통 디저트",
+        "description": "일본여행 카와고에 파르페 딸기디저트 맛집 타카노 100년 전통 디저트.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oNZxLC-aajY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oNZxLC-aajY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oNZxLC-aajY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oNZxLC-aajY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oNZxLC-aajY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "사이먼쿤SimonKun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-25T00:45:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6bH8kGt4p1CQsN2-hQkEdi_oV8E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y-ytQcoaC14"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-02T09:01:29Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【2026】【謹賀新年】時の鐘をドローンで撮影したら絶景だった #川越 #時の鐘 #ドローン",
+        "description": "新年あけましておめでとうございます！本年も何卒よろしくお願いいたします！ 今回は早朝の時の鐘をドローンで撮影した映像を ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y-ytQcoaC14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y-ytQcoaC14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y-ytQcoaC14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y-ytQcoaC14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y-ytQcoaC14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-02T09:01:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A9ZS17zJTPSwVsO-hcVWlOmIxKs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nCYY9NB9GBA"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-26T09:01:32Z",
+        "channelId": "UCzzNauFBCq3l7C9TrmiIo-g",
+        "title": "【川越グルメ】幸すしの江戸前にぎり｜一貫に込められた丁寧な職人技 #川越 #グルメ #観光",
+        "description": "埼玉・川越に店を構える寿司の名店「幸すし」。創業明治11年。 丁寧な仕込みと確かな職人技が光る正統派の江戸前寿司・江戸前 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nCYY9NB9GBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nCYY9NB9GBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCYY9NB9GBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nCYY9NB9GBA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nCYY9NB9GBA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "川越TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-26T09:01:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S6Bl_a8IoAZkZZp3pTQ_rxPK2-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pXh5X_7-cvw"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-26T14:15:02Z",
+        "channelId": "UCzJ6ES_WmUfVAqiY9AAwZYQ",
+        "title": "[프리마켓] 원칩 슈퍼패미컴이 3,000원!! 카와고에 수상공원 프리마켓 / 1CHIPスーパーファミコンが300円！川越水上公園フリーマーケット / Kawagoe Aquatic Park",
+        "description": "카와고에 수상공원 川越水上公園 주소 : 〒350-1171 埼玉県川越市池辺880 TEL : 049-241-2241 홈페이지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pXh5X_7-cvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pXh5X_7-cvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pXh5X_7-cvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pXh5X_7-cvw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pXh5X_7-cvw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "승이tv / SeungTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-26T14:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mkSuHxNmmA6t8neqwx3alTlBTlI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "47yqNhUY-ps"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-17T09:00:05Z",
+        "channelId": "UChJoyDzwsxvpWEGqnLUWe6A",
+        "title": "[4K] JR동일본 사이쿄선 통근쾌속 카와고에행 2169S 이타바시역 진입,출발(E233계 7000번대 137편성)",
+        "description": "2026년 4월 14일 촬영 JR동일본 사이쿄선 통근쾌속 카와고에행 열차 이타바시역 진입,출발 JR East Saikyō Line The Commuter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/47yqNhUY-ps/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "KTX-1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-17T09:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hiZXED1Ok-xhLVaOJySHKdRxlfM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ffd8Ltp8y-Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-21T09:00:19Z",
+        "channelId": "UChJoyDzwsxvpWEGqnLUWe6A",
+        "title": "[4K] JR동일본 사이쿄선 통근쾌속 카와고에행 83 신주쿠역 진입,출발(도쿄 임해고속철도 70-000형 Z10편성)",
+        "description": "2026년 2월 17일 촬영 JR동일본 사이쿄선 통근쾌속 카와고에행 열차 신주쿠역 진입,출발 JR East Saikyō Line The Commuter Rapid ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ffd8Ltp8y-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ffd8Ltp8y-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ffd8Ltp8y-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ffd8Ltp8y-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ffd8Ltp8y-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/Ffd8Ltp8y-Q/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "KTX-1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-21T09:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pAQ3WPjVjh9Qdq9t2hF7DTqyEXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q1rj91_3pYk"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-10T09:00:15Z",
+        "channelId": "UChJoyDzwsxvpWEGqnLUWe6A",
+        "title": "[4K] 도부 토죠선 급행 이케부쿠로행 카와고에역 진입,출발(도부 10030계 11640F)",
+        "description": "2026년 4월 15일 촬영 도부 토죠선 급행 이케부쿠로행 열차 카와고에역 진입,출발 Tobu Tojo Line, The Express train for Ikebukuro, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q1rj91_3pYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q1rj91_3pYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q1rj91_3pYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q1rj91_3pYk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q1rj91_3pYk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/q1rj91_3pYk/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "KTX-1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-10T09:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zjMt_iw3d_jzw_dYJsI_dCUU3u4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v-adicJhCME"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-04T12:34:22Z",
+        "channelId": "UCaAtrtOgWUbA0CnKP9eC5sg",
+        "title": "도쿄여행",
+        "description": "도쿄 4박5일 일정 (10/16~10/20) ✈️ 항공 (에어프레미아) 출국 10/16(금) YP731 인천 08:50 → 나리타 11:20 귀국 10/20(화) YP734 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v-adicJhCME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v-adicJhCME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v-adicJhCME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v-adicJhCME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v-adicJhCME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/v-adicJhCME/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "TRIP002",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-04T12:34:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iaLUlNkS-QtvY2pJa1lRRIuHPsA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vyA2sJaqaqQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-17T09:01:09Z",
+        "channelId": "UChJoyDzwsxvpWEGqnLUWe6A",
+        "title": "[4K] JR동일본 사이쿄선 각역정차 카와고에행 2107K 이케부쿠로역 진입(E233계 7000번대 125편성)",
+        "description": "2026년 2월 17일 촬영 JR동일본 사이쿄선 각역정차 카와고에행 열차 이케부쿠로역 진입 JR East Saikyō Line The Local train for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vyA2sJaqaqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vyA2sJaqaqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vyA2sJaqaqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vyA2sJaqaqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vyA2sJaqaqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/vyA2sJaqaqQ/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "KTX-1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-17T09:01:09Z"
+      }
+    }
+  ]
+}
